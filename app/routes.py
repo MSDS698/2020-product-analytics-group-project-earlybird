@@ -3,11 +3,13 @@ from flask import flash, redirect, render_template, url_for
 from flask_login import current_user, login_user, login_required, logout_user
 from flask_bootstrap import Bootstrap
 
+
 @application.route('/index')
 @application.route('/')
 def index():
 
-   return render_template('index.html')
+    return render_template('index.html')
+
 
 @application.route('/register', methods=('GET', 'POST'))
 def register():
@@ -16,10 +18,8 @@ def register():
         username = registration_form.username.data
         password = registration_form.password.data
         email = registration_form.email.data
-        ##################################
-        #### UPDATE THIS (EXERCISE 1) ####
-        ##################################
-        user_count = classes.User.query.filter_by(username=username).count() + classes.User.query.filter_by(email=email).count()
+        user_count = classes.User.query.filter_by(username=username).count(
+        ) + classes.User.query.filter_by(email=email).count()
         if (user_count == 0):
             user = classes.User(username, email, password)
             db.session.add(user)
@@ -48,9 +48,7 @@ def login():
     return render_template('Login_1.html', form=login_form)
 
 
-
 @application.route('/register_project', methods=['GET', 'POST'])
-
 def register_project():
     project_form = classes.ProjectForm()
     if project_form.validate_on_submit():
@@ -61,7 +59,7 @@ def register_project():
         project = classes.Project(Net_Wealth, Annual_Income, Age, user_name)
         db.session.add(project)
         db.session.commit()
-        #return redirect(url_for('index'))
+        # return redirect(url_for('index'))
 
         if Age >= 22 and Net_Wealth >= 100000:
             return redirect(url_for('login'))
@@ -69,20 +67,23 @@ def register_project():
             return redirect(url_for('not_qualify'))
     return render_template('project_entry.html', form=project_form)
 
+
 @application.route('/dashboard', methods=['GET', 'POST'])
 def dashboard():
 
-   return render_template('dashboard.html')
+    return render_template('dashboard.html')
+
 
 @application.route('/not_qualify', methods=['GET', 'POST'])
 def not_qualify():
 
-   return render_template('not_qualify.html')
+    return render_template('not_qualify.html')
+
 
 @application.route('/duplicate', methods=['GET', 'POST'])
 def duplicate():
 
-   return render_template('duplicate.html')
+    return render_template('duplicate.html')
 
 
 @application.route('/logout')
@@ -94,5 +95,5 @@ def logout():
 
     after_logout = '<h1> After logout - is_autheticated : ' \
                    + str(current_user.is_authenticated) + '</h1>'
-    #return before_logout + after_logout
+    # return before_logout + after_logout
     return redirect(url_for('index'))

@@ -2,10 +2,11 @@ from flask_login import UserMixin
 from flask_wtf import FlaskForm
 
 from werkzeug.security import check_password_hash, generate_password_hash
-from wtforms import  DateField, IntegerField, PasswordField, SelectField, StringField, SubmitField, FloatField
+from wtforms import DateField, IntegerField, PasswordField, SelectField, StringField, SubmitField, FloatField
 from wtforms.validators import DataRequired
 
 from app import db, login_manager
+
 
 class Project(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -38,11 +39,13 @@ class User(db.Model, UserMixin):
     def check_password(self, password):
         return check_password_hash(self.password_hash, password)
 
+
 class RegistrationForm(FlaskForm):
     username = StringField('Username:', validators=[DataRequired()])
     email = StringField('Email:', validators=[DataRequired()])
     password = PasswordField('Password:', validators=[DataRequired()])
     submit = SubmitField('Submit')
+
 
 class ProjectForm(FlaskForm):
     Net_Wealth = FloatField('Net Wealth:', validators=[DataRequired()])
@@ -51,10 +54,12 @@ class ProjectForm(FlaskForm):
     username = StringField('Username:', validators=[DataRequired()])
     submit = SubmitField('Submit')
 
+
 class LogInForm(FlaskForm):
     username = StringField('Username:', validators=[DataRequired()])
     password = PasswordField('Password:', validators=[DataRequired()])
     submit = SubmitField('Login')
+
 
 db.create_all()
 db.session.commit()
