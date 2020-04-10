@@ -2,7 +2,7 @@
     "pipeline": {
         "name": "EarlyBird_Pipeline",
         "version": 1,
-        "roleArn": "arn:aws:iam::932431442585:role/service-role/AWSCodePipelineServiceRole-us-west-2-msds603_Week1_test_rd",
+        "roleArn": "arn:aws:iam::374226464461:role/service-role/AWSCodePipelineServiceRole-us-west-2-MSDS603_Week1",
         "artifactStore": {
             "type": "S3",
             "location": "early-bird-1"
