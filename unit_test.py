@@ -15,12 +15,12 @@ def test_colname():
 
 def test_qualifieduser():
 	#Assume user has entered a age>= 22 or net_wealth >=10000 to be a qualified user
-	assert classes.Project.query.filter_by(username='ddd').first().Age >=22
-	assert classes.Project.query.filter_by(username='ddd').first().Net_Wealth >=100000
+	assert classes.Project.query.filter_by(user_name='ddd').first().Age >=22
+	assert classes.Project.query.filter_by(user_name='ddd').first().Net_Wealth >=100000
 
 
 def test_user():
 	# Assuming that "ddd, d@gmail.com, 1234" is always in the database
-	assert classes.User.query.filter_by(username='ddd').first().email == 'd@gmail.com'
-	assert classes.User.query.filter_by(username='ddd').first().username == 'ddd'
-	assert classes.User.query.filter_by(username='ddd').check_password_hash("1234") == True
+	assert classes.User.query.filter_by(user_name='ddd').first().email == 'd@gmail.com'
+	assert classes.User.query.filter_by(user_name='ddd').first().user_name == 'ddd'
+	assert classes.User.query.filter_by(user_name='ddd').check_password_hash("1234") == True
