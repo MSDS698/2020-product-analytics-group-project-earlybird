@@ -2,8 +2,6 @@ from app import application, classes, db
 from flask import flash, redirect, render_template, url_for
 from flask_login import current_user, login_user, login_required, logout_user
 from flask_bootstrap import Bootstrap
-import boto3
-
 
 
 
@@ -12,7 +10,6 @@ import boto3
 def index():
 
    return render_template('index.html', authenticated_user=current_user.is_authenticated)
-
 
 @application.route('/register', methods=('GET', 'POST'))
 def register():
@@ -55,11 +52,7 @@ def login():
 
 
 
-<<<<<<< HEAD
-
-=======
 @application.route('/question', methods=['GET', 'POST'])
->>>>>>> week6
 def register_project():
     project_form = classes.ProjectForm()
     if project_form.validate_on_submit():
@@ -78,33 +71,14 @@ def register_project():
             return redirect(url_for('not_qualify'))
     return render_template('question.html', form=project_form, authenticated_user=current_user.is_authenticated)
 
-<<<<<<< HEAD
-
-@application.route('/dashboard', methods=['GET', 'POST'])
-def dashboard():
-
-   return render_template('dashboard.html')
-=======
 @application.route('/example')
 def example():
    return render_template('example.html')
->>>>>>> week6
-
 
 @application.route('/not_qualify', methods=['GET', 'POST'])
 def not_qualify():
     return render_template('not_qualify.html')
 
-<<<<<<< HEAD
-   return render_template('not_qualify.html')
-
-
-@application.route('/duplicate', methods=['GET', 'POST'])
-def duplicate():
-
-   return render_template('duplicate.html')
-=======
->>>>>>> week6
 
 
 @application.route('/logout')
@@ -118,11 +92,3 @@ def logout():
                    + str(current_user.is_authenticated) + '</h1>'
     #return before_logout + after_logout
     return redirect(url_for('index'))
-
-
-@application.route('/savedata')
-def save_data():
-    data = b"This is the test data."
-    s3 = boto3.resource("s3")
-    object = s3.Object("earlybird-data", "stock/test.txt")
-    object.put(Body=data)
