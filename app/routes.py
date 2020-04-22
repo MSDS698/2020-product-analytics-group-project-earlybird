@@ -5,11 +5,13 @@ from flask_bootstrap import Bootstrap
 import boto3
 
 
+
+
 @application.route('/index')
 @application.route('/')
 def index():
 
-   return render_template('index.html')
+   return render_template('index.html', authenticated_user=current_user.is_authenticated)
 
 
 @application.route('/register', methods=('GET', 'POST'))
@@ -29,9 +31,8 @@ def register():
             db.session.commit()
             return redirect(url_for('register_project'))
         else:
-            #raise ValidationError('Please use a different username.')
-            return redirect(url_for('duplicate'))
-    return render_template('register_1.html', form=registration_form)
+            flash('Username or Email already exist!')
+    return render_template('register.html', form=registration_form)
 
 
 @application.route('/login', methods=['GET', 'POST'])
@@ -46,15 +47,19 @@ def login():
         # Login and validate the user.
         if user is not None and user.check_password(password):
             login_user(user)
-            return redirect(url_for('dashboard'))
+            return redirect(url_for('example'))
+        else:
+            flash('Invalid username and password combination!')
 
-    return render_template('Login_1.html', form=login_form)
-
-
-
-@application.route('/register_project', methods=['GET', 'POST'])
+    return render_template('login.html', form=login_form, authenticated_user=current_user.is_authenticated)
 
 
+
+<<<<<<< HEAD
+
+=======
+@application.route('/question', methods=['GET', 'POST'])
+>>>>>>> week6
 def register_project():
     project_form = classes.ProjectForm()
     if project_form.validate_on_submit():
@@ -71,18 +76,26 @@ def register_project():
             return redirect(url_for('login'))
         else:
             return redirect(url_for('not_qualify'))
-    return render_template('project_entry.html', form=project_form)
+    return render_template('question.html', form=project_form, authenticated_user=current_user.is_authenticated)
 
+<<<<<<< HEAD
 
 @application.route('/dashboard', methods=['GET', 'POST'])
 def dashboard():
 
    return render_template('dashboard.html')
+=======
+@application.route('/example')
+def example():
+   return render_template('example.html')
+>>>>>>> week6
 
 
 @application.route('/not_qualify', methods=['GET', 'POST'])
 def not_qualify():
+    return render_template('not_qualify.html')
 
+<<<<<<< HEAD
    return render_template('not_qualify.html')
 
 
@@ -90,6 +103,8 @@ def not_qualify():
 def duplicate():
 
    return render_template('duplicate.html')
+=======
+>>>>>>> week6
 
 
 @application.route('/logout')

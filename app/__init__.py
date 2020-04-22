@@ -14,7 +14,7 @@ db.create_all()
 db.session.commit()
 
 # Bootstrap
-Bootstrap(application)
+bootstrap = Bootstrap(application)
 
 # login_manager needs to be initiated before running the app
 login_manager = LoginManager()

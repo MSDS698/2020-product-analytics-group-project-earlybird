@@ -1,15 +1,23 @@
-<html>
-<h1>Login</h1>
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
 
+{% block title %}
+Login
+{% endblock %}
+
+{% block navbar %}
+    {% include 'navbar.html' %}
+{% endblock %}
+
+
+{% block content %}
 <div class="container">
+    {% include 'flash.html' %}
     <form method="POST">
-        {{ form.csrf_token }}
-        {{ form.username.label}} {{form.username()}} <br/>
-        {{ form.password.label}} {{form.password()}}<br/>
-        {{ form.submit()}}
-
+        <h2>Login</h2>
+        {{ wtf.quick_form(form) }}
     </form>
-    </br>
+</br>
+<center> Don't have an account? <a href="register">Create one now</a> </center>
 </div> <!-- /container -->
-
-</html>
+{% endblock %}

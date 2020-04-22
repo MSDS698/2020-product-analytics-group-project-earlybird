@@ -1,16 +1,27 @@
-<html>
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Register
+{% endblock %}
+
+{% block navbar %}
+    {% include 'navbar.html' %}
+{% endblock %}
+
+{% block content %}
 <div class="container">
+    {% include 'flash.html' %}
 
     <form method="POST"> <!-- post : handle submission -->
-        <h2>Sign Up </h2>
-        {{ form.csrf_token }}
-        {{ form.username.label}} {{form.username()}} <br/>
-        {{ form.email.label}} {{form.email()}}<br/>
-        {{ form.password.label}} {{form.password()}}<br/>
-        {{ form.submit()}}
-
+        <h3> Sign Up </h3>
+        {{ form.hidden_tag() }}
+        {{ wtf.form_field(form.username) }}
+        {{ wtf.form_field(form.email) }}
+        {{ wtf.form_field(form.password) }}
+        <center> {{ wtf.form_field(form.submit)}} </center>
     </form>
     <br/>
-
+    <center> Already have an account? <a href="login">Log in</a> </center>
 </div> <!-- /container -->
-</html>
+{% endblock %}
