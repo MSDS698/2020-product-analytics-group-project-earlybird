@@ -6,8 +6,8 @@ Index
 
 {% block head %}
 {{super()}}
-<link href="../static/css/bootstrap.min.css" rel="stylesheet">
-<link href="../static/css/index.css" rel="stylesheet">
+<link href = {{url_for('static',filename='bootstrap.min.css')}} rel="stylesheet">
+<link href = {{url_for('static',filename='index.css')}} rel="stylesheet">
 {% endblock %}
 
 
