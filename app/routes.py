@@ -86,7 +86,7 @@ def example():
 
 
 @application.route('/dashboard')
-# @login_required
+@login_required
 def dashboard():
     # assign cluster: test case
     n_clusters = 4
