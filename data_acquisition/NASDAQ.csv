@@ -1,0 +1,3562 @@
+,Symbol,Description
+0,AACG,Ata Creativity Global
+1,AAL,American Airlines Gp
+2,AAME,Atlantic Amer Cp
+3,AAOI,Applied Optoelect
+4,AAON,Aaon Inc
+5,AAPL,Apple Inc
+6,AAWW,Atlas Air Ww
+7,AAXJ,All Country Asia Ex Japan Ishares MSCI ETF
+8,AAXN,Axon Inc
+9,ABCB,Ameris Bancorp
+10,ABEO,Abeona Therapeutics
+11,ABIO,Arca Biopharma Inc
+12,ABMD,Abiomed Inc
+13,ABTX,Allegiance Banc CS
+14,ABUS,Arbutus Biopharma Cp
+15,ACAD,Acadia Pharmaceutica
+16,ACAM,Acamar Partners Acquisition Corp Cl A
+17,ACAMU,Acamar Partners Acquisition Corp Units
+18,ACAMW,Acamar Partners Acquisition Corp WT
+19,ACBI,Atlantic Capital
+20,ACER,Acer Therapeutics Inc
+21,ACGL,Arch Capital Grp Ltd
+22,ACGLO,Arch Capital Group Ltd ADR
+23,ACGLP,Arch Capital Group Ltd
+24,ACHC,Acadia Healthcr Company
+25,ACHV,Achieve Life Sciences Inc
+26,ACIA,Acacia Communica
+27,ACIU,AC Immune S.A.
+28,ACIW,Aci Worldwide Inc
+29,ACLS,Axcelis Tech Inc
+30,ACMR,Acm Research Inc
+31,ACNB,Acnb Corp
+32,ACOR,Acorda Therapeutics
+33,ACRS,Aclaris Therapts
+34,ACRX,Acelrx Pharmaceutica
+35,ACST,Acasti Pharma
+36,ACT,Advisorshares Vice ETF
+37,ACTG,Acacia Res-Acacia
+38,ACTT,Act II Global Acquisition Corp Cl A
+39,ACTTU,Act II Global Acquisition Corp Unit
+40,ACTTW,Act II Global Acquisition Corp WT
+41,ACWI,ACWI Ishares MSCI ETF
+42,ACWX,ACWI Ex US Ishares MSCI ETF
+43,ADAP,Adaptimmune Ther Ads
+44,ADBE,Adobe Systems Inc
+45,ADES,Advanced Emissions Solutions Inc
+46,ADI,Analog Devices
+47,ADIL,Adial Pharmaceuticals Inc
+48,ADILW,Adial Pharmaceuticals Inc WT
+49,ADMA,Adma Biologics
+50,ADMP,Adamis Pharmaceuticl
+51,ADMS,Adamas Pharma
+52,ADP,Automatic Data Procs
+53,ADPT,Adaptive Biotechnologies Corp
+54,ADRE,Bldrs Emerging Markets 50 ADR Index Fund Invesco
+55,ADRO,Aduro Biotech
+56,ADSK,Autodesk Inc
+57,ADTN,Adtran Inc
+58,ADUS,Addus Homecare Corp
+59,ADVM,Adverum Biotechnlgs
+60,ADXN,Addex Therapeutics Ltd ADR
+61,ADXS,Advaxis Inc
+62,AEGN,Aegion Corp
+63,AEHR,Aehr Test Systems
+64,AEIS,Advanced Energy
+65,AEMD,Aethlon Medical
+66,AERI,Aerie Pharmaceuticals
+67,AESE,Allied Esports Entertainment Inc
+68,AEY,Addvantage Techs Group
+69,AEYE,Audioeye Inc
+70,AEZS,Aeterna Zentaris
+71,AFH,Atlas Financial Hlds
+72,AFIN,American Finance Trust Inc Cl A
+73,AFINP,American Finance Trust Inc Pfd Ser A
+74,AFMD,Affimed N.V.
+75,AFYA,Afya Ltd Cl A
+76,AGBA,Agba Acquisition Ltd
+77,AGBAR,Agba Acquisition Ltd Right
+78,AGBAU,Agba Acquisition Ltd Unit
+79,AGBAW,Agba Acquisition Ltd WT
+80,AGEN,Agenus Inc
+81,AGFS,Agrofresh Solutions
+82,AGFSW,Agrofresh Sol Wrrnts
+83,AGIO,Agios Pharmaceuticals
+84,AGLE,Aeglea Biothera
+85,AGMH,Agm Group Holdings Inc Cl A
+86,AGNC,American Capital Age
+87,AGNCM,Agnc Investment Corp Cum Red Pfd Ser D Fixed To
+88,AGNCN,Agnc Investment Corp
+89,AGNCO,Agnc Investment Corp Fxdfr Prf Perpetual USD 25
+90,AGNCP,Agnc Investment Corp.
+91,AGND,Wisdomtree Neg Duration US Agg Bond Fund
+92,AGRX,Agile Therap
+93,AGTC,Applied Genetic Tech
+94,AGYS,Agilysys Inc
+95,AGZD,Wisdomtree Int Rate US Agg Bond Fund
+96,AHCO,Adapthealth Corp. Cl. A
+97,AHPI,Allied Healthcare
+98,AIA,Asia 50 Ishares ETF
+99,AIH,Aesthetic Medical International Holdings Group L
+100,AIHS,Senmiao Technology Ltd
+101,AIKI,Alkido Pharma Inc.
+102,AIMC,Altra Indtl Mtn
+103,AIMT,Aimmune Therap
+104,AINV,Apollo Investment Company
+105,AIQ,Global X Future Analytics Tech ETF
+106,AIRG,Airgain Inc
+107,AIRR,Rba American Industrial Renaissance ETF FT
+108,AIRT,Air T Inc
+109,AIRTP,Air T Inc Funding Alpha Income Trust Preferred
+110,AIRTW,Air T Inc Funding WT
+111,AKAM,Akamai Technologies
+112,AKBA,Akebia Therapeutics
+113,AKCA,Akcea Therapeutics Inc
+114,AKER,Akers Biosciences
+115,AKRO,Akero Therapeutics Inc
+116,AKRX,Akorn Inc
+117,AKTS,Akoustis Technologies Inc
+118,AKTX,Akari Therapeutics
+119,ALAC,Alberton Acquisition Corp
+120,ALACR,Alberton Acquisition Corporation Rights
+121,ALACU,Alberton Acquisition Corp Unit
+122,ALACW,Alberton Acquisition Corp WT
+123,ALBO,Albireo Pharma Inc
+124,ALCO,Alico Inc
+125,ALDX,Aldeyra Therapeu
+126,ALEC,Alector Inc
+127,ALGN,Align Technology
+128,ALGR,Allegro Merger Corp
+129,ALGRR,Allegro Merger Corp Right
+130,ALGRU,Allegro Merger Corp Unit
+131,ALGRW,Allegro Merger Corp WT
+132,ALGT,Allegiant Travel Com
+133,ALIM,Alimera Sciences Inc
+134,ALJJ,Alj Regional Hold
+135,ALKS,Alkermes Plc
+136,ALLK,Allakos Inc
+137,ALLO,Allogene Therapeutics Inc
+138,ALLT,Allot Communications
+139,ALNA,Allena Pharmaceuticals Inc
+140,ALNY,Alnylam Pharmaceuticals
+141,ALOT,Astronova Inc
+142,ALPN,Alpine Immune Sciences Inc
+143,ALRM,Alarm.com
+144,ALRN,Aileron Therapeutics Inc
+145,ALRS,Alerus Financial Corp
+146,ALSK,Alaska Commun Sys
+147,ALT,Altimmune Inc
+148,ALTM,Altus Midstream Company
+149,ALTR,Altair Engineering Inc Cl A
+150,ALTY,G-X Super Dividend Alternatives ETF
+151,ALXN,Alexion Pharm Inc
+152,ALYA,Alithya Group Inc Cl A
+153,AMAG,Amag Pharmaceuticals
+154,AMAL,Amalgamated Bk
+155,AMAT,Applied Materials
+156,AMBA,Ambarella Inc
+157,AMCA,Russell 1000 Pure US Rev Ishares ETF
+158,AMCI,Amci Acquisition Corp Cl A
+159,AMCIU,Amci Acquisition Corp Unit
+160,AMCIW,Amci Acquisition Corp WT
+161,AMCX,Amc Networks Cl A
+162,AMD,Adv Micro Devices
+163,AMED,Amedisys Inc
+164,AMEH,Apollo Medical Holdings Inc
+165,AMGN,Amgen Inc
+166,AMHC,Amplitude Healthcare Acquisition Corporation Cl
+167,AMHCU,Amplitude Healthcare Acquisition Corp
+168,AMHCW,Amplitude Healthcare Acquisition Corporation WT
+169,AMKR,Amkor Technology
+170,AMNB,American Natl Bksh
+171,AMOT,Allied Motion Tech
+172,AMPH,Amphastar Pharma
+173,AMRB,American River Bkshs
+174,AMRH,Ameri Holdings Inc
+175,AMRHW,Ameri Holdings Inc WT
+176,AMRK,A-Mark Precious Meta
+177,AMRN,Amarin Corp Ads
+178,AMRS,Amyris Inc
+179,AMSC,Amer Superconductor
+180,AMSF,Amerisafe Inc
+181,AMSWA,Amer Software Inc
+182,AMTB,Mercantil Bank Holding Cl A
+183,AMTBB,Mercantil Bank Holding Cl B
+184,AMTD,TD Ameritrade HD
+185,AMTX,Aemetis Inc
+186,AMWD,Amer Woodmark Cp
+187,AMZN,Amazon.com Inc
+188,ANAB,Anaptysbio Inc
+189,ANAT,Amer Natl Insurance
+190,ANCN,Anchiano Therapeutics Ltd ADR
+191,ANDA,Andina Acquisition Corp III
+192,ANDAR,Andina Acquisition Corp III Right
+193,ANDAU,Andina Acquisition Corp III Unit
+194,ANDAW,Andina Acquisition Corp III WT
+195,ANDE,Andersons Inc
+196,ANGI,Homeservices Inc
+197,ANGL,Fallen Angel HY Bond ETF Vaneck
+198,ANGO,Angiodynamics Inc
+199,ANIK,Anika Therapeutics
+200,ANIP,ANI Pharma Inc
+201,ANIX,Anixa Biosciences Inc
+202,ANPC,Anpac Bio-Medical Science CO ADR
+203,ANSS,Ansys Inc
+204,ANTE,Airnet Technology Inc
+205,ANY,Sphere 3D Corp
+206,AOBC,American Outdoor Brands Corp
+207,AOSL,Alpha and Omega Semi
+208,APDN,Applied Dna Scns
+209,APEI,American Public Eduducation
+210,APEN,Apollo Endosurgery Inc
+211,APEX,Apex Global Brands Inc
+212,APLS,Apellis Pharmaceuticals Inc
+213,APLT,Applied Therapeutics Inc
+214,APM,Aptorum Group Ltd Cl A
+215,APOG,Apogee Entrpr Inc
+216,APOP,Cellect Biotechnology Ltd
+217,APOPW,Cellect Biotechnology Ltd
+218,APPF,Appfolio Cl A
+219,APPN,Appian Corp Cl A
+220,APPS,Digital Turbine
+221,APRE,Aprea Therapeutics Inc
+222,APTO,Aptose Bioscns
+223,APTX,Aptinyx Inc
+224,APVO,Aptevo Therapeutics Inc
+225,APWC,Asia Pacific Wire & Cable
+226,APXT,Apex Technology Acquisition Corporation Cl A
+227,APXTU,Apex Technology Acquisition Corp
+228,APXTW,Apex Technology Acquisition Corporation WT
+229,APYX,Apyx Medical Corp
+230,AQB,Aquabounty Technologies Inc
+231,AQMS,Aqua Metals Inc
+232,AQST,Aquestive Therapeutics Inc
+233,ARAV,Aravive Inc
+234,ARAY,Accuray Incorporated
+235,ARCB,Arcbest Corp
+236,ARCC,Ares Capital Corp
+237,ARCE,Arco Platform Ltd Cl A
+238,ARCT,Arcturus Therapeutics Ltd
+239,ARDS,Aridis Pharmaceuticals Inc
+240,ARDX,Ardelyx Inc
+241,AREC,American Resources Corp
+242,ARGX,Argenx Se Ads
+243,ARKR,Ark Restaurants Cp
+244,ARLP,Alliance Resource Pt
+245,ARNA,Arena Pharmaceuticals
+246,AROW,Arrow Financial Corp
+247,ARPO,Aerpio Pharmaceuticals Inc
+248,ARQT,Arcutis Biotherapeutics Inc
+249,ARTL,Artelo Biosciences Inc
+250,ARTLW,Artelo Biosciences Inc WT
+251,ARTNA,Artesian Res Cp A
+252,ARTW,Art S Way MFG Company
+253,ARVN,Arvinas Inc
+254,ARWR,Arrowhead Pharma
+255,ARYA,Arya Sciences Acquisiton Corp Cl A
+256,ARYAU,Arya Sciences Acquisiton Corp Unit
+257,ARYAW,Arya Sciences Acquisiton Corp WT
+258,ASET,Flexshares Real Assets Allocation Index Fund
+259,ASFI,Asta Funding Inc
+260,ASLN,Aslan Pharmaceuticals Ltd ADR
+261,ASMB,Assembly Biosciences
+262,ASML,Asml Hld NY Reg
+263,ASNA,Ascena Retail Group
+264,ASND,Ascendis Pharma Ads
+265,ASPS,Altisource Portfolio
+266,ASPU,Aspen Group Inc
+267,ASRT,Assertio Therapeutics Inc
+268,ASRV,Ameriserv Financial
+269,ASRVP,Ameriserv Fin Cap
+270,ASTC,Astrotech Corp
+271,ASTE,Astec Inds Inc
+272,ASUR,Asure Software
+273,ASYS,Amtech Systems Inc
+274,ATAX,Amer First Mf Inv
+275,ATCX,Atlas Technical Consultants Inc.
+276,ATCXW,Atlas Technical Consultants Inc.
+277,ATEC,Alphatec Holdings
+278,ATEX,Pdvwireless
+279,ATHE,Alterity Therapeutics Ltd
+280,ATHX,Athersys Inc
+281,ATIF,Atif Holdings Ltd
+282,ATLC,Atlanticus Hld Cp
+283,ATLO,Ames Natl Corp
+284,ATNI,Atn International
+285,ATNX,Athenex Inc
+286,ATOM,Atomera Inc
+287,ATOS,Atossa Genetics Inc
+288,ATRA,Atara Biotherap
+289,ATRC,Atricure Inc
+290,ATRI,Atrion Corp
+291,ATRO,Astronics Cp
+292,ATRS,Antares Pharma
+293,ATSG,Air Transport
+294,ATVI,Activision Blizzard
+295,ATXI,Avenue Therapeutics Inc
+296,AUB,Atlantic Union Bancshares Corp
+297,AUBN,Auburn Natl Bncp
+298,AUDC,Audiocodes Ltd
+299,AUPH,Aurinia Pharm Ord
+300,AUTL,Autolus Therapeutics Plc ADR
+301,AUTO,Autoweb Inc
+302,AVAV,Aerovironment Inc
+303,AVCO,Avalon Globocare
+304,AVDL,Avadel Pharmaceuticals Plc
+305,AVEO,Aveo Pharmaceuticals
+306,AVGO,Broadcom Ltd
+307,AVGOP,Broadcom Inc 8% Prf Undated USD 1000 Ser A
+308,AVGR,Avinger Inc
+309,AVID,Avid Tech Inc
+310,AVNW,Aviat Networks Inc
+311,AVRO,Avrobio Inc
+312,AVT,Avnet Inc
+313,AVXL,Anavex Lf SC
+314,AWRE,Aware Inc
+315,AXAS,Abraxas Petro Corp
+316,AXDX,Accelerate Diagnosti
+317,AXGN,Axogen Inc
+318,AXGT,Axovant Sciences Ltd
+319,AXLA,Axcella Health Inc
+320,AXNX,Axonics Modulation Technologies Inc
+321,AXSM,Axsome Thera
+322,AXTI,Axt Inc
+323,AY,Atlantica Yield Plc
+324,AYTU,Aytu Bioscience Inc
+325,AZPN,Aspen Technology
+326,AZRX,Azurrx Biopharma Inc
+327,BAND,Bandwidth Inc
+328,BANF,Bancfirst Corp
+329,BANFP,Bfc Capital Trust II
+330,BANR,Banner Corp
+331,BANX,Stonecastle Fncl Cp
+332,BASI,Bioanalytical Syst
+333,BATRA,Liberty Braves CS A
+334,BATRK,Liberty Braves CS C
+335,BBBY,Bed Bath & Beyond
+336,BBCP,Concrete Pumping Holdings Inc
+337,BBGI,Beasley Brdcst Gr
+338,BBH,Biotech Vaneck ETF
+339,BBI,Brickell Biotech Inc
+340,BBIO,Bridgebio Pharma Inc
+341,BBQ,Bbq Holdings Inc
+342,BBSI,Barrett Business S
+343,BCBP,Bcb Bancorp Inc
+344,BCDA,Biocardia Inc
+345,BCDAW,Biocardia Inc WT
+346,BCEL,Atreca Inc Cl A
+347,BCLI,Brainstorm Cell
+348,BCML,Bay Commercial Bk CA
+349,BCOM,B Communications Ltd
+350,BCOR,Blucora Inc
+351,BCOV,Brightcove Inc
+352,BCOW,1895 Bancorp of Wisconsin Inc
+353,BCPC,Balchem Cp
+354,BCRX,Biocryst Pharma Inc
+355,BCTF,Bancorp 34 Inc
+356,BCYC,Bicycle Therapeutics Plc ADR
+357,BDGE,Bridge Bancorp Inc
+358,BDSI,Biodelivery Sci Intl
+359,BDTX,Black Diamond Therapeutics Inc
+360,BEAM,Beam Therapeutics Inc
+361,BEAT,Biotelemetry Inc
+362,BECN,Beacon Roofing Suppl
+363,BELFA,Bel Fuse Cl A
+364,BELFB,Bel Fuse Inc Cl B
+365,BFC,Bank First National Corp [Wisconsin]
+366,BFIN,Bankfinancial Corp
+367,BFIT,G-X Health & Wellness Thematic Et
+368,BFRA,Biofrontera Ag ADR
+369,BFST,Business First Bancshares Inc
+370,BFYT,Benefytt Technologies Inc.
+371,BGCP,Bgc Partners Cl A
+372,BGFV,Big 5 Sporting
+373,BGNE,Beigene Ltd Ads
+374,BGRN,Ishares Global Green Bond ETF
+375,BHAT,Blue Hat Interactive Entertainment Tech
+376,BHF,Brighthouse Financial Inc
+377,BHFAL,Brighthouse Financial Inc 6.25% Junior Subordi
+378,BHFAP,Brighthouse Financial Inc Dep Shs Repstg 1/1000T
+379,BHTG,Biohitech Global Inc
+380,BIB,Ultra Nasdaq Biotech Proshares
+381,BICK,BICK Index Fund FT
+382,BIDU,Baidu Inc
+383,BIIB,Biogen Inc
+384,BILI,Bilibili Inc ADR
+385,BIMI,NF Energy Saving Corp
+386,BIOC,Biocept Inc
+387,BIOL,Biolase Inc
+388,BIS,Ultrashort Biotechnology Proshares
+389,BJK,Gaming ETF Vaneck
+390,BJRI,Bj's Restaurants Inc
+391,BKCC,Blackrock Cptl Invt
+392,BKEP,Blueknight Energy LP
+393,BKEPP,Blueknight Srs A Uts
+394,BKNG,Booking Holdings Inc
+395,BKSC,Bank of So Car Cp
+396,BKYI,Bio-Key Intl Inc
+397,BL,Blackline Inc
+398,BLBD,Blue Bird Corp
+399,BLCM,Bellicum Pharma Comm
+400,BLCN,Reality Shares Nasdaq Nextgen Economy ETF
+401,BLDP,Ballard Power Sys
+402,BLDR,Builders Firstsource
+403,BLFS,Biolife Solutions
+404,BLIN,Bridgeline Digital
+405,BLKB,Blackbaud Inc
+406,BLMN,Bloomin' Brands Inc
+407,BLNK,Blink Charging Company
+408,BLNKW,Blink Charging Co. WT
+409,BLPH,Bellerophon Ther Com
+410,BLRX,Biolinerx Ltd
+411,BLU,Bellus Health Inc
+412,BLUE,Bluebird Bio
+413,BMCH,Bmc Stock Holdings
+414,BMLP,Dorsey Wright MLP Index ETN
+415,BMRA,Biomerica Inc
+416,BMRC,Bank of Marin Bancrp
+417,BMRN,Biomarin Pharmaceuticals
+418,BMTC,Bryn Mawr Bank Corp
+419,BND,Total Bond Market ETF Vanguard
+420,BNDW,Total World Bond Vanguard ETF
+421,BNDX,Total Intl Bond ETF Vanguard
+422,BNFT,Benefitfocus
+423,BNGO,Bionano Genomics Inc
+424,BNGOW,Bionano Genomics Inc WT
+425,BNSO,Bonso Elec Intl IN
+426,BNTC,Benitec Biopharma Ltd
+427,BNTCW,Benitec Biopharm Wrt
+428,BNTX,Biontech Se ADR
+429,BOCH,Bank of Commerce Hld
+430,BOKF,Bok Financial Corp
+431,BOKFL,Bok Financial Corp
+432,BOMN,Boston Omaha Corp Cl A
+433,BOOM,Dynamic Materials
+434,BOSC,Bos Better Online
+435,BOTJ,Bank of The Jame Fnl
+436,BOTZ,G-X Robotics & Artificial Intel Thmtc ETF
+437,BOXL,Boxlight Corp Cl A
+438,BPFH,Boston Pvt Finl Hld
+439,BPMC,Blueprint Medicines Corp
+440,BPOP,Popular Inc
+441,BPOPM,Popular Inc Trust II
+442,BPOPN,Popular Inc Trust
+443,BPRN,Bank of Princeton
+444,BPTH,Bio-Path Holdings
+445,BPY,Brookfield Property Partners L
+446,BPYPN,Brookfield Property Partners L.P. 5.75% Prf Perp
+447,BPYPO,Brookfield Property Partners L.P. 6.375% Prf P
+448,BPYPP,Brookfield Property Partners LP Pfd Unit Ltd Par
+449,BPYU,Brookfield Property REIT Inc
+450,BPYUP,Brookfield Property REIT Inc 6.375% Series A
+451,BREW,Craft Brew Alliance
+452,BRID,Bridgford Foods Cp
+453,BRKL,Brookline Bancorp
+454,BRKR,Bruker Corp
+455,BRKS,Brooks Automation
+456,BROG,Brooge Holdings Ltd.
+457,BROGW,Brooge Holdings Ltd. Warrants
+458,BRP,Brp Group Inc Cl A
+459,BRPA,Big Rock Partners Acquisition Corp
+460,BRPAR,Big Rock Partners Acquisition Corp Right
+461,BRPAU,Big Rock Partners Acquisition Corp Unit
+462,BRPAW,Big Rock Partners Acquisition Corp WT
+463,BRQS,Borqs Technologies Inc
+464,BRY,Berry Pete Corp
+465,BSAE,Invesco Bulletshares 2021 USD EM Debt ETF
+466,BSBE,Invesco Bulletshares 2022 USD Emerging Markets D
+467,BSBK,Bogota Financial Corp
+468,BSCE,Invesco Bulletshares 2023 USD EM Debt ETF
+469,BSCK,Bs 2020 Corp Bond Invesco ETF
+470,BSCL,Bs 2021 Corp Bond Invesco ETF
+471,BSCM,Bs 2022 Corp Bond Invesco ETF
+472,BSCN,Bs 2023 Corp Bond Invesco ETF
+473,BSCO,Bs 2024 Corp Bond Invesco ETF
+474,BSCP,Bs 2025 Corp Bond Invesco ETF
+475,BSCQ,Bs 2026 Corp Bond Invesco ETF
+476,BSCR,Bs 2027 Corp Bond Invesco ETF
+477,BSCS,Invesco Bulletshares 2028 Corporate Bond ETF
+478,BSCT,Invesco 2029 Corporate Bond ETF
+479,BSDE,Invesco Bulletshares 2024 USD Emerging Markets D
+480,BSET,Bassett Furniture
+481,BSGM,Biosig Technologies
+482,BSJK,Bs 2020 High Yield Corp Bond Invesco ETF
+483,BSJL,Bs 2021 High Yield Corp Bond Invesco ETF
+484,BSJM,Bs 2022 High Yield Corp Bond Invesco ETF
+485,BSJN,Bs 2023 High Yield Corp Bond Invesco ETF
+486,BSJO,Bs 2024 High Yield Corp Bond Invesco ETF
+487,BSJP,Bs 2025 High Yield Corp Bond Invesco ETF
+488,BSJQ,Invesco Bulletshares 2026 High Yield Corporate B
+489,BSJR,Invesco 2027 High Yield Corporate Bond ETF
+490,BSML,Invesco Bulletshares 2021 Municipal Bond ETF
+491,BSMM,Invesco Bulletshares 2022 Municipal Bond ETF
+492,BSMN,Invesco Bulletshares 2023 Municipal Bond ETF
+493,BSMO,Invesco Bulletshares 2024 Municipal Bond ETF
+494,BSMP,Invesco Bulletshares 2025 Municipal Bond ETF
+495,BSMQ,Invesco Bulletshares 2026 Municipal Bond ETF
+496,BSMR,Invesco Bulletshares 2027 Municipal Bond ETF
+497,BSMS,Invesco Bulletshares 2028 Municipal Bond ETF
+498,BSMT,Invesco Bulletshares 2029 Municipal Bond ETF
+499,BSQR,Bsquare Corp
+500,BSRR,Sierra Bancorp
+501,BSTC,Biospecifics Tech Cp
+502,BSVN,Bank7 Corp
+503,BTAI,Bioxcel Therapeutics Inc
+504,BTEC,Principal Healthcare Innovators Index
+505,BUG,Global X Cybersecurity ETF
+506,BURG,Chanticleer Hlds
+507,BUSE,First Busey Corp
+508,BVSN,Broadvision Inc
+509,BVXV,Biondvax Pharma Ads
+510,BVXVW,Biondvax Pharma WT
+511,BWAY,Brainsway Ltd ADR
+512,BWB,Bridgewater Bancshares Inc
+513,BWEN,Broadwind Energy Inc
+514,BWFG,Bankwell Financial
+515,BWMX,Betterware DE Mexico Da DE Cv
+516,BXRX,Baudax Bio Inc
+517,BYFC,Broadway Fin Cp
+518,BYND,Beyond Meat Inc
+519,BYSI,Beyondspring Inc
+520,BZUN,Baozun Inc Ads
+521,CAAS,China Automotive Sys
+522,CABA,Cabaletta Bio Inc
+523,CAC,Camden Natl Cp
+524,CACC,Credit Acceptance
+525,CACG,Legg Clearbridge All Cap Growth ETF
+526,CAKE,Cheesecake Fact
+527,CALA,Calithera Biosci Com
+528,CALB,California Bancorp
+529,CALM,Cal-Maine Foods IN
+530,CAMP,Calamp Corp
+531,CAMT,Camtek Ltd
+532,CAN,Canaan Inc ADR
+533,CAPR,Capricor Therap
+534,CAR,Avis Budget Group
+535,CARA,Cara Therapeutics
+536,CARE,Carter Bank&Tr [Va]
+537,CARG,Cargurus Inc Cl A
+538,CARO,Carolina Financial Corp
+539,CARV,Carver Bancorp
+540,CARZ,Nasdaq Global Auto Index Fund FT
+541,CASA,Casa Systems Inc
+542,CASH,Meta Financial Group
+543,CASI,Casi Phrmactcls Inc
+544,CASS,Cass Information Sys
+545,CASY,Casey's General Stor
+546,CATB,Catabasis Pharma
+547,CATC,Cambridge Bancorp
+548,CATH,G-X S&P 500 Catholic Values ETF
+549,CATM,Cardtronics Inc
+550,CATS,Catasys Inc
+551,CATY,Cathay Genl Bncp
+552,CBAN,Colony Bankcorp Inc
+553,CBAT,Cbak Energy Technology Inc
+554,CBAY,Cymabay Therapeutics
+555,CBFV,Cb Financial Svc
+556,CBIO,Catalyst Bio
+557,CBLI,Cleveland Biolabs
+558,CBMB,Cbm Bancorp Inc
+559,CBMG,Cellular Biomedicine
+560,CBNK,Capital Bancorp Inc
+561,CBPO,China Biologic Produ
+562,CBRL,Cracker Barrel
+563,CBSH,Commerce Bancshares
+564,CBSHP,Commerce BNC B Dep
+565,CBTX,Cbtx Inc
+566,CCAP,Crescent Capital Bdc Inc.
+567,CCB,Coastal Financial Corp
+568,CCBG,Capital City Bank Gr
+569,CCCL,China Ceramics Company
+570,CCD,Calams Dy Cnv IN
+571,CCLP,CSI Compressco
+572,CCMP,Cabot Microelectron
+573,CCNE,Cnb Financial Corp
+574,CCOI,Cogent Comm Hlds
+575,CCRC,China Customer Ord
+576,CCRN,Cross Ctry Hlthcr
+577,CCXI,Chemocentryx Inc
+578,CDC,Victory US Eqty Income Ehnd Vol Wtd ETF
+579,CDEV,Centennial Resource Development Inc
+580,CDK,Cdk Global Inc
+581,CDL,Victory US Largecap HI Div Vol Wtd ETF
+582,CDLX,Cardlytics Inc
+583,CDMO,Avid Bioservices Inc
+584,CDMOP,Avid Bioservices Inc
+585,CDNA,Caredx Inc
+586,CDNS,Cadence Design Sys
+587,CDTX,Cidara Thera
+588,CDW,CDW Corp
+589,CDXC,Chromadex Corp CS
+590,CDXS,Codexis Inc
+591,CDZI,Cadiz Inc
+592,CECE,C E C O Envir
+593,CELC,Celcuity Inc
+594,CELH,Celsius Holdings Inc
+595,CEMI,Chembio Diagnostics
+596,CENT,Central Garden
+597,CENTA,Central Garden & Pet
+598,CENX,Century Aluminum C
+599,CERC,Cerecor Inc
+600,CERN,Cerner Corp
+601,CERS,Cerus Corp
+602,CETV,Central EUR Med A
+603,CETX,Cemtrex Inc
+604,CETXP,Cemtrex Inc Series 1 Pfd
+605,CETXW,Cemtrex Inc Series 1 WT
+606,CEVA,Ceva Inc
+607,CEY,Victoryshares Emerging Market High Div Vol Wtd E
+608,CEZ,Victory EM Vol Wtd ETF
+609,CFA,Victory US 500 Vol ETF
+610,CFB,Crossfirst Bankshares Inc
+611,CFBI,Community First Bancshares Inc
+612,CFBK,Central Fed Cp
+613,CFFA,Cf Finance Acquisition Corp Cl A
+614,CFFAU,Cf Finance Acquisition Corp Unit
+615,CFFAW,Cf Finance Acquisition Corp WT
+616,CFFI,C&F Financial Corp
+617,CFFN,Capitol Fed Finl Inc
+618,CFMS,Conformis Inc CS
+619,CFO,Victory US 500 Ehnd Vol Wtd ETF
+620,CFRX,Contrafect
+621,CG,The Carlyle Group
+622,CGBD,Tcg Bdc Inc
+623,CGEN,Compugen Ltd
+624,CGIX,Cancer Genetics Inc
+625,CGNX,Cognex Cp
+626,CGO,Calamos Glb Ttl Rtn
+627,CHCI,Comstock Hlds Cos
+628,CHCO,City Holding Company
+629,CHDN,Churchill Downs IN
+630,CHEF,The Chefs Warehouse
+631,CHEK,Check-Cap Ltd Ord
+632,CHEKZ,Check-Cap Ltd Series C WT
+633,CHFS,Chf Solutions Inc
+634,CHI,Calamos Cv Opp & Inc
+635,CHKP,Check Point Software
+636,CHMA,Chiasma Inc
+637,CHMG,Chemung Financial Cp
+638,CHNA,Loncar China Biopharma ETF
+639,CHNG,Change Healthcare Inc
+640,CHNGU,Change Healthcare Inc Tangible Equity Units
+641,CHNGV,Change Healthcare Inc
+642,CHNR,China Natural Res
+643,CHPM,Chp Merger Corp. Cl A
+644,CHPMU,Chp Merger Corp
+645,CHPMW,Chp Merger Corp. WT
+646,CHRS,Coherus Bio
+647,CHRW,C.H. Robinson Ww
+648,CHSCL,CHS B Cum Pfd Srs 4
+649,CHSCM,CHS Pfd Clb Ser3
+650,CHSCN,CHS Inc Pfd B Srs 2
+651,CHSCO,CHS Inc Cl B Pfd
+652,CHSCP,CHS Inc
+653,CHTR,Charter Communicatio
+654,CHUY,Chuy's Holdings Inc
+655,CHW,Calamos Gbl Dyn Inc
+656,CHY,Calamos Cv & High IN
+657,CIBR,Nasdaq Cybersecurity ETF FT
+658,CID,Victory Intl HI Div Vol Wtd ETF
+659,CIDM,Cinedigm Corp
+660,CIFS,China Internet Nationwide Financial Services Inc
+661,CIGI,Colliers Intl Grp IN
+662,CIH,China Index Holdings Ltd
+663,CIIC,Ciig Merger Corp Cl A
+664,CIICU,Ciig Merger Corp. Units
+665,CIICW,Ciig Merger Corp. Warrants
+666,CIL,Victory Intl Vol Wtd ETF
+667,CINF,Cincinnati Financial
+668,CIVB,Civista Bncshrs
+669,CIZ,Victory Dev Enhd Vol Wtd ETF
+670,CIZN,Citizens Hld Company
+671,CJJD,China Jojo Drugstore
+672,CKPT,Checkpoint Therapeutics Inc
+673,CLAR,Clarus Corp
+674,CLBK,Columbia Financial Inc
+675,CLBS,Caladrius Bio
+676,CLCT,Collectors Universe
+677,CLDB,Cortland Bncp Crtld Ohio
+678,CLDX,Celldex Therapeutics
+679,CLFD,Clearfield Inc
+680,CLGN,Collplant Biotechnologies Ltd
+681,CLIR,Clearsign Combustion
+682,CLLS,Cellectis S.A. ADR
+683,CLMT,Calumet Specialty Pr
+684,CLNE,Clean Energy Fuels
+685,CLOU,Global X Cloud Computing ETF
+686,CLPS,Clps Incorp
+687,CLPT,Clearpoint Neuro Inc.
+688,CLRB,Cellectar Biosc
+689,CLRBZ,Cellectar Bio Sra WT
+690,CLRG,IQ Chaikin U.S. Large Cap ETF
+691,CLRO,Clearone Inc
+692,CLSD,Clearside Biomedi
+693,CLSK,Cleanspark Inc
+694,CLSN,Celsion Corp
+695,CLUB,Town Sports International
+696,CLVS,Clovis Oncology Inc
+697,CLWT,Euro Tech Hld
+698,CLXT,Calyxt Inc
+699,CMBM,Cambium Networks Corp
+700,CMCO,Columbus Mckinnon
+701,CMCSA,Comcast Corp A
+702,CMCT,Cim Commercial TR Cp
+703,CMCTP,Cim Commercial Trust Corp Series L
+704,CME,CME Group Inc
+705,CMFNL,Cm Finance Inc 6.125% Notes Due 2023
+706,CMLS,Cumulus Media Inc Cl A
+707,CMPR,Cimpress N.V. Ord
+708,CMRX,Chimerix Inc
+709,CMTL,Comtech Telecom Company
+710,CNAT,Conatus Pharmaceutic
+711,CNBKA,Century Bancorp Inc
+712,CNCE,Concert Pharmaceutic
+713,CNCR,Loncar Cancer Immunotherapy ETF
+714,CNDT,Conduent Inc
+715,CNET,Chinanet Online Hld
+716,CNFR,Conifer Holdings
+717,CNFRL,Conifer Holdings Inc 6.75% Senior Unsecured No
+718,CNNB,Cincinnati Bancorp
+719,CNOB,Connectone Bancorp
+720,CNSL,Consolidated Communications Holdings Inc
+721,CNSP,Cns Pharmaceuticals Inc
+722,CNST,Constellation Pharmaceuticals Inc
+723,CNTG,Centogene N.V.
+724,CNTY,Century Casinos IN
+725,CNXN,PC Connection Inc
+726,COCP,Cocrystal Pharma Inc
+727,CODA,Coda Octopus Group
+728,CODX,Co-Diagnostics Inc
+729,COFS,Choiceone Financial
+730,COHR,Coherent Inc
+731,COHU,Cohu Inc
+732,COKE,Coca Cola Bot Cons
+733,COLB,Columbia Banking Sys
+734,COLL,Collegium Pharma
+735,COLM,Columbia Sprtswr
+736,COMM,Commscope Holding Company
+737,COMT,Commodities Select Strategy Ishares ETF
+738,CONE,Cyrusone Inc
+739,CONN,Conn's Inc
+740,COOP,Mr.Cooper Group Inc
+741,CORE,Core Mark Holding
+742,CORT,Corcept Therapeutics
+743,CORV,Correvio Pharma Corp
+744,COST,Costco Wholesale
+745,COUP,Coupa Software Inc
+746,COWN,Cowen Group Inc
+747,COWNL,Cowen Inc 7.75% Senior Notes Due 2033
+748,COWNZ,Cowen Inc 7.35% Senior Notes Due 2027
+749,CPAA,Conyers Park II Acquisition Corp Cl A
+750,CPAAU,Conyers Park II Acquisition Corp Unit
+751,CPAAW,Conyers Park II Acquisition Corp WT
+752,CPAH,Counterpath Corp
+753,CPHC,Canterbury Park Hl
+754,CPIX,Cumberland Pharmaceu
+755,CPLP,Capital Product Part
+756,CPRT,Copart Inc
+757,CPRX,Catalyst Pharm Inc
+758,CPSH,Cps Technologies
+759,CPSI,Computer Programs
+760,CPSS,Consumer Portfol
+761,CPST,Capstone Turbine Cp
+762,CPTA,Capitala Finance Crp
+763,CPTAG,Capitala Finance Corp 5.75% Convertible Notes D
+764,CPTAL,Capitala Finance Corp 6% Notes Due 2022
+765,CPZ,Calamos Long/Short Equity & Dynamic Income Trust
+766,CRAI,Cra International
+767,CRBP,Corbus Pharma
+768,CREE,Cree Inc
+769,CREG,China Recycling Ener
+770,CRESY,Cresud Sacif ADR
+771,CREX,Creative Realities Inc
+772,CREXW,Creative Realities Inc
+773,CRIS,Curis Inc
+774,CRMT,America's Car-Mart
+775,CRNC,Cerence Inc
+776,CRNT,Ceragon Networks Ltd
+777,CRNX,Crinetics Pharmaceuticals Inc
+778,CRON,Cronos Group Inc
+779,CROX,Crocs Inc
+780,CRSA,Crescent Acquisition Corp Cl A
+781,CRSAU,Crescent Acquisition Corp Unit
+782,CRSAW,Crescent Acquisition Corp WT
+783,CRSP,Crispr Therapeutics Ag
+784,CRTO,Criteo S.A. Ads
+785,CRTX,Cortexyme Inc
+786,CRUS,Cirrus Logic Inc
+787,CRVL,Corvel Cp
+788,CRVS,Corvus Pharma Com
+789,CRWD,Crowdstrike Holdings Inc
+790,CRWS,Crown Crafts Inc
+791,CSA,Victory US Smallcap Vol Wtd ETF
+792,CSB,Victory US Smallcap HI Div Vol Wtd ETF
+793,CSBR,Champions Oncolog
+794,CSCO,Cisco Systems Inc
+795,CSF,Victory US Disc Enhd Vol Wtd ETF
+796,CSFL,Centerstate Bank Corp
+797,CSGP,Costar Group Inc
+798,CSGS,C S G Sys Intl
+799,CSII,Cardiovascular Syst
+800,CSIQ,Canadian Solar Inc
+801,CSML,IQ Chaikin U.S. Small Cap ETF
+802,CSOD,Cornerstone Ondemand
+803,CSPI,C S P Inc
+804,CSQ,Calamos Strgc Ttl Rt
+805,CSSE,Chicken Soup For The Soul Entertainment Inc
+806,CSSEP,Chicken Soup For The Soul Entertainment Inc 9.
+807,CSTE,Caesarstone Sdot-Yam
+808,CSTL,Castle Biosciences Inc
+809,CSTR,Capstar Financial Holdings Inc
+810,CSWC,Capital Southwest
+811,CSWCL,Capital Southwest Corp 5.95% Notes Due 20
+812,CSWI,Csw Industrials Inc
+813,CSX,CSX Corp
+814,CTAC,Chaserg Technology Acquisition Corp Cl A
+815,CTACU,Chaserg Technology Acquisition Corp Unit
+816,CTACW,Chaserg Technology Acquisition Corp WT
+817,CTAS,Cintas Corp
+818,CTBI,Community TR Bancp
+819,CTG,Computer Task Gp Inc
+820,CTHR,Charles & Colvard
+821,CTIB,Cti Inds Corp
+822,CTIC,Cti Biopharm Corp
+823,CTMX,Cytomx Thera
+824,CTRC,Centric Brands Inc
+825,CTRE,Caretrust REIT Inc
+826,CTRM,Castor Maritime Inc
+827,CTRN,Citi Trends Inc
+828,CTSH,Cognizant Tech Sol
+829,CTSO,Cytosorbents Cor
+830,CTXR,Citius Pharmaceuticals Inc
+831,CTXRW,Citius Pharmaceuticals Inc WT
+832,CTXS,Citrix Systems Inc
+833,CUBA,Herzfeld Caribbean
+834,CUE,Cue Biopharma Inc
+835,CUI,Cui Global Inc
+836,CUTR,Cutera Inc
+837,CVBF,Cvb Financial Corp
+838,CVCO,Cavco Inds Inc
+839,CVCY,Central Vly Cmty Bcp
+840,CVET,Covetrus Inc
+841,CVGI,Commercial Vehicle G
+842,CVGW,Calavo Growers Inc
+843,CVLT,Commvault Systems
+844,CVLY,Codorus Valley Bncp
+845,CVTI,Covenant Transportn
+846,CVV,CVD Equipment Corp
+847,CWBC,Community West Bncsh
+848,CWBR,Cohbar Inc
+849,CWCO,Cons Water Co. Inc
+850,CWST,Casella Waste Sys
+851,CXDC,China Xd Plastics Company
+852,CXSE,Wisdomtree China Ex-Cso Fund
+853,CY,Cypress Semiconductor
+854,CYAD,Celyad Sa Ads
+855,CYAN,Cyanotech Corp
+856,CYBE,Cyberoptics Cp
+857,CYBR,Cyberark Soft Ord
+858,CYCC,Cyclacel Pharmaceuti
+859,CYCCP,Cyclacel Pharmaceuti
+860,CYCN,Cyclerion Therapeutics Inc
+861,CYOU,Changyou.com Ltd
+862,CYRN,Cyren Ltd
+863,CYRX,Cryoport Inc
+864,CYRXW,Cryoport Inc WT
+865,CYTK,Cytokinetics
+866,CZNC,Citizens Nrthn Cp
+867,CZR,Caesars Entertainment Corp
+868,CZWI,Citizens Community
+869,DAIO,Data I O Cp
+870,DAKT,Daktronics Inc
+871,DALI,First Trust Dorseywright Dali 1 ETF
+872,DARE,Dare Bioscience Inc
+873,DAX,DAX Germany ETF
+874,DBVT,Dbv Technologies Ads
+875,DBX,Dropbox Inc
+876,DCAR,Dropcar Inc
+877,DCIX,Diana Containerships Inc
+878,DCOM,Dime Community Bncsh
+879,DCOMP,Dime Community Bancshares
+880,DCPH,Deciphera Pharmaceuticals Inc
+881,DDIV,First Trust High Income ETF
+882,DDMX,Dd3 Acquisition Corp
+883,DDMXW,Dd3 Acquisition Corp WT
+884,DDOG,Datadog Inc Cl A
+885,DEAC,Diamond Eagle Acquisition Cl A
+886,DEACU,Diamond Eagle Acquisition Corp Unit
+887,DEACW,Diamond Eagle Acquisition Corp WT
+888,DENN,Dennys Corp
+889,DFFN,Diffusion Pharmaceuticals Inc
+890,DFNL,Davis Select Financial ETF
+891,DFNSU,LGL Systems Acquisition Corp. Units
+892,DFPHU,Dfp Healthcare Acquisitions Corp
+893,DGICA,Donegal Group Cl A
+894,DGICB,Donegal Group Cl B
+895,DGII,Digi Intl Inc
+896,DGLD,VS 3X Inv Gold
+897,DGLY,Digital Ally Inc
+898,DGRE,Wisdomtree EM Quality Divd Growth Fund
+899,DGRS,Wisdomtree US Smallcap Quality Dvid Fund
+900,DGRW,Wisdomtree US Quality Divd Fund
+901,DHC,Diversified Healthcare Trust
+902,DHCNI,Diversified Healthcare Trust
+903,DHCNL,Diversified Healthcare Trust
+904,DHIL,Diamond Hill Inv
+905,DINT,Davis Select International ETF
+906,DIOD,Diodes Inc
+907,DISCA,Discovery Comm A
+908,DISCB,Discovery Comm B
+909,DISCK,Discovery Comm Inc
+910,DISH,Dish Network Corp
+911,DJCO,Daily Journal Cp
+912,DLHC,Dlh Holdings Corp
+913,DLPN,Dolphin Entertainment Inc
+914,DLPNW,Dolphin Entertainment Inc WT
+915,DLTH,Duluth Hld Cl B
+916,DLTR,Dollar Tree Inc
+917,DMAC,Diamedica Therapeutics Inc
+918,DMLP,Dorchester Minls
+919,DMPI,Delmar Pharmaceuticals Inc
+920,DMRC,Digimarc Corp
+921,DMTK,Dermtech Inc
+922,DNJR,Golden Bull Limited
+923,DNKN,Dunkin' Brands Group
+924,DNLI,Denali Therapeutics Inc
+925,DOCU,Docusign Inc
+926,DOGZ,Dogness Corp Cl A
+927,DOMO,Domo Inc Cl B
+928,DOOO,Brp Inc
+929,DORM,Dorman Products Inc
+930,DOX,Amdocs Ltd Ord
+931,DOYU,Douyu International Holdings Ltd Ads
+932,DPHC,Diamondpeak Holdings Corp Cl A
+933,DPHCU,Diamondpeak Holdings Corp Units
+934,DPHCW,Diamondpeak Holdings Corp Wt6
+935,DRAD,Digirad Corp
+936,DRADP,Digirad Corp Series A Cumulative Perpetua
+937,DRIO,Dario Health Corp
+938,DRIOW,Labstyle Innovati WT
+939,DRIV,Global X Autonomous & Electric Vehicles ETF
+940,DRNA,Dicerna Pharmaceutic
+941,DRRX,Durect Corp
+942,DRTT,Dirtt Environmental Solutions Ltd
+943,DSGX,Descartes Sys Group
+944,DSKE,Daseke Inc
+945,DSKEW,Daseke Inc
+946,DSLV,VS 3X Inv Silver
+947,DSPG,D S P Group Inc
+948,DSWL,Deswell Inds Inc
+949,DTEA,Davidstea Inc
+950,DTIL,Precision Biosciences Inc
+951,DTSS,Datasea Inc
+952,DUO,Fangdd Network Group Ltd ADR
+953,DUOT,Duos Technologies Group Inc
+954,DUSA,Davis Select USA ETF
+955,DVAX,Dynavax Technologies
+956,DVLU,First Trust Momentum & Value ETF
+957,DVOL,First Trust Momentum & Low Volatility ETF
+958,DVY,Select Dividend Ishares ETF
+959,DWAS,DWA Smallcap Momentum Invesco ETF
+960,DWAT,Arrow DWA Tactic ETF
+961,DWAW,Advisorshares Dorsey Wright Fsm All Cap World Et
+962,DWCR,Arrow DWA Country Rotation ETF
+963,DWEQ,Advisorshares Dorsey Wright Alpha Equal Weight E
+964,DWFI,DW Fixed Income Allocation ETF SPDR
+965,DWLD,Davis Select World Opportunities ETF
+966,DWMC,Advisorshares D.W. Micro-Cap ETF
+967,DWPP,First Trust Dorsey Wright People's Portfolio ETF
+968,DWSH,Advisorshares D.W. Short ETF
+969,DWSN,Dawson Geophscl
+970,DWUS,Advisorshares Dorsey Wright Fsm US Core ETF
+971,DXCM,Dexcom
+972,DXGE,Wisdomtree Germany Hedged Eqty Fund
+973,DXJS,Wisdomtree Japan Smallcap Eqty Hedged Fund
+974,DXLG,Destination XL Group
+975,DXPE,Dxp Enterprise
+976,DXYN,The Dixie Group
+977,DYAI,Dyadic International
+978,DYNT,Dynatronics Cp
+979,DZSI,Dasan Zhone Solutions Inc
+980,EA,Electronic Arts Inc
+981,EARS,Auris Medical
+982,EAST,Eastside Distilling Inc
+983,EBAY,Ebay Inc
+984,EBAYL,Ebay Inc 6.0% NTS
+985,EBIX,Ebix Inc
+986,EBIZ,Global X E-Commerce ETF
+987,EBMT,Eagle Bancorp [Mt]
+988,EBSB,Meridian Bncp
+989,EBTC,Enterprise Bancorp
+990,ECHO,Echo Global Logistic
+991,ECOL,US Ecology Inc
+992,ECOLW,US Ecology Inc WT
+993,ECOR,Electrocore Inc
+994,ECOW,Pacer Emerging Markets Cash Cows 100 ETF
+995,ECPG,Encore Capital Group
+996,EDAP,Edap Tms Sa ADR
+997,EDIT,Editas Medicine
+998,EDNT,Edison Nation Inc
+999,EDRY,Eurodry Ltd
+1000,EDSA,Edesa Biotech Inc
+1001,EDTX,Edtechx Holdings Acquisition Corp
+1002,EDTXU,Edtechx Holdings Acquisition Corp Unit
+1003,EDTXW,Edtechx Holdings Acquisition Corp WT
+1004,EDUC,Educational Dev Cp
+1005,EEFT,Euronet Worldwide
+1006,EEMA,Emrg Mkts Asia Ishares MSCI ETF
+1007,EFAS,G-X MSCI Superdividend EAFE ETF
+1008,EFOI,Energy Focus
+1009,EFSC,Enterprises Finl Svc
+1010,EGAN,Egain Corp
+1011,EGBN,Eagle Bancorp Inc
+1012,EGLE,Eagle Bulk Ship
+1013,EGOV,Nic Inc
+1014,EGRX,Eagle Pharmaceuticals
+1015,EH,Ehang Holdings Ltd Ads
+1016,EHTH,Ehealth Inc
+1017,EIDX,Eidos Therapeutics Inc
+1018,EIGI,Endurance Int Group
+1019,EIGR,Eiger Biopharma
+1020,EKSO,Ekso Bionics Holdings Inc
+1021,ELGX,Endologix Inc
+1022,ELOX,Eloxx Pharmaceuticals Inc
+1023,ELSE,Electro Sensors IN
+1024,ELTK,Eltek Ltd
+1025,EMB,USD Emrg Mkts Bond Ishares JPM ETF
+1026,EMCB,Wisdomtree EM Corp Bond Fund
+1027,EMCF,Emclaire Finl Cor
+1028,EMCG,Wisdomtree EM Consumer Growth
+1029,EMIF,Emrg Mkts Infrastructure Ishares ETF
+1030,EMKR,Emcore Corp
+1031,EML,Eastern Company
+1032,EMMS,Emmis Commun Cl A
+1033,EMXC,Emrg Mkts Ex China Ishares MSCI ETF
+1034,ENDP,Endo Int'l Plc
+1035,ENG,Englobal Corp
+1036,ENLV,Enlivex Therapeutics Ltd
+1037,ENOB,Enochian Biosciences Inc
+1038,ENPH,Enphase Energy Inc
+1039,ENSG,The Ensign Group IN
+1040,ENT,Global Eagle Entrtn
+1041,ENTA,Enanta Pharmaceutica
+1042,ENTG,Entegris Inc
+1043,ENTX,Entera Bio Ltd
+1044,ENTXW,Entera Bio Ltd WT
+1045,ENZL,New Zealand Ishares MSCI ETF
+1046,EOLS,Evolus Inc
+1047,EPAY,Bottomline Tech IN
+1048,EPIX,Essa Pharma
+1049,EPSN,Epsilon Energy
+1050,EPZM,Epizyme Inc
+1051,EQ,Equillium Inc
+1052,EQBK,Equity Bncsrs Cm A
+1053,EQIX,Equinix Inc
+1054,EQRR,Proshares Equities For Rising Rates ETF
+1055,ERI,Eldorado Resorts
+1056,ERIC,Ericsson ADR
+1057,ERIE,Erie Indemnity Company
+1058,ERII,Energy Recovery Inc
+1059,ERYP,Erytech Pharma
+1060,ESBK,Elmira Sav Bk
+1061,ESCA,Escalade Inc
+1062,ESEA,Euroseas Ltd
+1063,ESGD,EAFE ESG Optimized Ishares MSCI ETF
+1064,ESGE,Emrg Mkts ESG Optimized Ishares MSCI ETF
+1065,ESGR,Enstar Group Ltd
+1066,ESGRO,Enstar Group Ltd Depository Shares 7.00% Per
+1067,ESGRP,Enstar Group Ltd
+1068,ESGU,USA ESG Optimized Ishares MSCI ETF
+1069,ESLT,Elbit Systems Ltd
+1070,ESPO,Vaneck Vectors Video Gaming and Esports ETF
+1071,ESPR,Esperion Theraptc
+1072,ESQ,Esquire Financial Holdings Inc
+1073,ESSA,Essa Bancorp Inc
+1074,ESSC,East Stone Acquisition Corp
+1075,ESSCU,East Stone Acquisition Corp
+1076,ESTA,Establishment Labs Holdings Inc
+1077,ESXB,Community Bankers
+1078,ETFC,E*Trade Finl Corp
+1079,ETNB,89Bio Inc
+1080,ETON,Eton Pharmaceutcials Inc
+1081,ETSY,Etsy Inc
+1082,ETTX,Entasis Therapeutics Holdings Inc
+1083,EUFN,Europe Financials Ishares MSCI ETF
+1084,EVBG,Everbridge Inc
+1085,EVER,Everquote Inc Cl A
+1086,EVFM,Evofem Biosciences Inc
+1087,EVGN,Evogene Ltd Ord
+1088,EVK,Ever Glory Intl Group
+1089,EVLO,Evelo Biosciences Inc
+1090,EVOK,Evoke Pharma
+1091,EVOL,Evolving Systems Inc
+1092,EVOP,Evo Payments Inc Cl A
+1093,EVSI,Envision Solar International Inc
+1094,EVSIW,Envision Solar Intl Inc WT
+1095,EWBC,East West Bancorp
+1096,EWJE,Ishares MSCI Japan Equal Weighted ETF
+1097,EWJV,Ishares MSCI Japan Value ETF
+1098,EWZS,Brazil Small-Cap Ishares MSCI ETF
+1099,EXAS,Exact Sciences Cor
+1100,EXC,Exelon Corp
+1101,EXEL,Exelixis Inc
+1102,EXFO,Exfo Inc
+1103,EXLS,Exlservice Holdings
+1104,EXPC,Experience Investment Corp. Cl A
+1105,EXPCU,Experience Investment Corp
+1106,EXPCW,Experience Investment Corp. Warrants
+1107,EXPD,Expeditors Intl
+1108,EXPE,Expedia Group Inc
+1109,EXPI,Exp Realty International
+1110,EXPO,Exponent Inc
+1111,EXTR,Extreme Networks
+1112,EYE,National Vision Holdings Inc
+1113,EYEG,Eyegate Pharma
+1114,EYEGW,Eyegate Pharm WT
+1115,EYEN,Eyenovia Inc
+1116,EYES,Second Sight
+1117,EYESW,Second Sight Medical Products Inc WT
+1118,EYPT,Eyepoint Pharmaceuticals Inc
+1119,EZPW,Ezcorp Inc
+1120,FAAR,Alternative Absolute Return Strategy ETF FT
+1121,FAB,Multi Cap Value Alphadex Fund FT
+1122,FAD,Multicap Growth Alphadex Fund FT
+1123,FALN,US Fallen Angels Ishares ETF
+1124,FAMI,Farmmi Inc
+1125,FANG,Diamondback Energy
+1126,FANH,Fanhua Inc
+1127,FARM,Farmer Brothers
+1128,FARO,Faro Tech Inc
+1129,FAST,Fastenal Company
+1130,FAT,Fat Brands Inc
+1131,FATE,Fate Therapeutics
+1132,FB,Facebook Inc
+1133,FBIO,Fortress Biotech Inc
+1134,FBIOP,Fortress Biotech Inc 9.375% Series A Cumulativ
+1135,FBIZ,First Business Finan
+1136,FBMS,First Bancshs [Ms]
+1137,FBNC,First Bancorp [Nc]
+1138,FBSS,Fauquier Bankshares
+1139,FBZ,Brazil Alphadex Fund FT
+1140,FCA,China Alphadex Fund FT
+1141,FCAL,First Trust Exchange-Traded Fund III First Trust
+1142,FCAN,Canada Alphadex Fund FT
+1143,FCAP,First Capital Inc
+1144,FCBC,First Community Bksh
+1145,FCBP,First Choice Bancorp
+1146,FCCO,First Community Corp
+1147,FCCY,1st Constitution Bcp
+1148,FCEF,CEF Income Opportunity ETF FT
+1149,FCEL,Fuelcell Energy Inc
+1150,FCFS,First Cash Fin Svcs
+1151,FCNCA,First Citizens Bancs
+1152,FCNCP,First Citizens Bancshares
+1153,FCVT,Ssi Strategic Convertible Securities ETF FT
+1154,FDBC,Fidelity D & D Bancorp Inc
+1155,FDEF,First Defiance Finl
+1156,FDIV,Strategic Income ETF FT
+1157,FDNI,FT DJ International Internet ETF
+1158,FDT,Dev Mkts Ex-US Alphadex Fund FT
+1159,FDTS,Dev Mkts Ex-US Small Cap Alphadex Fund FT
+1160,FDUS,Fidus Investment Cor
+1161,FDUSG,Fidus Investment Corp 5.375% Notes Due 20
+1162,FDUSL,Fidus Investment Corp 5.875% Notes Due 20
+1163,FDUSZ,Fidus Investment Corp 6% Notes Due 2024
+1164,FEIM,Frequency Elcts Inc
+1165,FELE,Franklin Electric Company
+1166,FEM,Emrg Mkts Alphadex Fund FT
+1167,FEMB,Emrg Mkts Local Currency Bond ETF FT
+1168,FEMS,Emrg Mkts Small Cap Alphadex Fund FT
+1169,FENC,Fennec Pharmaceuticals Inc
+1170,FEP,Europe Alphadex Fund FT
+1171,FEUZ,Eurozone Alphadex Fund FT
+1172,FEX,Largecap Core Alphadex Fund FT
+1173,FEYE,Fireeye Inc
+1174,FFBC,First Finl Bncp [Oh]
+1175,FFBW,Ffbw Inc
+1176,FFHL,Fuwei Films [Holding
+1177,FFIC,Flushing Finl Corp
+1178,FFIN,First Finl Bkshs Inc
+1179,FFIV,F5 Networks Inc
+1180,FFNW,First Financial Nort
+1181,FFWM,First Foundation
+1182,FGBI,First Gurty Banc
+1183,FGEN,Fibrogen Inc CS
+1184,FGM,Germany Alphadex Fund FT
+1185,FHB,First Hawaiian Inc
+1186,FHK,Hong Kong Alphadex Fund FT
+1187,FIBK,First Interstate Ban
+1188,FID,First Trust S&P Intl Dividend Aristocrats ETF
+1189,FINX,G-X Fintech Thematic ETF
+1190,FISI,Financial Institut
+1191,FISV,Fiserv Inc
+1192,FITB,Fifth Third Bncp
+1193,FITBI,Fifth Third Bancorp
+1194,FITBO,Fifth Third Bancorp 4.95% Prf Perpetual USD 25 S
+1195,FITBP,Fifth Third Bancorp Depositary Shares 1/40Th
+1196,FIVE,Five Below Inc
+1197,FIVN,Five9 Inc
+1198,FIXD,Tcw Opportunistic Fixed Income ETF FT
+1199,FIXX,Homology Medicines Inc
+1200,FIZZ,Natl Beverage Cp
+1201,FJP,Japan Alphadex Fund FT
+1202,FKO,South Korea Alphadex Fund FT
+1203,FKU,UK Alphadex Fund FT
+1204,FLDM,Fluidigm Corp
+1205,FLEX,Flextronics Intl Ltd
+1206,FLGT,Fulgent Genetics Inc
+1207,FLIC,First of Long Isla
+1208,FLIR,Flir Systems Inc
+1209,FLL,Full House Rsts
+1210,FLLC,Fellazo Inc
+1211,FLLCR,Fellazo Inc Right
+1212,FLLCU,Fellazo Inc Unit
+1213,FLLCW,Fellazo Inc WT
+1214,FLMN,Falcon Minerals Corp Cl A
+1215,FLMNW,Falcon Minerals Corp WT
+1216,FLN,Latin America Alphadex Fund FT
+1217,FLNT,Fluent Inc
+1218,FLWS,1-800-Flowers.com
+1219,FLXN,Flexion Therapeutics
+1220,FLXS,Flexsteel Inds
+1221,FMAO,Farmers & Merch Banc
+1222,FMB,Managed Municipal ETF FT
+1223,FMBH,First Mid Ill Bncshr
+1224,FMBI,First Midwest Bncp
+1225,FMCI,Forum Merger II Corp Cl A
+1226,FMCIU,Forum Merger II Corp Unit
+1227,FMCIW,Forum Merger II Corp WT
+1228,FMHI,FT Municipal High Income ETF
+1229,FMK,Mega Cap Alphadex Fund FT
+1230,FMNB,Farmers Natl Banc Cp
+1231,FNCB,FNCB Bancorp Inc
+1232,FNHC,Federated Natl Hld
+1233,FNJN,Finjan Holdings
+1234,FNK,Mid Cap Value Alphadex Fund FT
+1235,FNKO,Funko Inc Cl A
+1236,FNLC,First Bancorp Inc
+1237,FNWB,First Nw Banc
+1238,FNX,Mid Cap Core Alphadex Fund FT
+1239,FNY,Mid Cap Growth Alphadex Fund FT
+1240,FOCS,Focus Financial Partners Inc Cl A
+1241,FOLD,Amicus Therapeutics
+1242,FOMX,Foamix Pharma Ord
+1243,FONR,Fonar Corp
+1244,FORD,Forward Inds Inc
+1245,FORK,Fuling Global Ord Sh
+1246,FORM,Formfactor Inc
+1247,FORR,Forrester Resrch
+1248,FORTY,Formula Sys [1985]
+1249,FOSL,Fossil Group
+1250,FOX,Fox Corp Cl B
+1251,FOXA,Fox Corp Cl A
+1252,FOXF,Fox Factory Cp
+1253,FPA,Asia Pacific Ex-Japan Alphadex Fund FT
+1254,FPAY,Flexshopper Inc
+1255,FPRX,Five Prime Thera
+1256,FPXE,First Trust Ipox Europe Equity Opp ETF
+1257,FPXI,International IPO Fund FT
+1258,FRAF,Franklin Finl Svcs Corp
+1259,FRAN,Francesca's Holdings
+1260,FRBA,First Bank
+1261,FRBK,Republic First Bcp
+1262,FREQ,Frequency Therapeutics Inc
+1263,FRG,Franchise Group Inc
+1264,FRGI,Fiesta Restaurant Gp
+1265,FRHC,Freedom Holding Corp
+1266,FRME,First Merchants Corp
+1267,FRPH,Frp Holdings Inc
+1268,FRPT,Freshpet Inc CS
+1269,FRSX,Foresight Autonomous Holdings Ltd ADR
+1270,FRTA,Forterra Inc
+1271,FSBC,Fsb Community Bnksh
+1272,FSBW,FS Bancorp Inc
+1273,FSCT,Forescout Technologies Inc
+1274,FSEA,First Seacoast Bancorp
+1275,FSFG,First Savings Financ
+1276,FSLR,First Solar Inc
+1277,FSRV,Finserv Acquisition Corp. Cl A
+1278,FSRVU,Finserv Acquisition Corp
+1279,FSRVW,Finserv Acquisition Corp. WT
+1280,FSTR,Foster L B Company
+1281,FSV,Firstsrvce Sub VT Sh
+1282,FSZ,Switzerland Alphadex Fund FT
+1283,FTA,Largecap Value Alphadex Fund FT
+1284,FTAC,Fintech Acquisition Corp III Cl A
+1285,FTACU,Fintech Acquisition Corp III Unit
+1286,FTACW,Fintech Acquisition Corp III WT
+1287,FTAG,Indxx Global Agriculture ETF FT
+1288,FTC,Largecap Growth Alphadex Fund FT
+1289,FTCS,Capital Strength ETF FT
+1290,FTDR,Frontdoor Inc
+1291,FTEK,Fuel Tech Inc
+1292,FTFT,Future Fintech Group Inc
+1293,FTGC,Global Tactical Commodity Strategy Fund FT
+1294,FTHI,High Income ETF FT
+1295,FTLB,Low Beta Income ETF FT
+1296,FTNT,Fortinet Inc
+1297,FTR,Frontier Commun Cp
+1298,FTRI,Indxx Global Natural Resources Income ETF FT
+1299,FTSL,Senior Loan ETF FT
+1300,FTSM,Enhanced Short Maturity ETF FT
+1301,FTSV,Forty Seven Inc
+1302,FTXD,Nasdaq Retail ETF FT
+1303,FTXG,Nasdaq Food & Beverage ETF FT
+1304,FTXH,Nasdaq Pharmaceuticals ETF FT
+1305,FTXL,Nasdaq Semiconductor ETF FT
+1306,FTXN,Nasdaq Oil & Gas ETF FT
+1307,FTXO,Nasdaq Bank ETF FT
+1308,FTXR,Nasdaq Transportation ETF FT
+1309,FULC,Fulcrum Therapeutics Inc
+1310,FULT,Fulton Financial Cor
+1311,FUNC,First United Corp
+1312,FUND,Sprott Focus Trust
+1313,FUSB,First US Bancshares Inc
+1314,FUTU,Futu Holdings Ltd
+1315,FUV,Arcimoto Inc
+1316,FV,Dorsey Wright Focus 5 ETF FT
+1317,FVC,Dorsey Wright Dynamic Focus 5 ETF FT
+1318,FVCB,Fvcbankcorp Inc
+1319,FVE,Five Star Quality Care
+1320,FWONA,Liberty Media F1 Series A
+1321,FWONK,Liberty Media F1 Series K
+1322,FWP,Forward Pharma Ads
+1323,FWRD,Foward Air Corp
+1324,FXNC,First Natl Corp Strasburg VA
+1325,FYC,Smallcap Growth Alphadex Fund FT
+1326,FYT,Smallcap Value Alphadex Fund FT
+1327,FYX,Smallcap Core Alphadex Fund FT
+1328,GABC,German Amer Bncp Inc
+1329,GAIA,Gaiam Inc
+1330,GAIN,Gladstone Investment
+1331,GAINL,Gladstone Investment Corp Term Pfd Ser E %
+1332,GAINM,Gladstone Investment Corp
+1333,GALT,Galectin Therapeutic
+1334,GARS,Garrison Capital Inc
+1335,GASS,Stealthgas Inc
+1336,GBCI,Glacier Bancorp Inc
+1337,GBDC,Golub Capital Bdc
+1338,GBLI,Global Indemnity Plc
+1339,GBLIL,Global Indemnity Ltd 7.875% Subordinated Not
+1340,GBLIZ,Global Indmnty 7.75
+1341,GBT,Global Blood Ther
+1342,GCBC,Greene County Bncp
+1343,GCVRZ,Sanofi Cvr
+1344,GDEN,Golden Entmt
+1345,GDS,Gds Holdings Ltd
+1346,GDYN,Grid Dynamics Holdings Inc.
+1347,GDYNW,Grid Dynamics Holdings Inc. WT
+1348,GEC,Great Elm Capital Group Inc
+1349,GECC,Great Elm Capital Corp
+1350,GECCL,Great Elm Capital Corp 6.50% Notes Due 2022
+1351,GECCM,Great Elm Capital Corp 6.75% Notes Due 2025
+1352,GECCN,Great Elm Capital Corp 6.5% Notes Due 2024
+1353,GENC,Gencor Industries IN
+1354,GENE,Genetic Tech Spn Ads
+1355,GENY,Principal Millennials Index ETF
+1356,GEOS,Geospace Technologie
+1357,GERN,Geron Corp
+1358,GEVO,Gevo Inc
+1359,GFED,Guaranty Fedl Bcshs
+1360,GFN,General Finance Corp
+1361,GFNCP,General Fn Cum Pfd C
+1362,GFNSL,Genrl Fin Sr Nt 2021
+1363,GGAL,Grupo Fin Galicia
+1364,GH,Guardant Health Inc
+1365,GHIVU,Gores Holdings IV Inc
+1366,GHSI,Guardion Health Sciences Inc
+1367,GIFI,Gulf Island Fab
+1368,GIGE,Sofi Gig Economy ETF
+1369,GIGM,Gigamedia Ltd
+1370,GIII,G-III Apparel Gp
+1371,GILD,Gilead Sciences Inc
+1372,GILT,Gilat Satellite Ntwk
+1373,GLAD,Gladstone Cap Corp
+1374,GLADD,Gladstone Capital Corp 6.125% Notes Due 2
+1375,GLADL,Gladstone Capital Corp 5.375% Notes Due 2
+1376,GLBS,Globus Maritime Limi
+1377,GLBZ,Glen Burnie Bancorp
+1378,GLDD,Great Lakes Drg Dock
+1379,GLDI,CS X-Links Gold Share
+1380,GLG,China Bat Group Inc
+1381,GLIBA,Gci Liberty Inc Cl A
+1382,GLIBP,Gci Liberty Inc Ser A Pfd
+1383,GLMD,Galmed Pharmaceutica
+1384,GLNG,Golar Lng Ltd
+1385,GLPG,Galapagos NV
+1386,GLPI,Gaming & Leisure
+1387,GLRE,Greenlight Cap. Re.
+1388,GLUU,Glu Mobile Inc
+1389,GLYC,Glycomimetics Inc
+1390,GMAB,Genmab A/S
+1391,GMDA,Gamida Cell Ltd
+1392,GMHI,Gores Metropoulos Cl A
+1393,GMHIU,Gores Metropoulos Inc Unit
+1394,GMHIW,Gores Metropoulos WT
+1395,GMLP,Golar Lng Partners
+1396,GMLPP,Golar Lng Partners LP
+1397,GNCA,Genocea Biosciences
+1398,GNFT,Genfit S.A. ADR
+1399,GNLN,Greenlane Holdings Inc Cl A
+1400,GNMA,GNMA Bond Ishares ETF
+1401,GNMK,Genmark Diagnostics
+1402,GNOM,Global X Genomics & Biotechnology ETF
+1403,GNPX,Genprex Inc
+1404,GNRSU,Greenrose Acquisition Corp
+1405,GNSS,Lrad Corp
+1406,GNTX,Gentex Corp
+1407,GNTY,Guaranty Bancshares Inc
+1408,GNUS,Genius Brands International Inc
+1409,GO,Grocery Outlet Holding Corp
+1410,GOGL,Golden Ocean Gp
+1411,GOGO,Gogo Inc
+1412,GOOD,Gladstone Comml
+1413,GOODM,Gladstone Commercial Corp
+1414,GOODN,Gladstone Commercial Corp Prf Perpetual USD 25 S
+1415,GOOG,Alphabet Cl C
+1416,GOOGL,Alphabet Cl A
+1417,GOSS,Gossamer Bio Inc
+1418,GPAQ,Gordon Pointe Acquisition Corp Cl A
+1419,GPAQW,Gordon Pointe Acquisition Corp WT
+1420,GPOR,Gulfport Energy Corp
+1421,GPP,Green Plains Partners LP
+1422,GPRE,Green Plains Inc
+1423,GPRO,Gopro Inc Cl A
+1424,GRBK,Green Brick Partners
+1425,GRFS,Grifols S.A.
+1426,GRID,Nasdaq Clean Edge Smart Grid Infr Index Fund FT
+1427,GRIF,Griffin Industrial
+1428,GRIL,Muscle Maker Inc
+1429,GRIN,Grindrod Shipping Holdings Ltd
+1430,GRMN,Garmin Ltd
+1431,GRNQ,Greenpro Capital Corp
+1432,GRNV,Greenvision Acquisition Corp
+1433,GRNVR,Greenvision Acquisition Corp Rights
+1434,GRNVU,Greenvision Acquisition Corp
+1435,GRNVW,Greenvision Acquisition Corp WT
+1436,GROW,U S Global Inv Inc
+1437,GRPN,Groupon Cl A
+1438,GRTS,Gritstone Oncology Inc
+1439,GRTX,Galera Therapeutics Inc
+1440,GRVY,Gravity Co. Ltd
+1441,GRWG,Growgeneration Corp
+1442,GSBC,Great Southern Bncp
+1443,GSHD,Goosehead Insurance Inc Cl A
+1444,GSIT,Gsi Technology Inc
+1445,GSKY,Greensky Inc Cl A
+1446,GSM,Ferroglobe Plc Os
+1447,GSMG,Glory Star New Media Group Holdings Ltd.
+1448,GSMGW,Glory Star New Media Group Holdings Ltd.
+1449,GSUM,Gridsum Holding Inc
+1450,GT,Goodyear Tire Rubber
+1451,GTEC,Greenland Technologies Holding Corp.
+1452,GTHX,G1 Therapeutics Inc
+1453,GTIM,Good Times Rest
+1454,GTLS,Chart Industries IN
+1455,GTYH,Gty Technology Holdings Inc
+1456,GULF,Wisdomtree Middle East Dividend Fund
+1457,GURE,Gulf Resources Inc
+1458,GVP,GSE Systems
+1459,GWGH,Gwg Holdings
+1460,GWPH,Gw Pharma ADR
+1461,GWRS,Global Water Reso
+1462,GXGX,Gx Acquisiton Corp Cl A
+1463,GXGXU,Gx Acquisiton Corp Unit
+1464,GXGXW,Gx Acquisiton Corp WT
+1465,GXTG,Global X Thematic Growth ETF
+1466,GYRO,Gyrodyne Llc
+1467,HA,Hawaiian Hlds Inc
+1468,HABT,Habit Rest
+1469,HAFC,Hanmi Financial Cp
+1470,HAIN,Hain Celestial Group
+1471,HALL,Hallmark Fin Svc
+1472,HALO,Halozyme Therapeutic
+1473,HAPP,Happiness Biotech Group Ltd
+1474,HARP,Harpoon Therapeutics Inc
+1475,HAS,Hasbro Inc
+1476,HAYN,Haynes Intl Inc
+1477,HBAN,Huntington Bcshs
+1478,HBANN,Huntington Bancshares Incorporated ADR
+1479,HBANO,Huntington Banc. Dep
+1480,HBCP,Home Bancorp Inc
+1481,HBIO,Harvard Bioscience
+1482,HBMD,Howard Bancorp MD
+1483,HBNC,Horizon Bancorp
+1484,HBP,Huttig Bldg Products
+1485,HBT,Hbt Financial Inc
+1486,HCAC,Hennessy Capital Acquisition Corp IV Cl A
+1487,HCACU,Hennessy Capital Acquisition Corp IV Unit
+1488,HCACW,Hennessy Capital Acquisition Corp IV WT
+1489,HCAP,Harvest Capital Cred
+1490,HCAPZ,Harvest Capital Credit Corp 6.125% Notes
+1491,HCAT,Health Catalyst Inc
+1492,HCCH,Hl Acquisitions Corp
+1493,HCCHR,Hl Acquisitions Corp Right
+1494,HCCHW,Hl Acquisitions Corp WT
+1495,HCCI,Heritage-Crystal
+1496,HCCO,Healthcare Merger Corp. Cl A
+1497,HCCOU,Healthcare Merger Corp. Units
+1498,HCCOW,Healthcare Merger Corp. Warrants
+1499,HCKT,Hackett Grp Inc
+1500,HCM,Hutchison China Ads
+1501,HCSG,Healthcare Svcs Gp
+1502,HDS,HD Supply Hlds Cmm
+1503,HDSN,Hudson Tech Inc
+1504,HEAR,Turtle Beach Corp
+1505,HEBT,Hebron Technology Co. Ltd
+1506,HEES,H&E Equip Services
+1507,HELE,Helen of Troy Ltd
+1508,HEPA,Hepion Pharmaceuticals Inc
+1509,HERD,Pacer Cash Cows Fund of Funds ETF
+1510,HERO,Global X Video Games & Esports ETF
+1511,HEWG,Germany Curr Hedged Ishares MSCI ETF
+1512,HFBL,Home Federal
+1513,HFFG,HF Foods Group Inc
+1514,HFWA,Heritage Financial
+1515,HGSH,China Hgs Real Est
+1516,HHHH,Wealthbridge Acquisition Ltd
+1517,HHHHR,Wealthbridge Acquisition Ltd Rights
+1518,HHHHU,Wealthbridge Acquisition Ltd Units
+1519,HHHHW,Wealthbridge Acquisition Ltd WT
+1520,HHR,Headhunter Group Plc ADR
+1521,HHT,Huitao Technology Co. Ltd
+1522,HIBB,Hibbett Sports Inc
+1523,HIFS,Hingham Inst For Svg
+1524,HIHO,Highway Hlds Ltd
+1525,HIIQ,Health Insurance Inn
+1526,HIMX,Himax Technologies
+1527,HJLI,Hancock Jaffe Laboratories Inc
+1528,HJLIW,Hancock Jaffe Laboratories Inc WT
+1529,HLAL,Wahed FTSE USA Shariah ETF
+1530,HLG,Hailiang Edu Grp Ads
+1531,HLIO,Helios Technologies Inc
+1532,HLIT,Harmonic Inc
+1533,HLNE,Hamilton Lane Incorporated Cl A
+1534,HMHC,Houghton Mifflin Har
+1535,HMNF,Hmn Financial Inc
+1536,HMST,Homestreet Inc
+1537,HMSY,Hms Hlds Cp
+1538,HMTV,Hemisphere Media A
+1539,HNDL,Strategy Shares Nasdaq 7Handl Index ETF
+1540,HNNA,Hennessy Advisors
+1541,HNRG,Hallador Energy Company
+1542,HOFT,Hooker Furniture
+1543,HOLI,Hollysys Automation
+1544,HOLX,Hologic Inc
+1545,HOMB,Home Bancshares Inc
+1546,HONE,Harborone Bancorp Inc
+1547,HOOK,Hookipa Pharma Inc
+1548,HOPE,Hope Bancorp Inc
+1549,HOTH,Hoth Therapeutics Inc
+1550,HOVNP,Hovnanian Entr Dep A
+1551,HQI,Hirequest Inc
+1552,HQY,Healthequity
+1553,HROW,Harrow Health Inc
+1554,HRTX,Heron Therapeutics
+1555,HRZN,Horizon Technology F
+1556,HSDT,Helius Medical Technologies Inc
+1557,HSIC,Henry Schein Inc
+1558,HSII,Heidrick & Struggl
+1559,HSKA,Heska Corp
+1560,HSON,Hudson Global
+1561,HSTM,Healthstream Inc
+1562,HTBI,Hometrust Bancshares
+1563,HTBK,Heritage Commerce
+1564,HTBX,Heat Biologics Inc
+1565,HTGM,Htg Molecular Dia
+1566,HTHT,Huazhu Group Ltd
+1567,HTIA,Healthcare TR Inc
+1568,HTLD,Heartland Express
+1569,HTLF,Heartland Finl USA
+1570,HUBG,Hub Group Inc A
+1571,HUGE,Fsd Pharma Inc Cl B
+1572,HUIZ,Huize Holding Limited ADR
+1573,HURC,Hurco Cos Inc
+1574,HURN,Huron Consulting
+1575,HVBC,Hv Bancorp Inc
+1576,HWBK,Hawthorn Bancshares
+1577,HWC,Hancock Whitney Corp
+1578,HWCC,Houston Wire Cable
+1579,HWCPL,Hancock Whitney Corp 5.95 Nt
+1580,HWKN,Hawkins Inc
+1581,HX,Hexindai Inc
+1582,HYAC,Haymaker Acquisition Corp II Cl A
+1583,HYACU,Haymaker Acquisition Corp Unit
+1584,HYACW,Haymaker Acquisition Corp II WT
+1585,HYLS,Tactical High Yield ETF FT
+1586,HYND,Wisdomtree Neg Duration HI Yld Bond Fund
+1587,HYRE,Hyrecar Inc
+1588,HYXE,High Yield Ex Oil and Gas Corp Bond Ishares Ibox
+1589,HYZD,Wisdomtree Int Rate HI Yld Bond Hedged Fund
+1590,HZNP,Horizon Therapeutics
+1591,IAC,Iac Interactive
+1592,IART,Integra Lifesciences
+1593,IBB,Nasdaq Biotechnology Ishares ETF
+1594,IBCP,Independent Bk Cp
+1595,IBKC,Iberiabank Corp
+1596,IBKCN,Iberiabank Corp Dep Shs Repstg
+1597,IBKCO,Iberiabank Ds Rep C
+1598,IBKCP,Iberiabank Dp Sh B
+1599,IBKR,Interactive Brokers
+1600,IBOC,Intl Bancshares
+1601,IBTA,Ishares Ibonds Dec 2021 Term Treasury ETF
+1602,IBTB,Ishares Ibonds Dec 2022 Term Treasury ETF
+1603,IBTD,Ishares Ibonds Dec 2023 Term Treasury ETF
+1604,IBTE,Ishares Ibonds Dec 2024 Term Treasury ETF
+1605,IBTF,Ishares Ibonds Dec 2025 Term Treasury ETF
+1606,IBTG,Ishares Ibonds Dec 2026 Term Treasury ETF
+1607,IBTH,Ishares Ibonds Dec 2027 Term Treasury ETF
+1608,IBTI,Ishares Ibonds Dec 2028 Term Treasury ETF
+1609,IBTJ,Ishares Ibonds Dec 2029 Term Treasury ETF
+1610,IBTX,Independent Bank Group
+1611,IBUY,Online Retail Amplify ETF
+1612,ICAD,Icad Inc
+1613,ICBK,County Bancorp
+1614,ICCC,Immucell Cp
+1615,ICCH,Icc Holdings Inc
+1616,ICFI,Icf International
+1617,ICHR,Ichor Holdings Ltd
+1618,ICLK,Iclick Interactive Asia Group Ltd ADR
+1619,ICLN,Global Clean Energy Ishares ETF
+1620,ICLR,Icon Plc
+1621,ICMB,Investcorp Credit Management Bdc Inc
+1622,ICON,Iconix Brand Group
+1623,ICPT,Intercept Pharmaceuticals
+1624,ICUI,I C U Medical Inc
+1625,IDCC,Interdigital Inc
+1626,IDEX,Ideanomics Inc
+1627,IDLB,FTSE Intl Low Beta EW Invesco ETF
+1628,IDN,Intellicheck Mobilisia
+1629,IDRA,Idera Pharmaceuticals
+1630,IDXG,Interpace Diag Group
+1631,IDXX,Idexx Laboratories
+1632,IDYA,Ideaya Biosciences Inc
+1633,IEA,Infrastructure and Energy Alternatives Inc
+1634,IEAWW,Infrastructure and Energy Alternatives Inc WT
+1635,IEC,IEC Electronics
+1636,IEF,7-10 Year Treas Bond Ishares ETF
+1637,IEI,3-7 Year Treas Bond Ishares ETF
+1638,IEP,Icahn Enterprises
+1639,IESC,Ies Holdings
+1640,IEUS,Europe Small-Cap Ishares MSCI ETF
+1641,IFEU,Europe Developed Real Estate Ishares ETF
+1642,IFGL,Intl Developed Real Estate Ishares ETF
+1643,IFMK,Ifresh Inc
+1644,IFRX,Fireman B.V.
+1645,IFV,Dorsey Wright Intl Focus 5 ETF FT
+1646,IGF,Global Infrastructure Ishares ETF
+1647,IGIB,Intermediate-Term Corp Bond Ishares ETF
+1648,IGIC,International General Insurance Hldg Inc.
+1649,IGICW,International General Insurance Hldg Inc.
+1650,IGMS,Igm Biosciences Inc
+1651,IGOV,Intl Treasury Bond Ishares ETF
+1652,IGSB,Short-Term Corp Bond Ishares ETF
+1653,IHRT,Iheartmedia Inc
+1654,III,Information Svcs Group
+1655,IIIN,Insteel Industries
+1656,IIIV,I3 Verticals Inc Cl A
+1657,IIN,Intricon Corp
+1658,IIVI,I I V I Inc
+1659,IJT,S&P Small-Cap 600 Growth Ishares ETF
+1660,IKNX,Ikonics Corp
+1661,ILMN,Illumina Inc
+1662,ILPT,Industrial Logistics Properties Trust
+1663,IMAB,I-Mab American Depositary Shares
+1664,IMAC,Imac Holdings Inc
+1665,IMACW,Imac Holdings Inc WT
+1666,IMBI,Imedia Brands Inc
+1667,IMGN,Immunogen Inc
+1668,IMKTA,Ingles Markets Inc
+1669,IMMP,Immutep Ltd ADR
+1670,IMMR,Immersion Corp
+1671,IMMU,Immunomedics Inc
+1672,IMOS,Chipmos Tech
+1673,IMRA,Imara Inc
+1674,IMRN,Immuron Ltd
+1675,IMRNW,Immuron Ltd WT
+1676,IMTE,Integrated Media Technology
+1677,IMUX,Immunic Inc
+1678,IMV,Imv Inc
+1679,IMVT,Immunovant Inc.
+1680,IMVTU,Immunovant Inc Units
+1681,IMVTW,Immunovant Inc. Wt. Exp. 12/18/24
+1682,IMXI,International Money Express Inc
+1683,INAP,Internap Corp
+1684,INBK,First Internet Bcp
+1685,INBKL,First Internet Bancorp
+1686,INBKZ,First Internet Bancorp 6.0% Fixed-To-Floating Ra
+1687,INCY,Incyte Corp
+1688,INDB,Independent Bk Corp
+1689,INDY,India 50 Ishares ETF
+1690,INFI,Infinity Pharmaceuti
+1691,INFN,Infinera Corp
+1692,INFR,Legg Global Infrastructure ETF
+1693,INGN,Inogen Inc
+1694,INMB,Inmune Bio Inc
+1695,INMD,Inmode Ltd
+1696,INNT,Innovate Biopharmaceuticals Inc
+1697,INO,Inovio Pharma
+1698,INOD,Innodata Inc
+1699,INOV,Inovalon Hlds Cm A
+1700,INPX,Inpixon
+1701,INSE,Inspired Entertainment Inc
+1702,INSG,Inseego Corp
+1703,INSM,Insmed Inc
+1704,INSU,Insurance Acquisition Corp Cl A
+1705,INSUU,Insurance Acquisition Corp Unit
+1706,INSUW,Insurance Acquisition Corp WT
+1707,INTC,Intel Corp
+1708,INTG,Intergroup Cp The
+1709,INTL,Intl Fcstone Inc
+1710,INTU,Intuit Inc
+1711,INVA,Innoviva Inc
+1712,INVE,Identiv Inc
+1713,INWK,Innerworkings Inc
+1714,IONS,Ionis Pharmaceuticals
+1715,IOSP,Innospec Inc
+1716,IOTS,Adesto Tech
+1717,IOVA,Iovance Biotherapeutics Inc
+1718,IPAR,Inter Parfums Inc
+1719,IPGP,Ipg Photonics Corp
+1720,IPHA,Innate Pharma S.A. Ads
+1721,IPKW,Intl Buyback Achievers Invesco ETF
+1722,IPLDP,Interstate Power & Light Company Perp Prd Se
+1723,IPWR,Ideal Power Inc
+1724,IQ,Iqiyi Inc ADR
+1725,IRBT,Irobot Corp
+1726,IRCP,Irsa Propiedades Ads
+1727,IRDM,Iridium Comm Inc
+1728,IRIX,Iridex Cp
+1729,IRMD,Iradimed Cp
+1730,IROQ,If Bancorp Inc
+1731,IRTC,Irhythm Technologies Inc
+1732,IRWD,Ironwood Pharmaceuti
+1733,ISBC,Investors Bancorp
+1734,ISDS,Invesco Developed Ex-US Small Company ETF
+1735,ISDX,Invesco Developed Ex-US ETF
+1736,ISEE,Iveric Bio Inc
+1737,ISEM,Invesco Emerging Markets ETF
+1738,ISHG,1-3 Year Intl Treas Bond Ishares ETF
+1739,ISIG,Insignia Systems
+1740,ISNS,Image Sensing Syst
+1741,ISRG,Intuitive Surg Inc
+1742,ISSC,Innovative Sol&Sup
+1743,ISTB,1-5 Year USD Bond Ishares Core ETF
+1744,ISTR,Investar Holding
+1745,ITCI,Intra-Cellular Ther
+1746,ITI,Iteris Inc
+1747,ITIC,Investors Title Company
+1748,ITMR,Itamar Medical Ltd ADR
+1749,ITRI,Itron Inc
+1750,ITRM,Iterum Therapeutics Plc
+1751,ITRN,Ituran Location
+1752,IUS,Invesco Strategic US ETF
+1753,IUSB,USD Bond Market Total Ishares Core ETF
+1754,IUSG,S&P US Growth Ishares Core ETF
+1755,IUSS,Invesco US Small Company ETF
+1756,IUSV,S&P US Value Ishares Core ETF
+1757,IVAC,Intevac Inc
+1758,IXUS,Total Intl Stock Ishares Core MSCI ETF
+1759,IZEA,Izea Inc
+1760,JACK,Jack IN The Box Inc
+1761,JAGX,Jaguar Health Inc
+1762,JAKK,Jakks Pacific Inc
+1763,JAN,Janone Inc
+1764,JAZZ,Jazz Pharma Plc
+1765,JBHT,J B Hunt Transport
+1766,JBLU,Jetblue Airways Cp
+1767,JBSS,John B Sanfilippo
+1768,JCOM,J2 Global Inc
+1769,JCS,Commun Systems Inc
+1770,JCTCF,Jewett-Cameron Trd
+1771,JD,Jd.com Inc Ads
+1772,JFIN,Jiayin Group Inc ADR
+1773,JFK,8I Enterprises Acquisition Corp
+1774,JFKKR,8I Enterprises Acquisition Corp Right
+1775,JFKKU,8I Enterprises Acquisition Corp Unit
+1776,JFKKW,8I Enterprises Acquisition Corp WT
+1777,JFU,9F Inc ADR
+1778,JG,Aurora Mobile Ltd ADR
+1779,JJSF,J J Snack Foods
+1780,JKHY,Jack Henry & Assoc
+1781,JKI,Mstar Mid-Cap Value Ishares ETF
+1782,JMPNL,JMP Group Llc 7.25% Senior Notes Due 2027
+1783,JMPNZ,JMP Group Llc 6.875% Senior Notes Due 2029
+1784,JNCE,Jounce Therapeutics Inc
+1785,JOBS,51Job Inc
+1786,JOUT,Johnson Outdoors
+1787,JRJC,China Finance Online
+1788,JRSH,Jerash Holdings Inc
+1789,JRVR,James River Gp HD
+1790,JSM,SLM Cp 6% Sr Nt
+1791,JSMD,Janus Small/Midcap Growth ETF
+1792,JSML,Janus Smallcap Growth ETF
+1793,JVA,Coffee Holding Company
+1794,JYNT,The Joint Corp
+1795,KALA,Kala Pharmaceuticals Inc
+1796,KALU,Kaiser Aluminum
+1797,KALV,Kalvista Pharmaceuticals Inc
+1798,KBAL,Kimball Intl Cl B
+1799,KBLM,Kbl Merger Corp IV
+1800,KBLMR,Kbl Merger Corp IV Right
+1801,KBLMU,Kbl Merger Corp. IV
+1802,KBLMW,Kbl Merger Corp IV WT
+1803,KBSF,Kbs Fashion Gp Ltd
+1804,KBWB,KBW Bank Invesco ETF
+1805,KBWD,KBW High Dividend Yield Financial Invesco ETF
+1806,KBWP,KBW Property & Casualty Insurance Invesco ETF
+1807,KBWR,KBW Regional Banking Invesco ETF
+1808,KBWY,KBW Premium Yield Equity REIT Invesco ETF
+1809,KCAPL,Kcap Financial Inc 6.125% Notes Due 2022
+1810,KE,Kimball Electrnc
+1811,KELYA,Kelly Svcs Cl A
+1812,KELYB,Kelly Services Inc Cl B
+1813,KEQU,Kewaunee Scientifi
+1814,KERN,Akerna Corp Cl A
+1815,KERNW,Akerna Corp WT
+1816,KFFB,Kentucky First Fed
+1817,KFRC,Kforce Inc
+1818,KGJI,Kingold Jewelry Inc
+1819,KHC,Kraft Heinz Company
+1820,KIDS,Orthopediatrics Corp
+1821,KIN,Kindred Biosciences
+1822,KINS,Kingstone Cos Inc
+1823,KIRK,Kirkland's Inc
+1824,KLAC,K L A-Tencor Corp
+1825,KLDO,Kaleido Biosciences Inc
+1826,KLIC,Kulicke and Soffa
+1827,KLXE,Klx Energy Services Holdings Inc
+1828,KMDA,Kamada Ltd
+1829,KMPH,Kempharm Inc
+1830,KNDI,Kandi Techs Group
+1831,KNSA,Kiniksa Pharmaceuticals Ltd
+1832,KNSL,Kinsale Capital Group Inc
+1833,KOD,Kodiak Sciences Inc
+1834,KOPN,Kopin Cp
+1835,KOSS,Koss Cp
+1836,KPTI,Karyopharm Therapeut
+1837,KRKR,36Kr Holdings Inc ADR
+1838,KRMA,G-X Conscious Companies ETF
+1839,KRMD,Repro Med Sys Inc
+1840,KRNT,Kornit Digital Ord
+1841,KRNY,Kearny Financial
+1842,KRTX,Karuna Therapeutics Inc
+1843,KRUS,Kura Sushi USA Inc Cl A
+1844,KRYS,Krystal Biotech Inc
+1845,KTCC,Key Tronic Cp
+1846,KTOS,Kratos Defns
+1847,KTOV,Kitov Pharamceut Ads
+1848,KTOVW,Kitov Pharamceuti WT
+1849,KURA,Kura Oncology
+1850,KVHI,K V H Inds Inc
+1851,KXIN,Kaixin Auto Holdings
+1852,KZIA,Kazia Therapeutics Ltd
+1853,KZR,Kezar Life Sciences Inc
+1854,LACQ,Leisure Acquisition Corp
+1855,LACQU,Leisure Acquisition Corp Unit
+1856,LACQW,Leisure Acquisition Corp WT
+1857,LAKE,Lakeland Inds Inc
+1858,LAMR,Lamar Advertis A
+1859,LANC,Lancaster Colony Cor
+1860,LAND,Gladstone Land Corp
+1861,LANDP,Gladstone Land Corp
+1862,LARK,Landmark Bancorp Inc
+1863,LASR,Nlight Inc
+1864,LATN,Union Acquisition Corp. II
+1865,LATNU,Union Acquisition Corp II Units
+1866,LATNW,Union Acquisition Corp. II WT
+1867,LAUR,Laureate Education Inc
+1868,LAWS,Lawson Products IN
+1869,LAZY,Lazydays Holdings Inc
+1870,LBAI,Lakeland Bancorp Inc
+1871,LBC,Luther Burbank Corp
+1872,LBRDA,Liberty Broadbd A
+1873,LBRDK,Liberty Broadbd C
+1874,LBTYA,Liberty Global Ord A
+1875,LBTYB,Liberty Global Ord B
+1876,LBTYK,Liberty Global Ord C
+1877,LCA,Landcadia Holdings II Inc Cl A
+1878,LCAHU,Landcadia Holdings II Inc Unit
+1879,LCAHW,Landcadia Holdings II Inc WT
+1880,LCNB,Lcnb Corp
+1881,LCUT,Lifetime Brands Inc
+1882,LDEM,Ishares ESG MSCI EM Leaders ETF
+1883,LDSF,FT Low Duration Strategic Focus ETF
+1884,LE,Lands' End Inc
+1885,LECO,Lincoln Elec Hld
+1886,LEDS,Semileds Corp
+1887,LEGH,Legacy Housing Corp
+1888,LEGR,First Trust Indxx Innovative Transaction & Proce
+1889,LEVL,Level One Bancorp Inc
+1890,LFAC,Lf Capital Acquistion Corp Cl A
+1891,LFACU,Lf Capital Acquistion Corp Unit
+1892,LFACW,Lf Capital Acquistion Corp WT
+1893,LFUS,Littelfuse Inc
+1894,LFVN,Lifevantage Cp
+1895,LGIH,LGI Homes Inc
+1896,LGND,Ligand Pharm
+1897,LHCG,LHC Group Inc
+1898,LIFE,Atyr Pharma Inc
+1899,LILA,Liberty Latin America Cl A
+1900,LILAK,Liberty Latin America Cl C
+1901,LINC,Lincoln Educational
+1902,LIND,Lindblad Expd Hld
+1903,LIQT,Liqtech International Inc
+1904,LITE,Lumentum Hld
+1905,LIVE,Live Ventures
+1906,LIVK,Liv Capital Acquisition Corp. Cl A
+1907,LIVKU,Liv Capital Acquisition Corp
+1908,LIVKW,Liv Capital Acquisition Corp. WT
+1909,LIVN,Livanova Plc OR Sh
+1910,LIVX,Livexlive Media Inc
+1911,LIZI,Lizhi Inc American Depositary Shares
+1912,LJPC,LA Jolla Pharma
+1913,LK,Luckin Coffee Inc ADR
+1914,LKCO,Luokung Technology Corp
+1915,LKFN,Lakeland Finl Corp
+1916,LKQ,LKQ Corp
+1917,LLIT,Lianluo Smart Ltd
+1918,LLNW,Limelight Networks
+1919,LMAT,Lemaitre Vascular
+1920,LMB,Limbach Holdings Inc
+1921,LMBS,Low Duration Opportunities ETF FT
+1922,LMFA,Lm Funding America Inc
+1923,LMFAW,Lm Funding WT
+1924,LMNL,Liminal Biosciences Inc.
+1925,LMNR,Limoneira Company
+1926,LMNX,Luminex Corp
+1927,LMPX,Lmp Automotive Holdings Inc
+1928,LMRK,Landmark Common Units
+1929,LMRKN,Landmark Infrastructure Partners LP
+1930,LMRKO,Landmark Infrastructure Partners LP
+1931,LMRKP,Landmark Inf Prf
+1932,LMST,Limestone Bancorp Inc
+1933,LNDC,Landec Cp
+1934,LNGR,G-X Longevity Thematic Et
+1935,LNT,Alliant Energy Corp
+1936,LNTH,Lantheus Holdings
+1937,LOAC,Longevity Acquisition Corp
+1938,LOACR,Longevity Acquisition Corp Right
+1939,LOACU,Longevity Acquisition Corp Units
+1940,LOACW,Longevity Acquisition Corp WT
+1941,LOAN,Manhattan Bridge
+1942,LOB,Live Oak Bancsh
+1943,LOCO,El Pollo Loco
+1944,LOGC,Logicbio Therapeutics Inc
+1945,LOGI,Logitech Int S.A.
+1946,LOGM,Logmein Inc
+1947,LONE,Lonestar Resources US Inc
+1948,LOOP,Loop Industries Inc
+1949,LOPE,Grand Canyon Educati
+1950,LORL,Loral Space Comm
+1951,LOVE,The Lovesac Company
+1952,LPCN,Lipocine Inc
+1953,LPLA,Lpl Financial Hld
+1954,LPSN,Liveperson Inc
+1955,LPTH,Lightpath Tech Inc
+1956,LPTX,Leap Therapeutics Inc
+1957,LQDA,Liquidia Technologies Inc
+1958,LQDT,Liquidity Services
+1959,LRCX,Lam Research Corp
+1960,LRGE,Legg Clearbridge Large Cap Groowth ETF
+1961,LSACU,Lifesci Acquisition Corp. Unit 1 Com & 1 WT
+1962,LSBK,Lake Shore Bancorp
+1963,LSCC,Lattice Semicond
+1964,LSTR,Landstar System
+1965,LSXMA,Liberty Srs XM CS A
+1966,LSXMB,Liberty Srs XM CS B
+1967,LSXMK,Liberty Srs XM CS C
+1968,LTBR,Lightbridge Corp
+1969,LTRPA,Liberty Tripadv A
+1970,LTRPB,Liberty Tripadv B
+1971,LTRX,Lantronix Inc
+1972,LULU,Lululemon Athletica
+1973,LUMO,Lumos Pharma Inc.
+1974,LUNA,Luna Innovations Inc
+1975,LVGO,Livongo Health Inc
+1976,LVHD,Legg Low Vol HI Div ETF
+1977,LWAY,Lifeway Foods Inc
+1978,LX,Lexinfintech Holdings Ltd
+1979,LXRX,Lexicon Pharmaceutcl
+1980,LYFT,Lyft Inc Cl A
+1981,LYL,Dragon Victory Intl Ltd
+1982,LYTS,L S I Industries
+1983,MACK,Merrimack Pharmaceuticals Inc
+1984,MAGS,Magal Security Syst
+1985,MANH,Manhattan Assoc
+1986,MANT,Mantech Intl Cp A
+1987,MAR,Marriot Int Cl A
+1988,MARA,Marathon Patent Grou
+1989,MARK,Remark Holdings Inc
+1990,MARPS,Marine Petroleum U
+1991,MASI,Masimo Corp
+1992,MAT,Mattel Inc
+1993,MATW,Matthews Intl Corp
+1994,MAYS,J W Mays Inc
+1995,MBB,MBS Ishares ETF
+1996,MBCN,Middlefield Banc
+1997,MBII,Marrone Bio Innov
+1998,MBIN,Merchants Bancorp
+1999,MBINO,Merchants Bancorp Depositary Shares Each Represe
+2000,MBINP,Merchants Bancorp [Indiana] Perp Pfd Ser A
+2001,MBIO,Mustang Bio Inc
+2002,MBNKP,Medallion Bank Fixed-To-Floating Rate Non-Cumula
+2003,MBOT,Microbot Medical Inc
+2004,MBRX,Moleculin Biotech CS
+2005,MBSD,Flexshares Disciplined Duration MBS Index Fund
+2006,MBUU,Malibu Boats Inc
+2007,MBWM,Mercantile Bank Corp
+2008,MCBC,Macatawa Bank Corp
+2009,MCBS,Metrocity Bankshares Inc
+2010,MCEF,Municipal CEF Income Opportunity ETF FT
+2011,MCEP,Mid-Con Energy Partn
+2012,MCFT,Mcbc Holdings
+2013,MCHI,China Ishares MSCI ETF
+2014,MCHP,Microchip Technology
+2015,MCHX,Marchex Inc
+2016,MCMJ,Merida Merger Corp. I
+2017,MCMJW,Merida Merger Corp I WT
+2018,MCRB,Seres Theraptc
+2019,MCRI,Monarch Casino
+2020,MDB,Mongodb Inc Cl A
+2021,MDCA,Mdc Partners Cl A
+2022,MDGL,Madrigal Pharmaceuticals Inc
+2023,MDGS,Medigus Ltd Ads
+2024,MDGSW,Medigus Ltd Series C WT
+2025,MDIA,Mediaco Holding Inc Class A Common Stock When Is
+2026,MDIV,Multi-Asset Diversified Income Index Fund FT
+2027,MDJH,Mdjm Ltd
+2028,MDLZ,Mondelez Intl Inc
+2029,MDRR,Medalist Diversified REIT Inc
+2030,MDRRP,Medalist Diversified REIT Inc Series A
+2031,MDRX,Allscripts Hlthcare
+2032,MDWD,Mediwound Ltd Ord Sh
+2033,MEDP,Medpace Holdings Inc
+2034,MEDS,Trxade Group Inc
+2035,MEET,The Meet Group
+2036,MEIP,Mei Pharma Inc
+2037,MELI,Mercadolibre Inc
+2038,MEOH,Methanex Cp
+2039,MERC,Mercer Intl Inc
+2040,MESA,Mesa Air Group Inc
+2041,MESO,Mesoblast Ltd Ads
+2042,METC,Ramaco Resources Inc
+2043,MFH,Jmu Ltd
+2044,MFIN,Medallion Fin Cp
+2045,MFINL,Medallion Fin Notes
+2046,MFNC,Mackinac Financial
+2047,MFSF,Mutualfirst Finl Inc
+2048,MGEE,Mge Energy Inc
+2049,MGEN,Miragen Therapeutics Inc
+2050,MGI,Moneygram Intl
+2051,MGIC,Magic Software Entpr
+2052,MGLN,Magellan Health
+2053,MGNX,Macrogenics
+2054,MGPI,MGP Ingredients Inc
+2055,MGRC,Mcgrath Rentcorp
+2056,MGTA,Magenta Therapeutics Inc
+2057,MGTX,Meiragtx Holdings Plc
+2058,MGYR,Magyar Bancorp Inc
+2059,MHLD,Maiden Holdings Ltd
+2060,MICT,Micronet Enertec Tec
+2061,MIDD,Middleby Corp
+2062,MIK,The Michaels Comp
+2063,MILN,G-X Millennials Thematic ETF
+2064,MIME,Mimecast Ltd Ord
+2065,MIND,Mitcham Industries Inc
+2066,MINDP,Mitcham Industries Inc
+2067,MINI,Mobile Mini Inc
+2068,MIRM,Mirum Pharmaceuticals Inc
+2069,MIST,Milestone Pharmaceuticals Inc
+2070,MITK,Mitek Systems Inc
+2071,MITO,Stealth Biotherapeutics Corp Ads
+2072,MJCO,Majesco
+2073,MKD,Molecular Data Inc Ads
+2074,MKGI,Monaker Group Inc
+2075,MKSI,Mks Instruments Inc
+2076,MKTX,Marketaxess Holdings
+2077,MLAB,Mesa Labs Inc
+2078,MLCO,Melco Resorts & Entertainment
+2079,MLHR,Miller Herman Inc
+2080,MLND,Millendo Therapeutics Inc
+2081,MLNX,Mellanox Technologies
+2082,MLVF,Malvern Bncp
+2083,MMAC,Mma Capital Mngt
+2084,MMLP,Martin Midstrm LP
+2085,MMSI,Merit Medical Sys
+2086,MMYT,Makemytrip Ltd
+2087,MNCL,Monocle Acquisition Corp
+2088,MNCLU,Monocle Acquisition Corp Units
+2089,MNCLW,Monocle Acquisition Corp WT
+2090,MNDO,Mind C.T.I. Ltd
+2091,MNKD,Mannkind Corp
+2092,MNLO,Menlo Therapeutics Inc
+2093,MNOV,Medicinova Inc
+2094,MNPR,Monopar Therapeutics Inc
+2095,MNRO,Monro Muffler Brak
+2096,MNSB,Mainstreet Bank
+2097,MNST,Monster Beverage Cp
+2098,MNTA,Momenta Pharma
+2099,MNTX,Manitex Intl Inc
+2100,MOBL,Mobileiron Inc
+2101,MOFG,Midwestone Fnl Gp
+2102,MOGO,Mogo Inc
+2103,MOHO,Ecmoho Ltd ADR
+2104,MOMO,Momo Inc Ads
+2105,MOR,Morphosys Ag ADR
+2106,MORF,Morphic Holding Inc
+2107,MORN,Morningstar Inc
+2108,MOSY,Mosys Inc
+2109,MOTS,Motus Gi Holdings Inc
+2110,MOXC,Moxian Inc
+2111,MPAA,Motorcar Parts Amer
+2112,MPB,Mid Penn Bancorp Inc
+2113,MPWR,Monolithic Power Sys
+2114,MRAM,Everspin Technologies Inc
+2115,MRBK,Meridian Bank
+2116,MRCC,Monroe Capital Corp
+2117,MRCCL,Monroe Capital Corp 5.75% Notes Due 2023
+2118,MRCY,Mercury Sys Inc
+2119,MREO,Mereo Biopharma Group Plc ADR
+2120,MRIN,Marin Sotfware Incorporated
+2121,MRKR,Marker Therapeutics Inc
+2122,MRLN,Marlin Business Serv
+2123,MRNA,Moderna Inc
+2124,MRNS,Marinus Pharma CS
+2125,MRSN,Mersana Therapeutics Inc
+2126,MRTN,Marten Transport L
+2127,MRTX,Mirati Therapeutics
+2128,MRUS,Merus N.V. CS
+2129,MRVL,Marvell Tech Group
+2130,MSBF,MSB Financial
+2131,MSBI,Midland Sts BNC
+2132,MSEX,Middlesex Water Company
+2133,MSFT,Microsoft Corp
+2134,MSON,Misonix Inc
+2135,MSTR,Microstrategy Cl A
+2136,MSVB,Mid-Southn Svg Bk IN
+2137,MTBC,Medical Transc Bl
+2138,MTBCP,Mtbc 11% Sr A Prf ST
+2139,MTC,Mmtec Inc
+2140,MTCH,Match Group Inc CS
+2141,MTEM,Molecular Templates Inc
+2142,MTEX,Mannatech Inc
+2143,MTLS,Materialise NV Ads
+2144,MTP,Midatech Pharma Ads
+2145,MTRX,Matrix Service Company
+2146,MTSC,M T S Systems Cp
+2147,MTSI,Macom Technology S
+2148,MTSL,Mer Telemanagement Solutions Ltd
+2149,MU,Micron Technology
+2150,MUDS,Mudrick Capital Acquisition Corp Cl A
+2151,MUDSU,Mudrick Capital Acquisition Corp Unit
+2152,MUDSW,Mudrick Capital Acquisition Corp WT
+2153,MVBF,Mvb Financial Corp
+2154,MVIS,Microvision
+2155,MWK,Mohawk Group Holdings Inc
+2156,MXIM,Maxim Integrated
+2157,MYFW,First Western Financial Inc
+2158,MYGN,Myriad Genetics Inc
+2159,MYL,Mylan NV Ord Shs
+2160,MYOK,Myokardia Inc
+2161,MYOS,Myos Rens Tech
+2162,MYRG,MYR Group Inc
+2163,MYSZ,My Size Inc
+2164,MYT,Urban Tea Inc
+2165,NAII,Natural Alternativ
+2166,NAKD,Naked Brand Group Inc
+2167,NAOV,Nanovibronix Inc
+2168,NATH,Nathan's Famous IN
+2169,NATI,Natl Instruments Cor
+2170,NATR,Nature S Sunshine
+2171,NAVI,Navient Cp
+2172,NBACU,Newborn Acquisition Corp
+2173,NBEV,New Age Beverages Corp
+2174,NBIX,Neurocrine Bioscienc
+2175,NBL,Noble Energy Inc
+2176,NBLX,Noble Midstream Partners LP
+2177,NBN,Northeast Bncp
+2178,NBRV,Nabriva Therape Ads
+2179,NBSE,Neu Base Therapeutics Inc
+2180,NBTB,NBT Bancorp Inc
+2181,NCBS,Nicolet Bnkshr
+2182,NCMI,National Cinemedia
+2183,NCNA,Nucana Plc ADR
+2184,NCSM,Ncs Multistage Holdings Inc
+2185,NCTY,The9 Ltd
+2186,NDAQ,Nasdaq Inc
+2187,NDLS,Noodles & Company
+2188,NDRA,Endra Life Sciences Inc
+2189,NDRAW,Endra Life Sciences Inc WT
+2190,NDSN,Nordson Corp
+2191,NEBU,Nebula Acquisition Corp Cl A
+2192,NEBUU,Nebula Acquisition Corp Unit
+2193,NEBUW,Nebula Acquisition Corp WT
+2194,NEO,Neogenomics Inc
+2195,NEOG,Neogen Cp
+2196,NEON,Neonode Inc
+2197,NEOS,Neos Therapeutics
+2198,NEPH,Nephros Inc
+2199,NEPT,Neptune Wellness Solutions Inc
+2200,NERV,Minerva Neuroscie
+2201,NESR,National Energy Services Reunited Corp
+2202,NESRW,National Energy Services Reunited Corp WT
+2203,NETE,Net Element Inc
+2204,NEWA,Newater Technology Inc
+2205,NEWT,Newtek Bus Svcs
+2206,NEWTI,Newtek Business Services Corp 6.25% Notes Due 2
+2207,NEWTL,Newtek Business Services Corp 5.75% Notes Due 2
+2208,NEXT,Nextdecade Corp
+2209,NFBK,Northfield Bncrp Del
+2210,NFE,New Fortress Energy Llc
+2211,NFIN,Netfin Acquisition Corp Cl A
+2212,NFINU,Netfin Acquisition Corp Unit
+2213,NFINW,Netfin Acquisition Corp WT
+2214,NFLX,Netflix Inc
+2215,NFTY,First Trust India Nifty 50 EW ETF
+2216,NGHC,National General Hld
+2217,NGHCN,National General Holdings Corp
+2218,NGHCO,National Gnl Hld Ds
+2219,NGHCP,National Gen Srs A
+2220,NGHCZ,National Gen Sub NTS
+2221,NGM,Ngm Biopharmaceuticals Inc
+2222,NH,Nanthealth Inc
+2223,NHLD,National Holdings
+2224,NHLDW,National Holdings Corp WT
+2225,NHTC,Natural Hlth Trd
+2226,NICE,Nice Ltd
+2227,NICK,Nicholas Fincl Inc
+2228,NIU,Niu Technologies ADR
+2229,NK,Nantkwest Inc CS
+2230,NKSH,Natl Bankshares Inc
+2231,NKTR,Nektar Therapeutics
+2232,NLNK,Newlink Genetics Cor
+2233,NLOK,Nortonlifelock Inc.
+2234,NLTX,Neoleukin Therapeutics Inc
+2235,NMCI,Navios Maritime Containers L.P.
+2236,NMIH,Nmi Holdings Inc
+2237,NMRD,Nemaura Med Inc
+2238,NMRK,Newmark Group Inc Cl A
+2239,NNBR,NN Inc
+2240,NNDM,Nano Dimension Ads
+2241,NODK,Ni Holdings Inc
+2242,NOVN,Novan Inc
+2243,NOVT,Novanta Inc
+2244,NPA,New Providence Acquisition Corp. Cl A
+2245,NPAUU,New Providence Acquisition Corp
+2246,NPAWW,New Providence Acquisition Corp. WT
+2247,NRBO,Neurobo Pharmaceuticals Inc.
+2248,NRC,National Research Corp
+2249,NRIM,Northrim Bancorp Inc
+2250,NSEC,Natl Security Gp
+2251,NSIT,Insight Enterpr
+2252,NSSC,Napco Sec Tech Inc
+2253,NSTG,Nanostring Tech
+2254,NSYS,Nortech Systems IN
+2255,NTAP,Netapp Inc
+2256,NTCT,Netscout Systems
+2257,NTEC,Intec Pharma Ord Shr
+2258,NTES,Netease Inc Ads
+2259,NTGN,Neon Therapeutics Inc
+2260,NTGR,Netgear Inc
+2261,NTIC,Northern Technologies Intl Corp
+2262,NTLA,Intellia Thera CS
+2263,NTNX,Nutanix Inc
+2264,NTRA,Natera Inc
+2265,NTRP,Neurotrope Inc
+2266,NTRS,Northern Trust Corp
+2267,NTRSO,Northern Trust Prf Perpetual USD Dpsh Rp1/1000Th
+2268,NTUS,Natus Medical Inc
+2269,NTWK,Netsol Tech Inc
+2270,NUAN,Nuance Communicatns
+2271,NURO,Neurometrix Inc
+2272,NUROW,Neurometrix Inc WT
+2273,NUVA,Nuvasive Inc
+2274,NVAX,Novavax Inc
+2275,NVCN,Neovasc Inc
+2276,NVCR,Novocure Ltd Ord Sh
+2277,NVDA,Nvidia Corp
+2278,NVEC,Nve Corp
+2279,NVEE,Nv5 Global
+2280,NVFY,Nova Lifestyle Inc
+2281,NVIV,Invivo Therapeutics Holdings Corp
+2282,NVMI,Nova Measuring Instr
+2283,NVUS,Novus Therapeutics Inc
+2284,NWBI,Northwest Bancshares
+2285,NWFL,Norwood Financial Cp
+2286,NWGI,Newgioco Group Inc
+2287,NWL,Newell Rubbermaid Inc
+2288,NWLI,Natl Wstrn Life Gp A
+2289,NWPX,Northwest Pipe Company
+2290,NWS,News Cp Cl B
+2291,NWSA,News Cp Cl A
+2292,NXGN,Nextgen Healthcare Inc
+2293,NXPI,Nxp Semiconductors
+2294,NXST,Nexstar Broadcasting
+2295,NXTC,Nextcure Inc
+2296,NXTD,Nxt-Id Inc
+2297,NXTG,Nasdaq Smartphone Index Fund FT
+2298,NYMT,New York Mtge Trust
+2299,NYMTM,New York Mortgage Trust Inc Fxdfr Prf Perpetual
+2300,NYMTN,New York Mortgage Trust Inc 8.00% Series D
+2301,NYMTO,New York Mort 7.875
+2302,NYMTP,New York Mrtg 7.75 B
+2303,NYMX,Nymox Pharm Corp
+2304,OAS,Oasis Petroleum Inc
+2305,OBAS,Optibase Ltd
+2306,OBCI,Ocean Bio Chem Inc
+2307,OBLN,Obalon Therapeutics Inc
+2308,OBNK,Origin Bancorp Inc
+2309,OBSV,Obseva Sa
+2310,OCC,Optical Cable Corp
+2311,OCCI,Ofs Credit Company Inc
+2312,OCCIP,Ofs Credit Co. Inc Pfd Ser A
+2313,OCFC,Oceanfirst Finl Corp
+2314,OCGN,Ocugen Inc
+2315,OCSI,Oaktree Strategic Income Corp
+2316,OCSL,Oaktree Specialty Lending Corp
+2317,OCSLL,Oaktree Specialty Lending Corp 6.125 Sn
+2318,OCUL,Ocular Therapeut
+2319,ODFL,Old Dominion Freight Line Inc.
+2320,ODP,Office Depot
+2321,ODT,Odonate Therapeutics Inc
+2322,OESX,Orion Energy Syst
+2323,OFED,Oconee Fed Fin Corp
+2324,OFIX,Orthofix Intl NV
+2325,OFLX,Omega Flex Inc
+2326,OFS,Ofs Capital Corp
+2327,OFSSI,Ofs Capital Corp 5.95% Notes Due 2026
+2328,OFSSL,Ofs Capital Corp 6.375% Notes Due 2025
+2329,OFSSZ,Ofs Capital Corp 6.50% Notes Due 2025
+2330,OGI,Organigram Hlds Inc
+2331,OIIM,O2Micro Intl Ltd
+2332,OKTA,Okta Inc Cl A
+2333,OLD,Long-Term Care ETF
+2334,OLED,Universal Display
+2335,OLLI,Ollies Bargain CS
+2336,OMAB,Grupo Aeroportuario
+2337,OMCL,Omnicell Inc
+2338,OMER,Omeros Corp
+2339,OMEX,Odyssey Marine Expl
+2340,OMP,Oasis Midstream Partners LP
+2341,ON,On Semiconductor
+2342,ONB,Old National Bncp
+2343,ONCS,Oncosec Medical
+2344,ONCT,Oncternal Therapeutics Inc
+2345,ONCY,Oncolytics Biotech Inc
+2346,ONEM,1Life Healthcare Inc
+2347,ONEQ,Nasdaq Composite ETF
+2348,ONEW,Onewater Marine Inc Cl A
+2349,ONTX,Onconova Therapeutic
+2350,ONTXW,Onconova Therapeutics Inc
+2351,ONVO,Organovo Holdings
+2352,OPB,Opus Bank
+2353,OPBK,Open Bank
+2354,OPCH,Option Care Health Inc
+2355,OPES,Opes Acquisition Corp
+2356,OPESW,Opes Acquisition Corp WT
+2357,OPGN,Opgen Inc
+2358,OPGNW,Opgen Inc WT
+2359,OPHC,Optimumbank Hlds
+2360,OPI,Office Properties Income Trust
+2361,OPINI,Office Properties Income Trust
+2362,OPK,Opko Health Inc
+2363,OPNT,Opiant Pharmaceuticals Inc
+2364,OPOF,Old Point Finl Cp
+2365,OPRA,Opera Ltd ADR
+2366,OPRT,Oportun Financial Corp
+2367,OPRX,Optimizerx Corp
+2368,OPTN,Optinose Inc
+2369,OPTT,Ocean Power Tech Inc
+2370,ORBC,Orbcomm Inc
+2371,ORG,Organics ETF
+2372,ORGO,Organogenesis Holdings Inc
+2373,ORGS,Orgenesis Inc
+2374,ORLY,O'Reilly Automotive
+2375,ORMP,Oramed Pharma
+2376,ORRF,Orrstown Finl Svcs
+2377,ORSN,Orisun Acquisition Corp
+2378,ORSNR,Orisun Acquisition Corp Right
+2379,ORSNU,Orisun Acquisition Corp Unit
+2380,ORSNW,Orisun Acquisition Corp WT
+2381,ORTX,Orchard Therapeutics Plc ADR
+2382,OSBC,Old Second Bancorp
+2383,OSIS,O S I Systems Inc
+2384,OSMT,Osmotica Pharmaceuticals Plc
+2385,OSN,Ossen Innovation Company
+2386,OSPN,Onespan Inc
+2387,OSS,One Stop Systems Inc
+2388,OSTK,Overstock.com Inc
+2389,OSUR,Orasure Tech Inc
+2390,OSW,Onespaworld Holdings Ltd
+2391,OTEL,Otelco Cl A
+2392,OTEX,Open Text Cp
+2393,OTIC,Otonomy Inc
+2394,OTLK,Outlook Therapeutics Inc
+2395,OTLKW,Outlook Therapeutics Inc
+2396,OTTR,Otter Tail Corp
+2397,OTTW,Ottawa Saving Bcp IL
+2398,OVBC,Ohio Valley Banc Cp
+2399,OVID,Ovid Therapeutics Inc
+2400,OVLY,Oak Valley Bancp CA
+2401,OXBR,Oxbridge Ord Shrs
+2402,OXBRW,Oxbridge WT
+2403,OXFD,Oxford Immunotec
+2404,OXLC,Oxford Lane Capital
+2405,OXLCM,Oxford Lane Capital Corp Pfd Ser 2024
+2406,OXLCO,Oxford Lane Cap 7.5
+2407,OXLCP,Oxford Lane Capital Corp 6.25% Prf Redeem 28/02/
+2408,OXSQ,Oxford Square Capital Corp
+2409,OXSQL,Oxford Square Capital Corp 6.50% Note Due 2024
+2410,OXSQZ,Oxford Square Capital Corp 6.25% Notes Due 2026
+2411,OYST,Oyster Point Pharma Inc
+2412,OZK,Bank Ozk
+2413,PAAC,Proficient Alpha Acquisition Corp
+2414,PAACR,Proficient Alpha Acquisition Corp Rights
+2415,PAACU,Proficient Alpha Acquisition Corp Unit
+2416,PAACW,Proficient Alpha Acquisition Corp WT
+2417,PAAS,Pan Amer Silver Corp
+2418,PACB,Pacific Biosciences
+2419,PACQ,Pure Acquisition Corp Cl A
+2420,PACQU,Pure Acquisition Corp Unit
+2421,PACQW,Pure Acquisition Corp WT
+2422,PACW,Pacwest Bancorp
+2423,PAE,Pae Inc Cl A
+2424,PAEWW,Pae Inc WT
+2425,PAHC,Phibro Anl Htlh A
+2426,PANL,Pangaea Logistics So
+2427,PASG,Passage Bio Inc
+2428,PATI,Patriot TR HD
+2429,PATK,Patrick Inds Inc
+2430,PAVM,Pavmed Inc
+2431,PAVMW,Pavmed Inc WT
+2432,PAVMZ,Pavmed Inc Series Z WT
+2433,PAYS,Paysign Inc
+2434,PAYX,Paychex Inc
+2435,PBBI,Pb Bancorp Inc
+2436,PBCT,People's United Finl
+2437,PBCTP,Peoples Utd Finl Inc
+2438,PBFS,Pioneer Bancorp Inc
+2439,PBHC,Pathfinder Bcp MD
+2440,PBIP,Prudential Bancorp
+2441,PBPB,Potbelly Corp
+2442,PBTS,Powerbridge Technologies Co. Ltd
+2443,PBYI,Puma Biotechnology
+2444,PCAR,Paccar Inc
+2445,PCB,Pacific City Finl Cp
+2446,PCH,Potlatch Cp
+2447,PCOM,Points Intl Ltd
+2448,PCRX,Pacira Pharm Inc
+2449,PCSB,Pcsb Financial Corp
+2450,PCTI,Pc-Tel Inc
+2451,PCTY,Paylocity Hld Corp
+2452,PCYG,Park City Group
+2453,PCYO,Pure Cycle Corp
+2454,PDBC,Optimum Yield Diversified Commodity Strategy No
+2455,PDCE,Pdc Energy Inc
+2456,PDCO,Patterson Companies
+2457,PDD,Pinduoduo Inc ADR
+2458,PDEV,Principal International Multi-Factor Core Index
+2459,PDEX,Pro-Dex Inc
+2460,PDFS,Pdf Solutions Inc
+2461,PDLB,Pdl Community Bancorp
+2462,PDLI,Pdl Biopharma Inc
+2463,PDP,DWA Momentum Invesco ETF
+2464,PDSB,Pds Biotechnology Corp
+2465,PEBK,Peoples Bancorp NC
+2466,PEBO,Peoples Bancorp Inc
+2467,PECK,The Peck Company Inc
+2468,PEGA,Pegasystems Inc
+2469,PEGI,Pattern Energy Cl A
+2470,PEIX,Pacific Ethanol Inc
+2471,PENN,Penn Natl Gaming Inc
+2472,PEP,Pepsico Inc
+2473,PERI,Perion Network Ltd
+2474,PESI,Perma-Fix Envir
+2475,PETQ,Petiq Inc Cl A
+2476,PETS,Petmed Express Inc
+2477,PETZ,Tdh Holdings Inc
+2478,PEY,High Yield Equity Dividend Achievers Invesco ETF
+2479,PEZ,DWA Consumer Cyclicals Momentum Invesco ETF
+2480,PFBC,Preferred Bank LA
+2481,PFBI,Premier Finl Bncp
+2482,PFF,US Preferred Stock Ishares ETF
+2483,PFG,Principal Financial Group Inc
+2484,PFHD,Professional Holding Corp
+2485,PFI,DWA Financial Momentum Invesco ETF
+2486,PFIE,Profire Energy
+2487,PFIN,P F Inds Inc A
+2488,PFIS,Peoples Finl Svcs Company
+2489,PFLT,Pennantpark Fltng Rt
+2490,PFM,Dividend Achievers Invesco ETF
+2491,PFMT,Performant Financial
+2492,PFPT,Proofpoint Inc
+2493,PFSW,Pfsweb Inc
+2494,PGC,Peapack Gladstone FI
+2495,PGEN,Precigen Inc.
+2496,PGJ,Golden Dragon China Invesco ETF
+2497,PGNX,Progenics Pharmaceuticals
+2498,PGNY,Progyny Inc
+2499,PHAS,Phasebio Pharmaceuticals Inc
+2500,PHAT,Phathom Pharmaceuticals Inc
+2501,PHCF,Puhui Wealth Investment Management Company
+2502,PHIO,Phio Pharmaceuticals Corp
+2503,PHIOW,Phio Pharmaceuticals Corp WT
+2504,PHO,Water Resources Invesco ETF
+2505,PHUN,Phunware Inc
+2506,PHUNW,Phunware Inc WT
+2507,PI,Impinj Inc
+2508,PICO,Pico Holdings Inc
+2509,PID,Intl Dividend Achievers Invesco ETF
+2510,PIE,DWA Emerging Markets Momentum Invesco ETF
+2511,PIH,1347 Property Ins
+2512,PIHPP,1347 Property Insurance Holdings Inc Pfd Ser A
+2513,PINC,Premier Inc Cl A
+2514,PIO,Global Water Invesco ETF
+2515,PIRS,Pieris Pharma
+2516,PIXY,Shiftpixy Inc
+2517,PIZ,DWA Developed Markets Momentum Invesco ETF
+2518,PKBK,Parke Bancorp Inc
+2519,PKOH,Park Ohio Hld Cp
+2520,PKW,Buyback Achievers Invesco ETF
+2521,PLAB,Photronics Inc
+2522,PLAY,Dave & Buster's Ente
+2523,PLBC,Plumas Bancorp
+2524,PLC,Principal U.S. Large-Cap Multi-Factor Core Index
+2525,PLCE,Children's Place Inc
+2526,PLIN,China Xiangtai Food Company
+2527,PLL,Piedmont Lithium Ltd ADR
+2528,PLMR,Palomar Holdings Inc
+2529,PLPC,Preformed Line Prd
+2530,PLSE,Pulse Biosciences CS
+2531,PLUG,Plug Power Inc
+2532,PLUS,Eplus Inc
+2533,PLW,1-30 Laddered Treasury Invesco ETF
+2534,PLXP,Plx Pharma Inc
+2535,PLXS,Plexus Cp
+2536,PLYA,Playa Hotels & Resorts N.V.
+2537,PMBC,Pacific Mercantile
+2538,PMD,Psychemedics
+2539,PME,Pingtan Marine
+2540,PMOM,Principal Sustainable Momentum Index ETF
+2541,PNBK,Patriot Natl Bncp
+2542,PNFP,Pinnacle Finl Ptnrs
+2543,PNNT,Pennantpark Investme
+2544,PNNTG,Pennantpark Investment Corp 5.50% Notes D
+2545,PNQI,Nasdaq Internet Invesco ETF
+2546,PNRG,Primeenergy Cp
+2547,PNTG,The Pennant Group Inc
+2548,POAI,Predictive Oncology Inc
+2549,PODD,Insulet Corp
+2550,POLA,Polar Power Inc
+2551,POOL,Pool Corp
+2552,POPE,Pope Resource Uts
+2553,POTX,Global X Cannabis ETF
+2554,POWI,Power Integratn
+2555,POWL,Powell Inds Inc
+2556,PPBI,Pacific Premier Bncp
+2557,PPC,Pilgrim's Pride
+2558,PPD,Ppd Inc
+2559,PPH,Pharmaceutical Vaneck ETF
+2560,PPHI,Positive Physicians Holdings Inc
+2561,PPIH,Perma-Pipe International Holdings Inc
+2562,PPSI,Pioneer Pwr Sol
+2563,PRAA,Pra Group Inc
+2564,PRAH,Pra Health
+2565,PRCP,Perceptron Inc
+2566,PRDO,Perdoceo Education Corp.
+2567,PRFT,Perficient Inc
+2568,PRFZ,FTSE RAFI US 1500 Small- Mid Invesco ETF
+2569,PRGS,Progress Software
+2570,PRGX,Prgx Global Inc
+2571,PRIM,Primoris Services Cp
+2572,PRN,DWA Industrials Momentum Invesco ETF
+2573,PRNB,Principia Biopharma Inc
+2574,PROF,Profound Medical Corp
+2575,PROV,Provident Financial
+2576,PRPH,Prophase Labs Inc
+2577,PRPL,Purple Innovation Inc
+2578,PRPO,Precipio Inc
+2579,PRQR,Proqr Therapeutics
+2580,PRSC,Providence Svc Cp
+2581,PRTA,Prothena Corp
+2582,PRTH,Priority Techno Holdings Inc
+2583,PRTK,Paratek Pharma Inc
+2584,PRTS,U.S. Auto Parts Netw
+2585,PRVB,Provention Bio Inc
+2586,PRVL,Prevail Therapeutics Inc
+2587,PS,Pluralsight Inc Cl A
+2588,PSC,Resources Prospect Ltd
+2589,PSCC,S&P Smallcap Consumer Staples Invesco ETF
+2590,PSCD,S&P Smallcap Consumer Discretionary Invesco ETF
+2591,PSCE,S&P Smallcap Energy Invesco ETF
+2592,PSCF,S&P Smallcap Financials Invesco ETF
+2593,PSCH,S&P Smallcap Health Care Invesco ETF
+2594,PSCI,S&P Smallcap Industrials Invesco ETF
+2595,PSCM,S&P Smallcap Materials Invesco ETF
+2596,PSCT,S&P Smallcap Information Technology Invesco ETF
+2597,PSCU,S&P Smallcap Utilities Invesco ETF
+2598,PSEC,Prospect Capital Cp
+2599,PSET,Principal Price Setters ETF
+2600,PSL,DWA Consumer Staples Momentum Invesco ETF
+2601,PSM,Principal U.S. Small-Midcap Multi-Factor Core IN
+2602,PSMT,Pricesmart Inc
+2603,PSNL,Personalis Inc
+2604,PSTI,Pluristem Therapeutc
+2605,PSTV,Plus Therapeutics Inc
+2606,PSTVZ,Plus Therapeutics Inc WT
+2607,PT,Pintec Technology Holdings Ltd ADR
+2608,PTAC,Proptech Acquisition Corporation Cl A
+2609,PTACU,Proptech Acquisition Corp
+2610,PTACW,Proptech Acquisition Corporation WT
+2611,PTC,Ptc Inc
+2612,PTCT,Ptc Therapeutics
+2613,PTE,Polarityte Inc
+2614,PTEN,Patterson-Uti Energy
+2615,PTF,DWA Technology Momentum Invesco ETF
+2616,PTGX,Protagonist Therapeutics Inc
+2617,PTH,DWA Healthcare Momentum Invesco ETF
+2618,PTI,Proteostasis Ther
+2619,PTLA,Portola Pharma
+2620,PTMN,Portman Ridge Finance Corp
+2621,PTNR,Partner Comm Co. Ltd
+2622,PTON,Peloton Interactive Inc
+2623,PTSI,P A M Transport Sv
+2624,PTVCA,Protective Insurance Corp Cl A
+2625,PTVCB,Protective Insurance Corp Cl B
+2626,PUB,Peoples Utah
+2627,PUI,DWA Utilities Momentum Invesco ETF
+2628,PULM,Pulmatrix Inc
+2629,PUYI,Puyi Inc ADR
+2630,PVAC,Penn VA Corp
+2631,PVAL,Principal Contrarian Value Index ETF
+2632,PVBC,Provident Bancorp CS
+2633,PWFL,Powerfleet Inc
+2634,PWOD,Penns Woods Bancorp
+2635,PXI,DWA Energy Momentum Invesco ETF
+2636,PXLW,Pixelworks Inc
+2637,PXS,Pyxis Tankers
+2638,PY,Principal Shareholders Yield ETF
+2639,PYPL,Paypal Holdings
+2640,PYZ,DWA Basic Materials Momentum Invesco ETF
+2641,PZZA,Papa John's Intl
+2642,QABA,Qtec First Trust ETF
+2643,QADA,Qad Inc
+2644,QADB,Q A D Inc Cl B
+2645,QAT,Qatar Ishares MSCI ETF
+2646,QBAK,Qualstar Corp
+2647,QCLN,Nasdaq Clean Edge Green Energy Index Fund FT
+2648,QCOM,Qualcomm Inc
+2649,QCRH,Qcr Holdings Inc
+2650,QDEL,Quidel Cp
+2651,QFIN,360 Finance Inc ADR
+2652,QIWI,Qiwi Plc ADR
+2653,QK,Q&K International Group Ltd ADR
+2654,QLYS,Qualys Inc
+2655,QMCO,Quantum Corp
+2656,QNST,Quinstreet Inc
+2657,QQEW,Nasdaq-100 EW Index Fund FT
+2658,QQQ,Nasdaq QQQ Invesco ETF
+2659,QQQX,Nuveen Nasdaq 100
+2660,QQXT,Nasdaq-100 Ex-Tech Sector Indexsm Fund FT
+2661,QRHC,Quest Resource
+2662,QRTEA,Qurate Retail Group
+2663,QRTEB,Liberty Int Qvc Sr B
+2664,QRVO,Qorvo Inc
+2665,QTEC,Nasdaq-100 Technology Index Fund FT
+2666,QTNT,Quotient Ltd Ord
+2667,QTRX,Quanterix Corp
+2668,QTT,Qutoutiao Inc ADR
+2669,QUIK,Quicklogic Corp
+2670,QUMU,Qumu Corp
+2671,QURE,Uniqure N.V.
+2672,QYLD,Horizons Nasdaq-100 Covered Call ETF
+2673,RADA,Rada Electr Inds Ltd
+2674,RAIL,Freightcar America
+2675,RAND,Rand Capital Cp
+2676,RAPT,Rapt Therapeutics Inc
+2677,RARE,Ultragenyx Pharmaceu
+2678,RARX,Ra Pharmaceuticals Inc
+2679,RAVE,Rave Restaurant Group
+2680,RAVN,Raven Industries Inc
+2681,RBB,Rbb Bancorp
+2682,RBBN,Ribbon Communications Inc
+2683,RBCAA,Republic Bancorp Inc
+2684,RBCN,Rubicon Technology
+2685,RBKB,Rhinebeck Bancorp Inc
+2686,RBNC,Reliant Bancorp Inc
+2687,RBZ,Reebonz Holding Ltd
+2688,RCEL,Avita Medical Ltd ADR
+2689,RCII,Rent-A-Center Inc
+2690,RCKT,Rocket Pharmaceuticals Inc
+2691,RCKY,Rocky Brands Inc
+2692,RCM,R1 Rcm Inc
+2693,RCMT,R C M Tech Inc
+2694,RCON,Recon Technology Ltd
+2695,RDCM,Radcom Ltd
+2696,RDFN,Redfin Corp
+2697,RDHL,Redhill Biophrma ADR
+2698,RDI,Reading Intl Cl A
+2699,RDIB,Reading International Inc Cl B
+2700,RDNT,Radnet Inc
+2701,RDUS,Radius Health
+2702,RDVT,Red Violet Inc
+2703,RDVY,Rising Dividend Achievers ETF FT
+2704,RDWR,Radware Ltd
+2705,REAL,The Realreal Inc
+2706,RECN,Resources Connect
+2707,REDU,Rise Education Cayman Ltd ADR
+2708,REED,Reeds Inc
+2709,REFR,Research Frontiers
+2710,REG,Regency Centers Corp
+2711,REGI,Renewable Energy
+2712,REGN,Regeneron Pharmaceuticals
+2713,REKR,Rekor Systems Inc
+2714,RELL,Richardson Electrncs
+2715,RELV,Reliv Intl Inc
+2716,REPH,Recro Pharma Inc
+2717,REPL,Replimune Group Inc
+2718,RESN,Resonant Inc
+2719,RETA,Reata Pharma
+2720,RETO,Reto Eco-Solutions Inc
+2721,REXN,Rexahn Pharmaceuticals
+2722,REYN,Reynolds Consumer Products Inc
+2723,RFAP,Riverfront Dyn Asia Pacific ETF FT
+2724,RFDI,Riverfront Dyn Developed Intl ETF FT
+2725,RFEM,Riverfront Dyn Emerging Markets ETF FT
+2726,RFEU,Riverfront Dyn Europe ETF FT
+2727,RFIL,RF Industries Ltd
+2728,RGCO,Rgc Resources Inc
+2729,RGEN,Repligen Cp
+2730,RGLD,Royal Gold Inc
+2731,RGLS,Regulus Therapeutics
+2732,RGNX,Regenxbio Inc
+2733,RIBT,Ricebran Technologie
+2734,RICK,RCI Hospitality Hold
+2735,RIGL,Rigel Pharmaceuticals
+2736,RILY,B. Riley Financl
+2737,RILYG,B. Riley Financial Inc 7.25% Senior Notes Due
+2738,RILYH,B. Riley Financial Inc 7.375% Senior Notes Due
+2739,RILYI,B. Riley Financial Inc 6.875% Senior Notes Due
+2740,RILYM,B. Riley Financial Inc 6.375% Senior Notes Due
+2741,RILYN,B. Riley Financial Inc 6.50% Senior Notes Due 2
+2742,RILYO,B. Riley Financial Inc 6.75% Senior Notes Due
+2743,RILYP,B. Riley Financial Inc
+2744,RILYZ,B. Riley Financial Inc 7.50% Senior Notes Due
+2745,RING,Global Gold Miners Ishares MSCI ETF
+2746,RIOT,Riot Blockchain Inc
+2747,RIVE,Riverview Financial Corp
+2748,RKDA,Arcadia Bio
+2749,RLMD,Relmada Therapeutics Inc
+2750,RMBI,Richmond Mutual Bancorp Inc
+2751,RMBL,Smart Server Inc
+2752,RMBS,Rambus Inc
+2753,RMCF,Rocky MT Chocolate
+2754,RMNI,Rimini Street Inc
+2755,RMR,The Rmr Grp A
+2756,RMTI,Rockwell Medical IN
+2757,RNDB,Randolph Bancorp Inc
+2758,RNDM,First Trust Exchange-Traded Fund Vi First Trust
+2759,RNDV,First Trust Exchange-Traded Fund Vi First Trust
+2760,RNEM,First Trust Exchange-Traded Fund Vi First Trust
+2761,RNET,Rignet Inc
+2762,RNLC,First Trust Exchange-Traded Fund Vi First Trust
+2763,RNMC,First Trust Exchange-Traded Fund Vi Mid Cap US E
+2764,RNSC,First Trust Exchange-Traded Fund Vi First Trust
+2765,RNST,Renasant Corp
+2766,RNWK,Realnetworks Inc
+2767,ROAD,Construction Partners Inc Cl A
+2768,ROBT,FT Nasdaq Artificial Intelligence and Robotics E
+2769,ROCK,Gibraltar Ind Inc
+2770,ROIC,Retail Opp Invts Cp
+2771,ROKU,Roku Inc
+2772,ROLL,RBC Bearings Incorp
+2773,ROSE,Rosehill Resources Inc
+2774,ROSEU,Rosehill Resources Inc Unit
+2775,ROSEW,Rosehill Resources Inc
+2776,ROST,Ross Stores Inc
+2777,RP,Realpage Inc
+2778,RPAY,Repay Holdings Corp Cl A
+2779,RPD,Rapid7 Inc
+2780,RRBI,Red River Bancshares Inc
+2781,RRGB,Red Robin Gourmet Burgers Inc
+2782,RRR,Red Rock Resorts Inc
+2783,RSSS,Derycz Scientific
+2784,RTH,Retail ETF Vaneck
+2785,RTIX,Rti Surgical Inc
+2786,RTLR,Rattler Midstream LP Common Units
+2787,RTRX,Retrophin Inc
+2788,RTTR,Ritter Pharmac. Com
+2789,RUBY,Rubius Therapeutics Inc
+2790,RUHN,Ruhnn Holding Ltd ADR
+2791,RUN,Sunrun Inc
+2792,RUSHA,Rush Entpr Cl A
+2793,RUSHB,Rush Entpr Cl B
+2794,RUTH,Ruth's Hospitality
+2795,RVMD,Revolution Medicines Inc
+2796,RVNC,Revance Therapeutics
+2797,RVSB,Riverview Bancorp
+2798,RWLK,Rewalk Roboti Ord Sh
+2799,RYAAY,Ryanair Hlds Plc
+2800,RYTM,Rhythm Pharmaceuticals Inc
+2801,SABR,Sabre Corp
+2802,SAEX,Saexploration Hlds
+2803,SAFM,Sanderson Farms IN
+2804,SAFT,Safety Ins Group Inc
+2805,SAGE,Sage Therapeutic Com
+2806,SAIA,Saia Inc
+2807,SAL,Salisbury Bancorp
+2808,SALM,Salem Media Grp Inc
+2809,SAMA,Schultze Special Purpose Acquisition Corp
+2810,SAMAU,Schultze Special Purpose Acquisition Corp Unit
+2811,SAMAW,Schultze Special Purpose Acquisition Corp WT
+2812,SAMG,Silvercrest Ast Cm A
+2813,SANM,Sanmina Corp
+2814,SANW,S&W Seed Company
+2815,SAQN,Software Acquisition Group Inc Cl A
+2816,SAQNU,Software Acquisition Group Inc
+2817,SAQNW,Software Acquisition Group Inc WT
+2818,SASR,Sandy Spring Bancorp
+2819,SATS,Echostar Corp
+2820,SAVA,Cassava Sciences Inc
+2821,SBAC,SBA Communications
+2822,SBBP,Strongbridge Bio Ord
+2823,SBBX,Sussex Bancorp
+2824,SBCF,Seacoast Banking Cp
+2825,SBFG,Sb Financial Group
+2826,SBGI,Sinclair Brdcst A
+2827,SBLK,Star Bulk Carriers
+2828,SBLKZ,Star Bulk Carriers Corp 8.30% Senior Notes Due
+2829,SBNY,Signature Bank
+2830,SBPH,Spring Bank Ph CS
+2831,SBRA,Sabra REIT
+2832,SBSI,Southside Bancshares
+2833,SBT,Sterling Bancorp Inc [Southfield Mi]
+2834,SBUX,Starbucks Corp
+2835,SCHL,Scholastic Cp
+2836,SCHN,Schnitzer Steel A
+2837,SCKT,Socket Mobile
+2838,SCON,Superconductor Tech
+2839,SCOR,Comscore Inc
+2840,SCPH,SC Pharmaceuticals Inc
+2841,SCPL,Sciplay Corp Cl A
+2842,SCSC,Scansource Inc
+2843,SCVL,Shoe Carnival Inc
+2844,SCWX,Secureworks Corp CS
+2845,SCYX,Scynexis Inc
+2846,SCZ,EAFE Small-Cap Ishares MSCI ETF
+2847,SDC,Smiledirectclub Inc
+2848,SDG,Ishares MSCI Global Impact ETF
+2849,SDGR,Schrodinger Inc
+2850,SDVY,FT Smid Cap Rising Dividend Achievers ETF
+2851,SEAC,Sea Change Intl IN
+2852,SECO,Secoo Holding ADR
+2853,SEDG,Solaredge Tech
+2854,SEED,Origin Agritech Ltd
+2855,SEEL,Seelos Therapeutics Inc
+2856,SEIC,Sei Investments Company
+2857,SELB,Selecta Biosciences
+2858,SELF,Global Self Storage
+2859,SENEA,Seneca Foods Cp A
+2860,SENEB,Seneca Foods Cp B
+2861,SES,Synthesis Energy Sys
+2862,SESN,Sesen Bio Inc
+2863,SFBC,Sound Financial
+2864,SFBS,Servisfirst Bancs
+2865,SFET,Safe-T Group Ltd ADR
+2866,SFIX,Stitch Fix Inc
+2867,SFM,Sprouts Farmers Mark
+2868,SFNC,Simmons First Natl
+2869,SFST,Southern First Bancs
+2870,SG,Sirius International Insurance Group
+2871,SGA,Saga Communications
+2872,SGBX,Sg Blocks Inc
+2873,SGC,Superior Uniform Group
+2874,SGEN,Seattle Genetics Inc
+2875,SGH,Smart Global Holdings Inc
+2876,SGLB,Sigma Labs Inc
+2877,SGLBW,Sigma Labs Inc WT
+2878,SGMA,Sigmatron Intl Inc
+2879,SGMO,Sangamo Therapeutics
+2880,SGMS,Scientific Games
+2881,SGOC,Sgoco Group Ltd
+2882,SGRP,Spar Group Inc
+2883,SGRY,Surgery Partners CS
+2884,SHBI,Shore Bancshares Inc
+2885,SHEN,Shenandoah Telecom
+2886,SHIP,Seanergy Maritime Hl
+2887,SHIPW,Seanergy Maritime Holdings Corp Cl A WT
+2888,SHIPZ,Seanergy Maritime Holdings Corp Cl B WT
+2889,SHLO,Shiloh Inds Inc
+2890,SHOO,Steven Maddens Ltd
+2891,SHSP,Sharpspring Inc
+2892,SHV,Short Treasury Bond Ishares ETF
+2893,SHY,1-3 Year Treasury Bond Ishares ETF
+2894,SIBN,Si-Bone Inc
+2895,SIC,Select Interior Concepts Inc Cl A
+2896,SIEB,Siebert Fin Cp
+2897,SIEN,Sientra Inc
+2898,SIFY,Sify Techs Ltd Ads
+2899,SIGA,Siga Technologies Inc
+2900,SIGI,Selective Ins Group
+2901,SILC,Silicom Ltd
+2902,SILK,Silk Road Medical Inc
+2903,SIMO,Silicon Motion Techn
+2904,SINA,Sina Corp
+2905,SINO,Sino-Global Shipping
+2906,SINT,Sintx Technologies Inc
+2907,SIRI,Sirius XM Holdings
+2908,SITM,Sitime Corp
+2909,SITO,Sito Mobile
+2910,SIVB,Svb Financial Group
+2911,SIVBP,Svb Financial Group 5.25% Prf Perpetual USD 25 1
+2912,SKOR,Flexshares Credit Scored US Corp Bond
+2913,SKYS,Sky Solar Holdings
+2914,SKYW,Skywest Inc
+2915,SKYY,Cloud Computing ETF FT
+2916,SLAB,Silicon Labs Inc
+2917,SLCT,Select Bancorp Inc
+2918,SLDB,Solid Biosciences Inc
+2919,SLGG,Super League Gaming Inc
+2920,SLGL,Sol-Gel Technologies Ltd
+2921,SLGN,Silgan Holdings
+2922,SLIM,Obesity ETF
+2923,SLM,SLM Corp
+2924,SLMBP,SLM Cp Srs B Pfd
+2925,SLNO,Soleno Therapeutics Inc
+2926,SLP,Simulations Plus Inc
+2927,SLQD,0-5 Year Invst Grade Corp Bond Ishares ETF
+2928,SLRC,Solar Capital
+2929,SLRX,Salarius Pharmaceuticals Inc
+2930,SLS,Sellas Life Sciences Group Inc
+2931,SLVO,CS X-Links Silver Share
+2932,SMBC,Southern MO Bancorp
+2933,SMBK,Smartfinancial Inc
+2934,SMCI,Super Micro Computer
+2935,SMCP,Alphamark Actmg Smallcap ETF
+2936,SMED,Sharps Compliance
+2937,SMH,Semiconductor Vaneck ETF
+2938,SMIT,Schmitt Inds Inc
+2939,SMMC,South Mountain Merger Corp Cl A
+2940,SMMCU,South Mountain Merger Corp Unit
+2941,SMMCW,South Mountain Merger Corp WT
+2942,SMMF,Summit Financial Gp
+2943,SMMT,Summit Therapeu ADR
+2944,SMPL,The Simply Good Foods Company
+2945,SMRT,Stein Mart Inc
+2946,SMSI,Smith Micro Software
+2947,SMTC,Semtech Corp
+2948,SMTX,Smtc Corp
+2949,SNBR,Sleep Number Corp
+2950,SNCA,Seneca Biopharm Inc.
+2951,SNCR,Synchronoss Technolo
+2952,SND,Smart Sand Inc
+2953,SNDE,Sundance Energy Australia Ltd
+2954,SNDL,Sundial Growers Inc
+2955,SNDX,Syndax Pharma
+2956,SNES,Senestech Inc
+2957,SNFCA,Security Natl Finl
+2958,SNGX,Soligenix Inc
+2959,SNGXW,Soligenix Inc WT
+2960,SNLN,Pyxis/Iboxx Senior Loan ETF
+2961,SNOA,Sonoma Pharmaceuticals Inc
+2962,SNPS,Synopsys Inc
+2963,SNSR,G-X Internet of Things Thematic ETF
+2964,SNSS,Sunesis Pharmaceutic
+2965,SNUG,Merlyn.Ai Tactical Growth & Income ETF
+2966,SNY,Sanofi-Aventis S.A.
+2967,SOCL,G-X Social Media ETF
+2968,SOHO,Sotherly Hotels
+2969,SOHOB,Sotherly Hotels Inc 8.0% Series B Cumulative Re
+2970,SOHON,Sotherly Hotels Inc Perp Pfd Ser D
+2971,SOHOO,Sotherly Hotels LP
+2972,SOHU,Sohu.com Inc
+2973,SOLO,Electrameccanica Vehs Corp
+2974,SOLOW,Electrameccanica Vehicles Corp Ltd WT
+2975,SOLY,Soliton Inc
+2976,SONA,Southern National Bk
+2977,SONG,Akazoo S.A.
+2978,SONGW,Akazoo S.A. WT
+2979,SONM,Sonim Technologies Inc
+2980,SONO,Sonos Inc
+2981,SORL,Sorl Auto Parts Inc
+2982,SOXX,PHLX Semiconductor Ishares ETF
+2983,SP,SP Plus Corp
+2984,SPAR,Spartan Motors Inc
+2985,SPCB,Supercom Ltd
+2986,SPEX,Spherix Inc
+2987,SPFI,South Plains Financial Inc
+2988,SPHS,Sophiris Bio
+2989,SPI,Spi Energy Co. Ads
+2990,SPKE,Spark Energy
+2991,SPKEP,Spark Energy Inc
+2992,SPLK,Splunk Inc
+2993,SPNE,Seaspine Holdings
+2994,SPNS,Sapiens Intl Cp NV
+2995,SPOK,Spok Holdings Inc
+2996,SPPI,Spectrum Pharma Inc
+2997,SPRO,Spero Therapeutics Inc
+2998,SPRT,Support.com Inc
+2999,SPSC,Sps Commerce Inc
+3000,SPT,Sprout Social Inc Cl A
+3001,SPTN,Spartannash Company
+3002,SPWH,Sportsman's Wareh
+3003,SPWR,Sunpower Corp
+3004,SQBG,Sequential Brands
+3005,SQLV,Legg Small-Cap Quality Value ETF
+3006,SQQQ,Ultrapro Short QQQ Proshares
+3007,SRAC,Stable Road Acquisition Corp. Cl A
+3008,SRACU,Stable Road Acquisition Corp
+3009,SRACW,Stable Road Acquisition Corp. WT
+3010,SRAX,Social Reality Inc
+3011,SRCE,1st Source Corp
+3012,SRCL,Stericycle Inc
+3013,SRDX,Surmodics Inc
+3014,SRET,G-X Super Dividend REIT ETF
+3015,SREV,Servicesrce Intl Inc
+3016,SRNE,Sorrento Therpt
+3017,SRPT,Sarepta Therapeutics
+3018,SRRA,Sierra Oncology Inc
+3019,SRRK,Scholar Rock Holding Corp
+3020,SRTS,Sensus Healthcare Inc
+3021,SRTSW,Sensus Healthcare Inc WT
+3022,SSB,South State Cp
+3023,SSBI,Summit State Bank
+3024,SSKN,Strata Skin Scien
+3025,SSNC,SS&C Technologies
+3026,SSNT,Silversun Technologies Inc Cl A
+3027,SSP,E.W. Scripps Company
+3028,SSPK,Silver Spike Acquisition Corp Cl A
+3029,SSPKU,Silver Spike Acquisition Corp Units
+3030,SSPKW,Silver Spike Acquisition Corp WT
+3031,SSRM,Silver Standard Resources Inc
+3032,SSSS,Sutter Rock Capital Corp
+3033,SSTI,Shotspotter Inc
+3034,SSYS,Stratasys Ltd
+3035,STAA,Staar Surgical Company
+3036,STAF,Staffing 360 Solutions Inc
+3037,STAY,Extended Stay America Inc
+3038,STBA,S&T Bancorp Inc
+3039,STCN,Steel Connect Inc
+3040,STFC,State Auto Finl Corp
+3041,STIM,Neuronetics Inc
+3042,STKL,Sunopta Inc
+3043,STKS,The One Group
+3044,STLD,Steel Dynamics Inc
+3045,STML,Stemline Therapeutic
+3046,STMP,Stamps.com Inc
+3047,STND,Standard Financial
+3048,STNE,Stoneco Ltd Cl A
+3049,STOK,Stoke Therapeutics Inc
+3050,STRA,Strayer Education
+3051,STRL,Sterling Constructio
+3052,STRM,Streamline Health So
+3053,STRO,Sutro Biopharma Inc
+3054,STRS,Stratus Pptys Inc
+3055,STRT,Strattec Security
+3056,STSA,Satsuma Pharmaceuticals Inc
+3057,STX,Seagate Tech Ord Shs
+3058,STXB,Spirit of Texas Bancshares Inc
+3059,SUMR,Summer Infant Inc
+3060,SUNS,Solar Senior Capital
+3061,SUNW,Sunworks Inc
+3062,SUPN,Supernus Pharm
+3063,SURF,Surface Oncology Inc
+3064,SUSB,1-5 Year USD Corp Bond Ishares ESG ETF
+3065,SUSC,USD Corp Bond Ishares ESG ETF
+3066,SUSL,Ishares ESG MSCI USA Leaders ETF
+3067,SVBI,Severn Bancorp Inc
+3068,SVC,Service Properties Trust
+3069,SVMK,Svmk Inc
+3070,SVRA,Savara Inc
+3071,SVVC,Firsthand Technology
+3072,SWAV,Shockwave Medical Inc
+3073,SWIR,Sierra Wireless IN
+3074,SWKH,Swk Holdings Corp
+3075,SWKS,Skyworks Solutions
+3076,SWTX,Springworks Therapeutics Inc
+3077,SXTC,China Sxt Pharmaceuticals Inc
+3078,SY,So-Young International Inc ADR
+3079,SYBT,Stock Yards Bancorp
+3080,SYBX,Synlogic Inc
+3081,SYKE,Sykes Enterprises
+3082,SYNA,Synaptics Inc
+3083,SYNC,Synacor Inc
+3084,SYNH,Syneos Health Inc
+3085,SYNL,Synalloy Cp
+3086,SYPR,Sypris Solutions
+3087,SYRS,Syros Pharmaceuticals
+3088,TA,Travelcenters of America Llc
+3089,TACO,Del Taco Rest
+3090,TACOW,Del Taco Rest WT
+3091,TACT,Transact Tech Inc
+3092,TAIT,Taitron Components
+3093,TANH,Tantech Holdings
+3094,TANNI,Travelcenters of America Llc
+3095,TANNL,Travelcenters of America Llc
+3096,TANNZ,Travelcenters of America Llc
+3097,TAOP,Taoping Inc
+3098,TARA,Artara Therapeutics Inc.
+3099,TAST,Carrols Rstrnt Group
+3100,TATT,T A T Tech Ltd
+3101,TAYD,Taylor Devices Inc
+3102,TBBK,The Bancorp Inc
+3103,TBIO,Translate Bio Inc
+3104,TBK,Triumph Bancorp
+3105,TBLT,Toughbuilt Industries Inc
+3106,TBLTW,Toughbuilt Industries Inc WT
+3107,TBNK,Territorial Bancorp
+3108,TBPH,Theravance Bio Ord
+3109,TC,Tuanche Ltd ADR
+3110,TCBI,Texas Capital Bncsh
+3111,TCBIL,Texas Cap 6.5 Sr NTS
+3112,TCBIP,Texas Capital
+3113,TCBK,Trico Bancshares
+3114,TCCO,Technical Commctn Cp
+3115,TCDA,Tricida Inc
+3116,TCF,TCF Financial Corp
+3117,TCFC,The Community Fin Cp
+3118,TCFCP,TCF Financial Corp
+3119,TCMD,Tactile Systems Technology Inc
+3120,TCOM,Trip.com Group Ltd
+3121,TCON,Tracon Pharma
+3122,TCPC,TCP Capital Corp
+3123,TCRD,THL Credit Inc
+3124,TCRR,Tcr2 Therapeutics Inc
+3125,TCX,Tucows Inc Cl A
+3126,TDAC,Trident Acquisitions Corp
+3127,TDACW,Trident Acquisitions Corp WT
+3128,TDIV,Nasdaq Technology Dividend Index Fund FT
+3129,TEAM,Atlassian Cls A Ord
+3130,TECD,Tech Data Cp
+3131,TECH,Bio-Techne Cp
+3132,TECTP,Tectonic Financial Inc 9.00% Fixed-To-Floating
+3133,TEDU,Tarena Intl ADR
+3134,TELA,Tela Bio Inc
+3135,TELL,Tellurian Inc
+3136,TENB,Tenable Holdings Inc
+3137,TENX,Tenax Therapeutics
+3138,TER,Teradyne Inc
+3139,TERP,Terraform Power Inc
+3140,TESS,Tessco Tech Inc
+3141,TEUM,Pareteum Corp
+3142,TFFP,Tff Pharmaceuticals Inc
+3143,TFSL,Tfs Financial Corp
+3144,TGA,Transglobe Energy Cp
+3145,TGEN,Tecogen Inc
+3146,TGLS,Tecnoglass Inc
+3147,TGTX,Tg Therapeuticscmn
+3148,TH,Target Hospitality Corp
+3149,THBR,Thunder Bridge Acquisition II Cl A
+3150,THBRU,Thunder Bridge Acquisition II Ltd. Units
+3151,THBRW,Thunder Bridge Acquisition II WT
+3152,THCA,Tuscan Holdings Corp II
+3153,THCAU,Tuscan Holdings Corp II Unit
+3154,THCAW,Tuscan Holdings Corp II WT
+3155,THCB,Tuscan Holdings Corp
+3156,THCBU,Tuscan Holdings Corp Unit
+3157,THCBW,Tuscan Holdings Corp WT
+3158,THFF,First Finl Corp [In]
+3159,THMO,Thermogenesis Holdings Inc.
+3160,THRM,Gentherm Inc
+3161,THTX,Theratechnologies Inc
+3162,THWWW,Target Hospitality Corp WT
+3163,TIBR,Tiberius Acquisition Corp
+3164,TIBRW,Tiberius Acquisition WT
+3165,TIGO,Millicom International Cellular S.A.
+3166,TIGR,Up Fintech Holding Ltd ADR
+3167,TILE,Interface Inc
+3168,TIPT,Tiptree Fncl Cl A
+3169,TITN,Titan Machinery Inc
+3170,TIVO,Tivo Corp
+3171,TLC,Taiwan Liposome Company Ltd ADR
+3172,TLF,Tandy Leather Fctry
+3173,TLGT,Teligent
+3174,TLND,Talend S.A.
+3175,TLRY,Tilray Inc
+3176,TLSA,Tiziana Life Sciences Plc ADR
+3177,TLT,20+ Year Treas Bond Ishares ETF
+3178,TMDI,Titan Medical Inc
+3179,TMDX,Transmedics Group Inc
+3180,TMSR,Tmsr Holding Company Ltd
+3181,TMUS,T-Mobile US
+3182,TNAV,Telenav Inc
+3183,TNDM,Tandem Diabetes Care
+3184,TNXP,Tonix Pharm Hld
+3185,TOCA,Tocagen Inc
+3186,TOPS,Top Ships Inc
+3187,TORC,Restorbio Inc
+3188,TOTA,Tottenham Acquisition I Ltd
+3189,TOTAR,Tottenham Acquisition I Ltd Right
+3190,TOTAU,Tottenham Acquisition I Ltd Unit
+3191,TOTAW,Tottenham Acquisition I Ltd WT
+3192,TOUR,Tuniu Corporatio Ads
+3193,TOWN,Towne Bank
+3194,TPCO,Tribune Publishing Company
+3195,TPIC,Tpi Composites Inc
+3196,TPTX,Turning Point Therapeutics Inc
+3197,TQQQ,Ultrapro QQQ Proshares
+3198,TRCH,Torchlight Energy
+3199,TREE,Lendingtree Inc
+3200,TRHC,Tabula Rasa Healthcare Inc
+3201,TRIB,Trinity Bio ADR
+3202,TRIL,Trillium Therapeutic
+3203,TRIP,Tripadvisor Inc
+3204,TRMB,Trimble Navigation
+3205,TRMD,Torm Plc Cl A
+3206,TRMK,Trustmark Corp
+3207,TRMT,Tremont Mortgage Trust
+3208,TRNS,Transcat Inc
+3209,TRNX,Taronis Technologies Inc
+3210,TROV,Trovagene Inc
+3211,TROW,T Rowe Price Group
+3212,TRPX,Therapix Biosciences Ltd
+3213,TRS,Trimas Corp
+3214,TRST,Trustco Bank Corp NY
+3215,TRUE,Truecar Inc
+3216,TRUP,Trupanion Inc
+3217,TRVG,Trivago NV
+3218,TRVI,Trevi Therapeutics Inc
+3219,TRVN,Trevena Inc
+3220,TSBK,Timberland Bancorp
+3221,TSC,Tristate Capital Hld
+3222,TSCAP,Tristate Capital Holdings Inc Dep Shs Repstg 1/4
+3223,TSCBP,Tristate Capital Holdings Inc Fxdfr Prf Perpet
+3224,TSCO,Tractor Supply Company
+3225,TSEM,Tower Semiconductor
+3226,TSG,The Stars Group Inc
+3227,TSLA,Tesla Inc
+3228,TSRI,T S R Inc
+3229,TTD,Trade Desk Inc
+3230,TTEC,Teletech Hlds
+3231,TTEK,Tetra Tech Inc
+3232,TTGT,Techtarget Inc
+3233,TTMI,TTM Technologies
+3234,TTNP,Titan Pharma
+3235,TTOO,T2 Biosystems CS
+3236,TTPH,Tetraphase Pharmaceu
+3237,TTTN,Tigershares China-U.S. Internet Titans ETF
+3238,TTWO,Take-Two Interacti
+3239,TUES,Tuesday Morning Company
+3240,TUR,Turkey Ishares MSCI ETF
+3241,TURN,180 Degree Capital Corp
+3242,TUSA,Total US Market Alphadex ETF FT
+3243,TUSK,Mammoth Energy Services Inc
+3244,TVIX,VS 2X VIX Short Term
+3245,TVTY,Tivity Health
+3246,TW,Tradeweb Markets Inc
+3247,TWIN,Twin Disc Inc
+3248,TWMC,Trans World Entertainment Corp
+3249,TWNK,Hostess Brands Inc
+3250,TWNKW,Gores Holdings WT
+3251,TWOU,2U Inc
+3252,TWST,Twist Bioscience Corp
+3253,TXG,10X Genomics Inc
+3254,TXMD,Therapeuticsmd Inc
+3255,TXN,Texas Instruments
+3256,TXRH,Texas Roadhouse Inc
+3257,TYHT,Shineco Inc
+3258,TYME,Tyme Technologies
+3259,TZAC,Tenzing Acquisition Corp
+3260,TZACU,Tenzing Acquisition Corp Units
+3261,TZACW,Tenzing Acquisition Corp WT
+3262,TZOO,Travelzoo Inc
+3263,UAE,UAE Ishares MSCI ETF
+3264,UAL,United Continental Holdings
+3265,UBCP,United Bncp Inc
+3266,UBFO,United Security Bcsh
+3267,UBIO,Ultrapro Biotechnology Proshares
+3268,UBOH,United Bancshares
+3269,UBSI,United Bkshs Inc
+3270,UBX,Unity Biotechnology Inc
+3271,UCBI,United Comm Banks
+3272,UCTT,Ultra Clean Holdings
+3273,UEIC,Universal Elect IN
+3274,UEPS,Net 1 Ueps Techs Inc
+3275,UFCS,United Fire Group
+3276,UFO,Procure Space ETF
+3277,UFPI,Universal Forest Prd
+3278,UFPT,U F P Tech Inc
+3279,UG,United Guardian Inc
+3280,UGLD,VS 3X Gold
+3281,UHAL,A M E R C O
+3282,UIHC,United Insurance Hld
+3283,ULBI,Ultralife Corp
+3284,ULH,Universal Logis Hld
+3285,ULTA,Ulta Beauty Inc
+3286,UMBF,Ump Financial Corp
+3287,UMPQ,Umpqua Holdings Corp
+3288,UMRX,Unum Therapeutics Inc
+3289,UNAM,Unico American Cp
+3290,UNB,Union Bankshares Inc
+3291,UNIT,Uniti Group Inc
+3292,UNTY,Unity Bancorp Inc
+3293,UONE,Urban One Inc
+3294,UONEK,Urban One Inc
+3295,UPLD,Upland Software Inc
+3296,UPWK,Upwork Inc
+3297,URBN,Urban Outfitters Inc
+3298,URGN,Urogen Pharma Ltd
+3299,UROV,Urovant Sciences Ltd
+3300,USAK,U S A Truck Inc
+3301,USAP,Universal Stainles
+3302,USAU,U.S. Gold Corp
+3303,USCR,U S Concrete Inc
+3304,USEG,U S Energy Corp
+3305,USIG,Broad USD Investment Gr. Corp Bond Ishares ETF
+3306,USIO,Usio Inc
+3307,USLB,Russell 1000 Low Beta EW Invesco ETF
+3308,USLM,U S Lime & Mineral
+3309,USLV,VS 3X Silver
+3310,USMC,Principal U.S. Mega-Cap Multi-Factor Index ETF
+3311,USOI,Credit Suisse Ag Credit Suisse X-Links Crude Oil
+3312,USWS,U.S. Well Services Inc
+3313,USWSW,U.S. Well Services Inc WT
+3314,UTHR,United Therapeutic
+3315,UTMD,Utah Medical Prod
+3316,UTSI,Utstarcom Holdings C
+3317,UVSP,Univest Corp of Penn
+3318,UXIN,Uxin Ltd Ads
+3319,VALU,Value Line Inc
+3320,VALX,Validea Market Legends ETF
+3321,VBFC,Village Bank & Trust
+3322,VBIV,Vbi Vaccines Inc CS
+3323,VBLT,Vascular Biogen. Ord
+3324,VBTX,Veritex Holdings
+3325,VC,Visteon Corp
+3326,VCEL,Vericel Corproation
+3327,VCIT,Interm Corp Bond Vanguard
+3328,VCLT,Long-Term Corp Bond Vanguard
+3329,VCNX,Vaccinex Inc
+3330,VCSH,Sht-Term Corp Bond Vanguard
+3331,VCTR,Victory Capital Holdings Inc Cl A
+3332,VCYT,Veracyte Inc
+3333,VECO,Veeco Instrument
+3334,VEON,Veon Ltd
+3335,VERB,Verb Technology Company Inc
+3336,VERBW,Verb Technology Company Inc WT
+3337,VERI,Veritone Inc
+3338,VERO,Venus Concept Inc.
+3339,VERU,Veru Inc
+3340,VERY,Vericity Inc
+3341,VETS,Pacer Military Times Best Employers ETF
+3342,VFF,Village Farms Intl
+3343,VG,Vonage Holdings
+3344,VGIT,Interm Govt Bond Vanguard
+3345,VGLT,Long-Term Govt Bond Vanguard
+3346,VGSH,Sht-Term Govt Bond Vanguard
+3347,VIAC,Viacomcbs Inc. Cl B
+3348,VIACA,Viacomcbs Inc. Cl A
+3349,VIAV,Viavi Solutions
+3350,VICR,Vicor Cp
+3351,VIE,Viela Bio Inc
+3352,VIGI,Intl Div Appreciation ETF Vanguard
+3353,VIIX,VS VIX Short Term
+3354,VIOT,Viomi Technology Co. Ltd ADR
+3355,VIR,Vir Biotechnology Inc
+3356,VIRC,Virco MFG Cp
+3357,VIRT,Virtu Financial Cm A
+3358,VISL,Vislink Technologies Inc
+3359,VIVE,Viveve Medical
+3360,VIVO,Meridian Bioscience
+3361,VKTX,Viking Thera
+3362,VKTXW,Viking Theraptcs WT
+3363,VLGEA,Village Super Mkt
+3364,VLY,Valley National Bancorp
+3365,VLYPO,Valley National Bancorp Pfd Series B
+3366,VLYPP,Valley National Bancorp Pfd Series A
+3367,VMBS,Mortgage-Backed Securities Vanguard
+3368,VMD,Viemed Healthcare Inc
+3369,VNDA,Vanda Pharmaceuticals
+3370,VNET,21Vianet Group Inc
+3371,VNOM,Viper Energy LP
+3372,VNQI,Global Ex-US Real Estate Vanguard
+3373,VOD,Vodafone Grp Plc Ads
+3374,VONE,Russell 1000 Vanguard
+3375,VONG,Russell 1000 Growth Vanguard
+3376,VONV,Russell 1000 Value Vanguard
+3377,VOXX,Voxx Intl Corp
+3378,VRA,Vera Bradley
+3379,VRAY,Viewray Inc
+3380,VRCA,Verrica Pharmaceuticals Inc
+3381,VREX,Varex Imaging Corp
+3382,VRIG,Variable Rate Investment Grade Invesco ETF
+3383,VRML,Vermillion Inc
+3384,VRNA,Verona Pharma Plc ADR
+3385,VRNS,Varonis Systems Inc
+3386,VRNT,Verint Systems Inc
+3387,VRRM,Verra Mobility Corp
+3388,VRSK,Verisk Analytics Inc
+3389,VRSN,Verisign Inc
+3390,VRTS,Virtus Inv Partners
+3391,VRTU,Virtusa Corp
+3392,VRTX,Vertex Pharmaceutic
+3393,VSAT,Viasat Inc
+3394,VSDA,Victory Dividend Accelerator ETF
+3395,VSEC,V S E Cp
+3396,VSMV,Victory Portfolios II Victoryshares US Multi-Fac
+3397,VSTM,Verastem Inc
+3398,VTC,Total Corporate Bond Vanguard ETF
+3399,VTGN,Vistagen Therap. Com
+3400,VTHR,Russell 3000 Vanguard
+3401,VTIP,Sht-Term Infl Protected Vanguard
+3402,VTIQ,Vectoiq Acquisition Corp
+3403,VTIQU,Vectoiq Acquisition Corp Unit
+3404,VTIQW,Vectoiq Acquisition Corp WT
+3405,VTNR,Vertex Energy
+3406,VTSI,Virtra Systems Inc
+3407,VTVT,Vtv Theraptcs Cl A
+3408,VTWG,Russell 2000 Growth Vanguard
+3409,VTWO,Russell 2000 Vanguard
+3410,VTWV,Russell 2000 Value Vanguard
+3411,VUZI,Vuzix Corp
+3412,VVPR,Vivopower International Plc
+3413,VVUS,Vivus Inc
+3414,VWOB,EM Govt Bond Vanguard
+3415,VXRT,Vaxart Inc
+3416,VXUS,Total Intl Stock ETF Vanguard
+3417,VYGR,Voyager Therapeut
+3418,VYMI,Intl High Divd Yld ETF Vanguard
+3419,WABC,Westamerica Bancorp
+3420,WAFD,Washington Federal
+3421,WAFU,Wah Fu Education Group Ltd
+3422,WASH,Washington TR Bncorp
+3423,WATT,Energous Corp
+3424,WB,Weibo Corp Ads
+3425,WBA,Walgreens Boots Alliance
+3426,WBND,Western Asset Total Return ETF
+3427,WCLD,Wisdomtree Cloud Computing Fund
+3428,WDAY,Workday Inc
+3429,WDC,Western Digital Cp
+3430,WDFC,W D 40 Company
+3431,WEBK,Wellesley Bncp Inc
+3432,WEN,Wendys Company
+3433,WERN,Werner Enterprise
+3434,WETF,Wisdomtree Invstmnts
+3435,WEYS,Weyco Gp Inc
+3436,WHF,Whitehorse Finance
+3437,WHFBZ,Whitehorse Finance Inc 6.50% Notes Due 2025
+3438,WHLM,Wilhelmina Intl
+3439,WHLR,Wheeler Real Estate
+3440,WHLRD,Wheeler Real Estate Investment Trust Inc
+3441,WHLRP,Wheeler REIT B Pfd
+3442,WIFI,Boingo Wireless Inc
+3443,WILC,G Willi-Food Intl
+3444,WINA,Winmark Corp
+3445,WINC,Western Asset Short Duration Income ETF
+3446,WING,Wingstop Inc
+3447,WINS,Wins Finance Holdings Inc
+3448,WIRE,Encore Wire Cp
+3449,WISA,Summit Semiconductor Inc
+3450,WIX,Wix.com Ltd
+3451,WKEY,Wisekey International Holding Ltd ADR
+3452,WKHS,Workhorse Grp
+3453,WLDN,Willdan Group Inc
+3454,WLFC,Willis Lease Fin C
+3455,WLTW,Willis Towers WT
+3456,WMGI,Wright Med Grp NV
+3457,WNEB,Western New England Bancorp Inc
+3458,WOOD,Global Timber & Forestry Ishares ETF
+3459,WORX,Scworx Corp
+3460,WPRT,Westport Fuel Systems Inc
+3461,WRLD,World Acceptance Cp
+3462,WRLS,Pensare Acquisition Corp
+3463,WRLSR,Pensare Acquisition Corp 1/10 Stk
+3464,WRLSW,Pensare Acquisition Corp WT
+3465,WRTC,Wrap Technologies Inc
+3466,WSBC,Wesbanco Inc
+3467,WSBF,Waterstone Financial
+3468,WSC,Willscot Corp
+3469,WSFS,WSFS Financial Corp
+3470,WSG,Wanda Sports Group Company Ltd ADR
+3471,WSTG,Wayside Technology
+3472,WSTL,Westell Technologies
+3473,WTBA,West Bancorp
+3474,WTER,Alkaline Water Company Inc
+3475,WTFC,Wintrust Finl Corp
+3476,WTFCM,Wintrust Fin Pref D
+3477,WTRE,Watford Holdings Ltd
+3478,WTREP,Watford Holdings Ltd. 8.5%
+3479,WTRH,Waitr Holdings Inc
+3480,WVE,Wave Life Sci Ord Sh
+3481,WVFC,Wvs Financial Corp
+3482,WVVI,Willamette Valley
+3483,WVVIP,Willamette Valley Vineyards IN
+3484,WW,Weight Watchers International Inc
+3485,WWD,Woodward Inc
+3486,WWR,Westwater Resources
+3487,WYNN,Wynn Resorts Ltd
+3488,XAIR,Beyond Air Inc
+3489,XBIO,Xenetic Biosciences Inc
+3490,XBIOW,Xenetic Biosciences Inc WT
+3491,XBIT,Xbiotech Inc
+3492,XCUR,Exicure Inc
+3493,XEL,XCEL Energy Inc
+3494,XELA,Exela Technologies Inc
+3495,XELB,XCEL Brands
+3496,XENE,Xenon Pharmaceuticals Inc
+3497,XENT,Intersect Ent Inc
+3498,XERS,Xeris Pharmaceuticals Inc
+3499,XFOR,X4 Pharmaceuticals Inc
+3500,XGN,Exagen Inc
+3501,XLNX,Xilinx Inc
+3502,XLRN,Acceleron Pharma
+3503,XNCR,Xencor Inc
+3504,XNET,Xunlei Ltd ADR
+3505,XOG,Extraction Oil & Gas Inc
+3506,XOMA,Xoma Corp
+3507,XONE,The Exone Company
+3508,XP,XP Inc Cl A
+3509,XPEL,Xpel Technologies
+3510,XPER,Xperi Corp
+3511,XRAY,Dentsply Sirona Inc
+3512,XSPA,Xpresspa Group Inc
+3513,XT,Exponential Technologies Ishares ETF
+3514,XTLB,Xtl Biopharma Ads
+3515,YGYI,Youngevity International Inc
+3516,YGYIP,Youngevity International Inc 9.75% Series D Cum
+3517,YI,111 Inc ADR
+3518,YIN,Yintech Investm Ads
+3519,YJ,Yunji Inc
+3520,YLCO,G-X Yieldco Index ETF
+3521,YLDE,Legg Clearbridge Dividend ESG ETF
+3522,YMAB,Y-Mabs Therapeutics Inc
+3523,YNDX,Yandex N.V.
+3524,YORW,York Water Company
+3525,YRCW,YRC Worldwide
+3526,YTEN,Yield10 Bioscience Inc
+3527,YTRA,Yatra Online Inc
+3528,YVR,Liquid Media Group Ltd
+3529,YY,YY Inc
+3530,Z,Zillow Group Cl C
+3531,ZAGG,Zagg Inc
+3532,ZBIO,Ultrapro Short Biotechnology Proshares
+3533,ZBRA,Zebra Technologies
+3534,ZCMD,Zhongchao Inc Cl A
+3535,ZEAL,Zealand Pharma A/S ADR
+3536,ZEUS,Olympic Steel Inc
+3537,ZFGN,Zafgen Inc
+3538,ZG,Zillow Grp Inc Cl A
+3539,ZGNX,Zogenix Inc
+3540,ZGYHU,Yunhong International
+3541,ZION,Zions Bancorp
+3542,ZIONL,Zion Bancorp
+3543,ZIONN,Zions Bancorporation N.A. Depositary Shares Each
+3544,ZIONO,Zions Bancorporation N.A. Depositary Shares Each
+3545,ZIONP,Zions Bancorporation N.A. Depositary Shares Each
+3546,ZIONW,Zions Bncrp WT
+3547,ZIOP,Ziopharm Oncology IN
+3548,ZIV,VS -1X VIX Mid Term
+3549,ZIXI,Zix Corp
+3550,ZKIN,Zk International Group Co. Ltd
+3551,ZLAB,Zai Lab Ltd
+3552,ZM,Zoom Video Communications Cl A
+3553,ZN,Zion Oil & Gas Inc
+3554,ZNGA,Zynga Inc Cl A
+3555,ZS,Zscaler Inc
+3556,ZSAN,Zosano Pharma
+3557,ZUMZ,Zumiez Inc
+3558,ZVO,Zovio Inc
+3559,ZYNE,Zynerba Pharma CS
+3560,ZYXI,Zynex Inc
