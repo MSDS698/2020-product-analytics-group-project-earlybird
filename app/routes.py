@@ -1,6 +1,10 @@
 from app import application, classes, db
 from flask import flash, redirect, render_template, url_for
 from flask_login import current_user, login_user, login_required, logout_user
+import numpy as np
+import pandas as pd
+import boto3
+
 from flask_bootstrap import Bootstrap
 
 
@@ -44,7 +48,7 @@ def login():
         # Login and validate the user.
         if user is not None and user.check_password(password):
             login_user(user)
-            return redirect(url_for('example'))
+            return redirect(url_for('dashboard'))
         else:
             flash('Invalid username and password combination!')
 
@@ -80,6 +84,28 @@ def question():
 def example():
 
    return render_template('example.html')
+
+@application.route('/dashboard')
+@login_required
+def dashboard():
+    # assign cluster: test case
+    n_clusters = 4
+    cluster = np.random.randint(0, n_clusters, 1)[0]
+
+    # fetch cluster data from S3
+    bucket = "earlybird-data"
+    file_name = f"stock/cluster{cluster}.csv"
+
+    s3 = boto3.client("s3")
+    obj = s3.get_object(Bucket=bucket, Key=file_name)
+    df = pd.read_csv(obj["Body"])
+
+    # some processing steps
+    recommend = df.sample(5)[['company', 'symbol', 'Market Cap', 'PE ratio', 'PB ratio', 'Revenue per Share', 'Net Income per Share']]
+    recommend['Market Cap'] = recommend['Market Cap'] / 1e9
+    recommend = np.round(recommend, 1).to_numpy()
+
+    return render_template('dashboard.html', data=recommend)
 
 @application.route('/not_qualify', methods=['GET', 'POST'])
 def not_qualify():
