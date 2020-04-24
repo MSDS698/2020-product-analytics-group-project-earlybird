@@ -5,6 +5,11 @@
 Login
 {% endblock %}
 
+{% block head %}
+{{super()}}
+<link href="../static/css/bootstrap.min.css" rel="stylesheet">
+{% endblock %}
+
 {% block navbar %}
     {% include 'navbar.html' %}
 {% endblock %}
