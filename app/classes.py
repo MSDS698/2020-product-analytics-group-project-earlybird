@@ -55,15 +55,15 @@ class RegistrationForm(FlaskForm):
 class QuestionForm(FlaskForm):
     gender = SelectField('Gender', choices=[('F', 'Female'), ('M', 'Male')])
     age = IntegerField('Age:', validators=[DataRequired()])
-    marriage = SelectField('Marriage', choices=[('Single', 'Single'), ('Married', 'Married')])
+    marriage = SelectField('Marriage Status', choices=[('Single', 'Single'), ('Married', 'Married')])
     household = SelectField('Household', choices=[('H', 'Own House'), ('R', 'Rent Apartment')])
-    mortgage_loan = SelectField('Mortgage', choices=[('Y', 'Yes'), ('N', 'No')])
-    investment_horizon = IntegerField('Investment_Horizen:', validators=[DataRequired()])
-    yearly_income=SelectField('Income', choices=[('1', '30,000-70,000'), ('2', '70,000-100,000'),
+    mortgage_loan = SelectField('Mortgage Loan', choices=[('Y', 'Yes'), ('N', 'No')])
+    investment_horizon = IntegerField('Investment Horizen:', validators=[DataRequired()])
+    yearly_income=SelectField('Annual Income', choices=[('1', '30,000-70,000'), ('2', '70,000-100,000'),
                                                    ('3', '100,000-130,000'), ('4', '130,000-160,000'),
                                                    ('5', '160,000-200,000'), ('6', '200,000-240,000'),
                                                    ('3', '100,000-130,000') ])
-    monthly_expense = SelectField('Expense', choices=[('1', '500-1,000'), ('2', '1,000-2,500'),
+    monthly_expense = SelectField('Monthly Expense', choices=[('1', '500-1,000'), ('2', '1,000-2,500'),
                                                    ('3', '2,500-4,000'), ('4', '4,000-5,500'),
                                                    ('5', '5,500&up') ])
     submit = SubmitField('Submit')
