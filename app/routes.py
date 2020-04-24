@@ -26,7 +26,7 @@ def register():
             user = classes.User(username, email, password)
             db.session.add(user)
             db.session.commit()
-            return redirect(url_for('register_project'))
+            return redirect(url_for('question'))
         else:
             flash('Username or Email already exist!')
     return render_template('register.html', form=registration_form)
@@ -53,26 +53,32 @@ def login():
 
 
 @application.route('/question', methods=['GET', 'POST'])
-def register_project():
-    project_form = classes.ProjectForm()
-    if project_form.validate_on_submit():
-        Net_Wealth = project_form.Net_Wealth.data
-        Annual_Income = project_form.Annual_Income.data
-        Age = project_form.Age.data
-        user_name = project_form.username.data
-        project = classes.Project(Net_Wealth, Annual_Income, Age, user_name)
-        db.session.add(project)
-        db.session.commit()
-        #return redirect(url_for('index'))
+def question():
+    question_form = classes.QuestionForm()
+    if question_form.validate_on_submit():
+        age = question_form.age.data
+        gender = question_form.gender.data
+        marriage = question_form.marriage.data
+        household = question_form.household.data
+        mortgage_loan = question_form.mortgage_loan.data
+        investment_horizon = question_form.investment_horizon.data
+        yearly_income = question_form.yearly_income.data
+        monthly_expense = question_form.monthly_expense.data
 
-        if Age >= 22 and Net_Wealth >= 100000:
-            return redirect(url_for('login'))
-        else:
-            return redirect(url_for('not_qualify'))
-    return render_template('question.html', form=project_form, authenticated_user=current_user.is_authenticated)
+        info = classes.Question(age, gender, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense)
+        db.session.add(info)
+        db.session.commit()
+        return redirect(url_for('index'))
+
+        # if Age >= 22 and Net_Wealth >= 100000:
+        #     return redirect(url_for('login'))
+        # else:
+        #     return redirect(url_for('not_qualify'))
+    return render_template('question.html', form=question_form, authenticated_user=current_user.is_authenticated)
 
 @application.route('/example')
 def example():
+
    return render_template('example.html')
 
 @application.route('/not_qualify', methods=['GET', 'POST'])

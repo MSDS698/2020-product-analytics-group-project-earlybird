@@ -7,18 +7,26 @@ from wtforms.validators import DataRequired
 
 from app import db, login_manager
 
-class Project(db.Model):
+class Question(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    user_name = db.Column(db.String(80), nullable=False)
-    Net_Wealth = db.Column(db.Float, nullable=False)
-    Annual_Income = db.Column(db.Float,  nullable=False)
-    Age = db.Column(db.Float, nullable=False)
+    age = db.Column(db.Integer, nullable=False)
+    gender = db.Column(db.String(80), nullable=False)
+    marriage = db.Column(db.String(80), nullable=False)
+    household = db.Column(db.String(80), nullable=False)
+    mortgage_loan = db.Column(db.String(80), nullable=False)
+    investment_horizen = db.Column(db.Integer, nullable=False)
+    yearly_income = db.Column(db.String(80), nullable=False)
+    monthly_expense = db.Column(db.String(80), nullable=False)
 
-    def __init__(self, Net_Wealth, Annual_Income, Age, user_name):
-        self.Net_Wealth = Net_Wealth
-        self.Annual_Income = Annual_Income
-        self.Age = Age
-        self.user_name = user_name
+    def __init__(self, age, gender, marriage, household,mortgage_loan, investment_horizon, yearly_income, monthly_expense):
+        self.age = age
+        self.gender = gender
+        self.marriage = marriage
+        self.household = household
+        self.mortgage_loan = mortgage_loan
+        self.investment_horizen =  investment_horizon
+        self.yearly_income = yearly_income
+        self.monthly_expense = monthly_expense
 
 
 class User(db.Model, UserMixin):
@@ -44,11 +52,20 @@ class RegistrationForm(FlaskForm):
     password = PasswordField('Password:', validators=[DataRequired()])
     submit = SubmitField('Submit')
 
-class ProjectForm(FlaskForm):
-    Net_Wealth = FloatField('Net Wealth:', validators=[DataRequired()])
-    Annual_Income = FloatField('Annual Income', validators=[DataRequired()])
-    Age = FloatField('Age:', validators=[DataRequired()])
-    username = StringField('Username:', validators=[DataRequired()])
+class QuestionForm(FlaskForm):
+    gender = SelectField('Gender', choices=[('F', 'Female'), ('M', 'Male')])
+    age = IntegerField('Age:', validators=[DataRequired()])
+    marriage = SelectField('Marriage Status', choices=[('Single', 'Single'), ('Married', 'Married')])
+    household = SelectField('Household', choices=[('H', 'Own House'), ('R', 'Rent Apartment')])
+    mortgage_loan = SelectField('Mortgage Loan', choices=[('Y', 'Yes'), ('N', 'No')])
+    investment_horizon = IntegerField('Investment Horizen:', validators=[DataRequired()])
+    yearly_income=SelectField('Annual Income', choices=[('1', '30,000-70,000'), ('2', '70,000-100,000'),
+                                                   ('3', '100,000-130,000'), ('4', '130,000-160,000'),
+                                                   ('5', '160,000-200,000'), ('6', '200,000-240,000'),
+                                                   ('3', '100,000-130,000') ])
+    monthly_expense = SelectField('Monthly Expense', choices=[('1', '500-1,000'), ('2', '1,000-2,500'),
+                                                   ('3', '2,500-4,000'), ('4', '4,000-5,500'),
+                                                   ('5', '5,500&up') ])
     submit = SubmitField('Submit')
 
 class LogInForm(FlaskForm):
