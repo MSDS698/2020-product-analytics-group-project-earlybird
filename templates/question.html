@@ -1,0 +1,31 @@
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}
+Questionnaire
+{% endblock %}
+
+{% block navbar %}
+    {% include 'navbar.html' %}
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    {% include 'flash.html' %}
+
+    <form method="POST"> <!-- post : handle submission -->
+        <h2> Preliminary Questionnaire </h2>
+        {{ form.hidden_tag() }}
+        {{ form.hidden_tag() }}
+        {{ wtf.form_field(form.age) }}
+        {{ wtf.form_field(form.gender) }}
+        {{ wtf.form_field(form.marriage) }}
+        {{ wtf.form_field(form.household) }}
+        {{ wtf.form_field(form.mortgage_loan) }}
+        {{ wtf.form_field(form.investment_horizon) }}
+        {{ wtf.form_field(form.yearly_income) }}
+        {{ wtf.form_field(form.monthly_expense) }}
+        <center> {{ wtf.form_field(form.submit)}} </center>
+    </form>
+</div> <!-- /container -->
+{% endblock %}
