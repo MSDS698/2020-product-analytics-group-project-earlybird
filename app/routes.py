@@ -58,21 +58,122 @@ def login():
 
 @application.route('/question', methods=['GET', 'POST'])
 def question():
+    q1 = 0
+    q2 = 0
+    q3 = 0
+    q4 = 0
+    q5 = 0
+    q6 = 0
+    q7 = 0
+    q8 = 0
+    q9 = 0
+    q10 = 0
+    score = 0
+
     question_form = classes.QuestionForm()
     if question_form.validate_on_submit():
         age = question_form.age.data
-        gender = question_form.gender.data
-        marriage = question_form.marriage.data
-        household = question_form.household.data
-        mortgage_loan = question_form.mortgage_loan.data
-        investment_horizon = question_form.investment_horizon.data
-        yearly_income = question_form.yearly_income.data
-        monthly_expense = question_form.monthly_expense.data
+        if int(age)>=18 & int(age)<22:
+            q1 = 10
+        elif int(age)>=22 & int(age)<26:
+            q1 = 7.5
+        elif int(age)>=26 & int(age)<30:
+            q1 = 5
+        else:
+            q1 = 2.5
 
-        info = classes.Question(age, gender, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense)
+        num_income_source = question_form.num_income_source.data
+        if num_income_source =='1':
+            q2 = 10
+        elif num_income_source == '2':
+            q2 = 7.5
+        elif num_income_source == '3':
+            q2 = 5
+        else:
+            q2 = 2.5
+
+        marriage = question_form.marriage.data
+        if marriage == 'Single':
+            q3 = 10
+        else:
+            q3 = 5
+
+        household = question_form.household.data
+        if household == 'R':
+            q4 = 10
+        else:
+            q4 = 5
+
+        mortgage_loan = question_form.mortgage_loan.data
+        if mortgage_loan == 'N':
+            q5 = 5
+        else:
+            q5 = 10
+
+        investment_horizon = question_form.investment_horizon.data
+        if investment_horizon <= 5:
+            q6 = 10
+        elif investment_horizon >5 & investment_horizon <=7:
+            q6 = 7.5
+        elif investment_horizon > 7 & investment_horizon <=10:
+            q6 = 5
+        else:
+            q6 = 2.5
+
+        yearly_income = question_form.yearly_income.data
+        if yearly_income == '1':
+            q7 = 10
+        elif yearly_income =='2':
+            q7 = 8
+        elif yearly_income == '3':
+            q7 = 6
+        elif yearly_income =='4':
+            q7 = 4
+        elif yearly_income == '5':
+            q7 = 2
+        else:
+            q7 = 0
+
+        monthly_expense = question_form.monthly_expense.data
+        if monthly_expense == '1':
+            q8 = 2
+        elif monthly_expense == '2':
+            q8 = 4
+        elif monthly_expense == '3':
+            q8 =6
+        elif monthly_expense == '4':
+            q8 = 8
+        else:
+            q8 = 10
+
+        knowledge = question_form.knowledge.data
+        if knowledge == '1':
+            q9 = 2.5
+        elif knowledge == '2':
+            q9 = 5
+        elif knowledge == '3':
+            q9 = 7.5
+        else:
+            q9 = 10
+
+        aum = question_form.aum.data
+        if aum == '1':
+            q10 = 10
+        elif aum == '2':
+            q10 = 8
+        elif aum == '3':
+            q10 = 6
+        elif aum == '4':
+            q10 = 4
+        elif aum == '5':
+            q10 = 2
+
+        score = q1+q2+q3+q4+q5+q6+q7+q8+q9+q10
+
+        info = classes.Question(age, num_income_source, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense, aum, knowledge, score)
         db.session.add(info)
         db.session.commit()
-        return redirect(url_for('index'))
+        return redirect(url_for('score'))
 
         # if Age >= 22 and Net_Wealth >= 100000:
         #     return redirect(url_for('login'))
@@ -107,10 +208,11 @@ def dashboard():
 
     return render_template('dashboard.html', data=recommend)
 
-@application.route('/not_qualify', methods=['GET', 'POST'])
-def not_qualify():
-    return render_template('not_qualify.html')
-
+@application.route('/score', methods=['GET', 'POST'])
+def score():
+    info = classes.Question.query.order_by("id").all()
+    score = info[-1].score
+    return render_template('score.html', score = score)
 
 
 @application.route('/logout')

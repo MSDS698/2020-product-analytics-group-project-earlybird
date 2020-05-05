@@ -10,24 +10,29 @@ from app import db, login_manager
 class Question(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     age = db.Column(db.Integer, nullable=False)
-    gender = db.Column(db.String(80), nullable=False)
+    num_income_source = db.Column(db.Integer, nullable=False)
     marriage = db.Column(db.String(80), nullable=False)
     household = db.Column(db.String(80), nullable=False)
     mortgage_loan = db.Column(db.String(80), nullable=False)
     investment_horizen = db.Column(db.Integer, nullable=False)
     yearly_income = db.Column(db.String(80), nullable=False)
     monthly_expense = db.Column(db.String(80), nullable=False)
+    aum = db.Column(db.String(80), nullable=False)
+    knowledge = db.Column(db.String(80), nullable=False)
+    score = db.Column(db.Float, nullable=False)
 
-    def __init__(self, age, gender, marriage, household,mortgage_loan, investment_horizon, yearly_income, monthly_expense):
+    def __init__(self, age, num_income_source, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense,aum, knowledge, score):
         self.age = age
-        self.gender = gender
+        self.num_income_source = num_income_source
         self.marriage = marriage
         self.household = household
         self.mortgage_loan = mortgage_loan
         self.investment_horizen =  investment_horizon
         self.yearly_income = yearly_income
         self.monthly_expense = monthly_expense
-
+        self.aum = aum
+        self.knowledge = knowledge
+        self.score = score
 
 class User(db.Model, UserMixin):
     id = db.Column(db.Integer, primary_key=True)
@@ -53,19 +58,27 @@ class RegistrationForm(FlaskForm):
     submit = SubmitField('Submit')
 
 class QuestionForm(FlaskForm):
-    gender = SelectField('Gender', choices=[('F', 'Female'), ('M', 'Male')])
-    age = IntegerField('Age:', validators=[DataRequired()])
-    marriage = SelectField('Marriage Status', choices=[('Single', 'Single'), ('Married', 'Married')])
-    household = SelectField('Household', choices=[('H', 'Own House'), ('R', 'Rent Apartment')])
-    mortgage_loan = SelectField('Mortgage Loan', choices=[('Y', 'Yes'), ('N', 'No')])
-    investment_horizon = IntegerField('Investment Horizen:', validators=[DataRequired()])
-    yearly_income=SelectField('Annual Income', choices=[('1', '30,000-70,000'), ('2', '70,000-100,000'),
+    age = IntegerField('What is your age:', validators=[DataRequired()])
+    num_income_source = SelectField('How many source of income do you have?', choices=[('1', '1'), ('2', '2'),
+                                                   ('3', '3'), ('4', '4&up')])
+    marriage = SelectField('Please select your marriage status', choices=[('Single', 'Single'), ('Married', 'Married')])
+    household = SelectField('Do you own a house or rent the apartment?', choices=[('H', 'Own House'), ('R', 'Rent Apartment')])
+    mortgage_loan = SelectField('Do you carry mortgage loan', choices=[('Y', 'Yes'), ('N', 'No')])
+    investment_horizon = IntegerField('What is your investment horizon:', validators=[DataRequired()])
+    yearly_income=SelectField('What is your annual income', choices=[('1', '30,000-70,000'), ('2', '70,000-100,000'),
                                                    ('3', '100,000-130,000'), ('4', '130,000-160,000'),
                                                    ('5', '160,000-200,000'), ('6', '200,000-240,000'),
                                                    ('3', '100,000-130,000') ])
-    monthly_expense = SelectField('Monthly Expense', choices=[('1', '500-1,000'), ('2', '1,000-2,500'),
+    monthly_expense = SelectField('What is your monthly expense', choices=[('1', '500-1,000'), ('2', '1,000-2,500'),
                                                    ('3', '2,500-4,000'), ('4', '4,000-5,500'),
                                                    ('5', '5,500&up') ])
+    aum = SelectField('What is your AUM(asset under managment) amount for this portfolio? ', choices=[('1', 'below 10k'), ('2', '10k-25k'),
+                                                   ('3', '25k-40k'), ('4', '40k-60k'),
+                                                   ('5', '60k&more') ])
+    knowledge = SelectField('Do you have any basic knowledge of financial instrument? ', choices=[('1', 'Yes, master level! You have over 3 years finance related working experience or have a bachelor degree with business related major'),
+                                                                                                  ('2', 'Yes, intermediate level. You have investment experience and understand the risk of financial instrument'),
+                                                                                                ('3', 'Yes, entry level. You have limit knowledge of what financial instrument is.'),
+                                                                                                ('4', 'No,novice level. You are curious to learn the basic knowledge of financial instrument')])
     submit = SubmitField('Submit')
 
 class LogInForm(FlaskForm):

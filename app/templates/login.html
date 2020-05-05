@@ -7,7 +7,11 @@ Login
 
 {% block head %}
 {{super()}}
-<link href = {{url_for('static',filename='css/bootstrap.min.css')}} rel="stylesheet">
+<style>
+.bg-custom-2 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+</style>
 {% endblock %}
 
 {% block navbar %}
@@ -19,7 +23,10 @@ Login
 <div class="container">
     {% include 'flash.html' %}
     <form method="POST">
+        </br>
+        </br>
         <h2>Login</h2>
+        </br>
         {{ wtf.quick_form(form) }}
     </form>
 </br>

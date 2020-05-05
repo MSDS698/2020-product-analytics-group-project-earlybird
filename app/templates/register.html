@@ -7,7 +7,11 @@ Register
 
 {% block head %}
 {{super()}}
-<link href="../static/css/bootstrap.min.css" rel="stylesheet">
+<style>
+.bg-custom-2 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+</style>
 {% endblock %}
 
 {% block navbar %}
@@ -19,7 +23,10 @@ Register
     {% include 'flash.html' %}
 
     <form method="POST"> <!-- post : handle submission -->
-        <h3> Sign Up </h3>
+        </br>
+        </br>
+        <h2> Sign Up </h2>
+        </br>
         {{ form.hidden_tag() }}
         {{ wtf.form_field(form.username) }}
         {{ wtf.form_field(form.email) }}

@@ -6,8 +6,18 @@ Index
 
 {% block head %}
 {{super()}}
-<link href = {{url_for('static',filename='css/bootstrap.min.css')}} rel="stylesheet">
-<link href = {{url_for('static',filename='css/index.css')}} rel="stylesheet">
+<style>
+.bg-custom-1 {
+    background-color: rgba(242, 248, 250);
+}
+.bg-custom-2 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+.bg-custom-3 {
+    background-color: rgba(255, 255, 255);
+}
+
+</style>
 {% endblock %}
 
 
@@ -16,71 +26,85 @@ Index
 {% endblock %}
 
 {% block content %}
-<div class="card">
-    <img class="card-img img-rounded" src='../static/index_bg2.jpg' height="1600">
-    <div class="card-img-overlay">
-        <h1 class="card-title text-black text-center">Early Bird</h1>
-        <h3 class="card-title text-black text-center">Your Personal Financial Advisor</h3>
-        <p class="card-text">
-            <h3><span class="iconify" data-icon="emojione-monotone:waving-hand" data-inline="false"></span>About Us</h3>
-            Our group is building an automated financial planning system Early Bird to provide third-party
-            personalized investment recommendations, a subscription newsletter, and feeds that give
-            accessible explanations for investors who are interested in active investing. </br>
+<div class="card text-black text-center bg-light" >
+    <div class = 'row'>
+    </br>
+        <div class = 'col'>
+            </br>
+            </br>
+            <div class="card-title aligh-left text-black"><h1>It's Time To Invest</h1></div>
+            </br>
+            <div class="card-title aligh-left text-black"><h1>Early Bird</h1></div>
+            </br>
+            <p class="card-text align-left">
 
-            {% if not authenticated_user %} Want to know more about? <a href="register"> Please Register</a>
-                {% else %} <a href="examples"> See the examples </a>
-            {% endif %}
-        </p>
-        <br></br>
-        <h3><span class="iconify" data-icon="mdi:feature-search-outline" data-inline="false"></span>Key Features</h3>
-        <p></p>
-        <table style="width:100%">
-            <tr>
-              <td align="center" width="50%"><img src="../static/gmail.png" width="400" height="270"></td>
-              <td align = "center" width="50%"><img src="../static/Portfolio.png" width="400" height="270"></td>
-            </tr>
-            <tr>
-                <td align="center" width="50%"><h6 class="card-title text-black text-center">Personalize Subscriber Email</h6></td>
-                <td align="center" width="50%"><h6 class="card-title text-black text-center"><a href="example">Personalize Dashboard</a></h6></td>
-            </tr>
-        </table>
-        <br></br>
-        <p class = "card-text">
-        <h3><span class="iconify" data-icon="emojione-monotone:writing-hand" data-inline="false"></span>Let us to know more about you...</h3>
-        This is a preliminary questionnaire to help us know you better and decide if you are the qualified client for our product
-        <a href="question">Start Now!</a>
-        </p>
-        <br></br>
-        <h3><span class="iconify" data-icon="bi:people" data-inline="false"></span>Meet our Teams:</h3>
-        <p></p>
-        <table style="width:100%">
-          <tr>
-            <td align="center" width="33.33%"><img src="../static/Lin_Meng.jpg" width="200" height="250"></td>
-              <td align = "center" width="33.33%"><img src="../static/Maxine_Liu.jpg" width="200" height="250"></td>
-              <td align = "center" width="33.33%"><img src="../static/Xiao_Chu.jpg" width="200" height="250"></td>
-          </tr>
-          <tr>
-              <td align="center" width="33.33%"><h6 class="card-title text-black text-center">Lin Meng</br> Business Analyst, Back-End Developer</h6></td>
-              <td align="center" width="33.33%"><h6 class="card-title text-black text-center">Maxine Liu</br>  Product Manager</h6></td>
-              <td align="center" width="33.33%"><h6 class="card-title text-black text-center">Xiao Chu</br>  Portfolio Analyst, Front-End Developer</h6></td>
-          </tr>
-          <tr>
-              <td align="center" width="33.33%"><img src="../static/Hao_Xu.jpg" width="200" height="250"></td>
-              <td align = "center" width="33.33%"><img src="../static/Jack_Dong.jpg" width="200" height="250"></td>
-              <td align = "center" width="33.33%"></td>
-          </tr>
-          <tr>
-              <td align="center" width="33.33%"><h6 class="card-title text-black text-center">Hao Xu</br> Software Engineer</h6></td>
-              <td align="center" width="33.33%"><h6 class="card-title text-black text-center">Jack Dong</br> Data Scientist</h6></td>
-              <td align="center" width="33.33%"></td>
-          </tr>
-        </table>
+                    <h4><span class="iconify" data-icon="vaadin:pie-bar-chart" data-inline="false"></span>  Automated Financial Planning System</h4>
+                    </br>
+                    <h4><span class="iconify" data-icon="cil:chart-line" data-inline="false"></span>  Personalized Investment Recommendations</h4>
+                    </br>
+                    <h4><span class="iconify" data-icon="emojione-monotone:newspaper" data-inline="false"></span>  Subscription Newsletter and Feeds</h4>
 
+            </p>
+            </br>
+            <a href="register" class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Sign Up</a>
+            </br>
+            </br>
+        </div>
+        <div class = 'col'>
+            </br>
+             <img src= {{ url_for('static',filename='pic3.png') }} class="w3-round" height="400" >
+            </br>
+        </div>
+ </div>
+<div class = "card bg-custom-1">
+    </br>
+    </br>
+    <div class="card-title text-center text-black"><h3>No Comission Fees & Subscribe for Only 5.99/month</h3></div>
+    <p class = 'card-text'>
+        Early Bird will provide stock recommendations using a proprietary algorithm and other personalized products. </br>
+        </br>
+        <a href = "question" class = "btn btn-outline-info">Try the Questionnaire</a>
+    </p>
+    </br>
+    </br>
 </div>
+<div class = "card bg-custom-3">
+    <div class = "row">
+        <div class = "col">
+            </br>
+             <img src= {{ url_for('static',filename='pic4.jpg') }} class="w3-round" height="250" width="450" >
+            </br>
+        </div>
+        <div class = 'col'>
+               </br>
+                </br>
+                <div class="card-title text-left text-black"><h3>Introducing Key Features</h3></div>
+                </br>
+                <table style="width:100%">
+                      <tr>
+                          <th style="text-align:left"><h5 text-mute>Investing any amount</h5></th>
+                          <th style="text-align:left"><h5 text-mute>View your mock portfolio</h5></th>
+                          <th style="text-align:left"><h5 text-mute>See personlize sotck recommendation</h5></th>
+                       </tr>
+                      <tr>
+                        <td style="text-align:left">Choose your own investment amount</td>
+                        <td style="text-align:left">See your mock portfolio based on our algorithm</td>
+                        <td style="text-align:left">See your customize stock recommendation</td>
+                       </tr>
+                </table>
+            </br>
+            </br>
+             <form class="form-inline my-2 my-lg-0">
+              <input class="form-control mr-sm-2" type="search" placeholder="name@email.com" aria-label="search">
+              <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Get Early Access</button>
+            </form>
+            </br>
+        </div>
+    </div>
+    <div class="card-footer bg-custom-2 text-white text-left"><h5>Developed by Early Bird</h5></div>
 {% endblock %}
 
 {% block scripts %}
 {{ super() }}
 <script src="https://code.iconify.design/1/1.0.3/iconify.min.js"></script>
-
 {% endblock %}
