@@ -17,6 +17,7 @@ def index():
 
    return render_template('index.html', authenticated_user=current_user.is_authenticated)
 
+
 @application.route('/register', methods=('GET', 'POST'))
 def register():
     registration_form = classes.RegistrationForm()
@@ -55,7 +56,6 @@ def login():
             flash('Invalid username and password combination!')
 
     return render_template('login.html', form=login_form, authenticated_user=current_user.is_authenticated)
-
 
 
 @application.route('/question', methods=['GET', 'POST'])
@@ -183,10 +183,12 @@ def question():
         #     return redirect(url_for('not_qualify'))
     return render_template('question.html', form=question_form, authenticated_user=current_user.is_authenticated)
 
+
 @application.route('/example')
 def example():
 
    return render_template('example.html')
+
 
 @application.route('/dashboard')
 @login_required
@@ -239,15 +241,6 @@ def dashboard():
     change = df_sector.change.tolist()
 
     return render_template('dashboard.html', data=recommend, profile=profile, sector=sector, change=change, score=77, source=output)
-
-
-@application.route('/plotly')
-@login_required
-def plotly():
-    ##### main plot
-    ohlc = yf.download("ELTK", period="1y").reset_index()
-    output = plotly_candle(ohlc)
-    return render_template('plotly.html', source=output)
 
 
 @application.route('/score', methods=['GET', 'POST'])

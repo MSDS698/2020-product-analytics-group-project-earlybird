@@ -1,5 +1,5 @@
 import plotly
-from plotly.graph_objs import Candlestick
+from plotly.graph_objs import Candlestick, Layout
 
 def plotly_candle(df):
 
@@ -11,7 +11,11 @@ def plotly_candle(df):
                     close=df['Close'])
     ]
 
-    fig = dict(data=data)
+    layout = Layout(
+        xaxis_rangeslider_visible=False
+    )
+
+    fig = dict(data=data, layout=layout)
     output = plotly.offline.plot(fig, include_plotlyjs=False,
                                  output_type='div')
     return output
