@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a5d71ac-669d-42f6-9d1a-8d7d3685d4c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/question.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/score.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/score.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/question.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/score.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/score.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7.db" beforeDir="false" afterPath="$PROJECT_DIR$/week7.db" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
