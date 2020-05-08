@@ -4,11 +4,9 @@ from flask_login import current_user, login_user, login_required, logout_user
 import numpy as np
 import pandas as pd
 import boto3
-import requests
 
 from flask_bootstrap import Bootstrap
-from app.candlestick import plotly_candle
-import yfinance as yf
+
 
 
 @application.route('/index')
@@ -17,7 +15,6 @@ def index():
 
    return render_template('index.html', authenticated_user=current_user.is_authenticated)
 
-
 @application.route('/register', methods=('GET', 'POST'))
 def register():
     registration_form = classes.RegistrationForm()
@@ -25,7 +22,9 @@ def register():
         username = registration_form.username.data
         password = registration_form.password.data
         email = registration_form.email.data
-
+        ##################################
+        #### UPDATE THIS (EXERCISE 1) ####
+        ##################################
         user_count = classes.User.query.filter_by(username=username).count() + classes.User.query.filter_by(email=email).count()
         if (user_count == 0):
             user = classes.User(username, email, password)
@@ -54,6 +53,7 @@ def login():
             flash('Invalid username and password combination!')
 
     return render_template('login.html', form=login_form, authenticated_user=current_user.is_authenticated)
+
 
 
 @application.route('/question', methods=['GET', 'POST'])
@@ -181,67 +181,32 @@ def question():
         #     return redirect(url_for('not_qualify'))
     return render_template('question.html', form=question_form, authenticated_user=current_user.is_authenticated)
 
-
 @application.route('/example')
 def example():
 
    return render_template('example.html')
 
-
 @application.route('/dashboard')
 @login_required
 def dashboard():
-    ##### cluster
     # assign cluster: test case
-    score = 77  ### 25, 45, 60, 75, 90
-    cluster = None
-    if score > 25 and score <= 45:
-        cluster = 0
-    elif score > 45 and score <= 60:
-        cluster = 3
-    elif score > 60 and score <= 75:
-        cluster = 4
-    elif score > 75 and score <= 90:
-        cluster = 2
-    else:
-        cluster = 1
+    n_clusters = 4
+    cluster = np.random.randint(0, n_clusters, 1)[0]
 
     # fetch cluster data from S3
     bucket = "earlybird-data"
-    file_name = f"final/nasdaq_cluster_v1.csv"
+    file_name = f"stock/cluster{cluster}.csv"
 
     s3 = boto3.client("s3")
     obj = s3.get_object(Bucket=bucket, Key=file_name)
     df = pd.read_csv(obj["Body"])
 
     # some processing steps
-    pool = df.loc[df.cluster == cluster]
-    pool["returns"] = pool["returns"].apply(lambda x: f"{np.round(100*x, 1)}%")
-    pool["volatility"] = pool["volatility"].apply(lambda x: f"{np.round(100 * x, 1)}%")
-    first = pool.sort_values(by="returns", ascending=False).iloc[0][["symbol", "company"]]
-    profile = pool.profile.iloc[0]
-    recommend = pool.sample(5)
+    recommend = df.sample(5)[['company', 'symbol', 'Market Cap', 'PE ratio', 'PB ratio', 'Revenue per Share', 'Net Income per Share']]
+    recommend['Market Cap'] = recommend['Market Cap'] / 1e9
+    recommend = np.round(recommend, 1).to_numpy()
 
-    ##### main plot
-    company = first["company"]
-    ohlc = yf.download(first["symbol"], period="1y").reset_index()
-    output = plotly_candle(ohlc)
-
-    ##### sector
-    performance = requests.get(f"https://financialmodelingprep.com/api/v3/stock/sectors-performance").json()
-    performance = performance["sectorPerformance"]
-    dict_sector = {}
-    dict_sector["sector"] = [d["sector"] for d in performance]
-    dict_sector["change"] = [d["changesPercentage"] for d in performance]
-    df_sector = pd.DataFrame(dict_sector)
-    df_sector["change"] = df_sector["change"].apply(lambda x: float(x.strip("%")))
-    df_sector = df_sector.sort_values(by="change", ascending=False).reset_index(drop=True)
-    sector = df_sector.sector.tolist()
-    change = df_sector.change.tolist()
-
-    return render_template('dashboard.html', data=recommend, profile=profile, sector=sector, change=change,
-                           score=77, source=output, company=company)
-
+    return render_template('dashboard.html', data=recommend)
 
 @application.route('/score', methods=['GET', 'POST'])
 def score():
