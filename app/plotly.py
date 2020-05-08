@@ -1,5 +1,6 @@
 import plotly
 from plotly.graph_objs import Candlestick, Layout
+# from plotly.graph_objs import *
 
 def plotly_candle(df):
 
@@ -12,7 +13,9 @@ def plotly_candle(df):
     ]
 
     layout = Layout(
-        xaxis_rangeslider_visible=False
+        xaxis_rangeslider_visible=False,
+        # paper_bgcolor='rgba(0,0,0,0)',
+        # plot_bgcolor='rgba(0,0,0,0)'
     )
 
     fig = dict(data=data, layout=layout)

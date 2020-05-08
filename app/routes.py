@@ -25,9 +25,7 @@ def register():
         username = registration_form.username.data
         password = registration_form.password.data
         email = registration_form.email.data
-        ##################################
-        #### UPDATE THIS (EXERCISE 1) ####
-        ##################################
+
         user_count = classes.User.query.filter_by(username=username).count() + classes.User.query.filter_by(email=email).count()
         if (user_count == 0):
             user = classes.User(username, email, password)
@@ -218,14 +216,15 @@ def dashboard():
 
     # some processing steps
     pool = df.loc[df.cluster == cluster]
+    pool["returns"] = pool["returns"].apply(lambda x: f"{np.round(100*x, 1)}%")
+    pool["volatility"] = pool["volatility"].apply(lambda x: f"{np.round(100 * x, 1)}%")
+    first = pool.sort_values(by="returns", ascending=False).iloc[0][["symbol", "company"]]
     profile = pool.profile.iloc[0]
     recommend = pool.sample(5)
-    recommend["returns"] = recommend["returns"].apply(lambda x: f"{np.round(100*x, 1)}%")
-    recommend["volatility"] = recommend["volatility"].apply(lambda x: f"{np.round(100 * x, 1)}%")
-    # recommend = np.round(recommend, 1).to_numpy()
 
     ##### main plot
-    ohlc = yf.download("ELTK", period="1y").reset_index()
+    company = first["company"]
+    ohlc = yf.download(first["symbol"], period="1y").reset_index()
     output = plotly_candle(ohlc)
 
     ##### sector
@@ -240,7 +239,8 @@ def dashboard():
     sector = df_sector.sector.tolist()
     change = df_sector.change.tolist()
 
-    return render_template('dashboard.html', data=recommend, profile=profile, sector=sector, change=change, score=77, source=output)
+    return render_template('dashboard.html', data=recommend, profile=profile, sector=sector, change=change,
+                           score=77, source=output, company=company)
 
 
 @application.route('/score', methods=['GET', 'POST'])
