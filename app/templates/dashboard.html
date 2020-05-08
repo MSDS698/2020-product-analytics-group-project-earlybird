@@ -6,12 +6,13 @@
 
     <title>Dashboard Template</title>
 
-
     <!-- Bootstrap core CSS -->
     <link href="../static/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../static/css/example.css" rel="stylesheet">
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   </head>
 
   <body>
@@ -111,34 +112,41 @@
         </nav>
 
         <main role="main" class="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
-          <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">
-            <h1 class="h2">Portfolio Net Worth</h1>
-            <div class="btn-toolbar mb-2 mb-md-0">
-              <div class="btn-group mr-2">
-                <button class="btn btn-sm btn-outline-secondary">Share</button>
-                <button class="btn btn-sm btn-outline-secondary">Export</button>
-              </div>
-              <button class="btn btn-sm btn-outline-secondary dropdown-toggle">
-                <span data-feather="calendar"></span>
-                This year
-              </button>
-            </div>
-          </div>
+<!--          <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pb-2 mb-3 border-bottom">-->
+<!--            <h1 class="h2">Portfolio Net Worth</h1>-->
+<!--            <div class="btn-toolbar mb-2 mb-md-0">-->
+<!--              <div class="btn-group mr-2">-->
+<!--                <button class="btn btn-sm btn-outline-secondary">Share</button>-->
+<!--                <button class="btn btn-sm btn-outline-secondary">Export</button>-->
+<!--              </div>-->
+<!--              <button class="btn btn-sm btn-outline-secondary dropdown-toggle">-->
+<!--                <span data-feather="calendar"></span>-->
+<!--                This year-->
+<!--              </button>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div>-->
+<!--            <canvas class="my-4" id="lineChart" width="900" height="300"></canvas>-->
+<!--          </div>-->
+        <h1 class="h2">Highest Performing - {{company}}</h1>
+        <div class="container">
           <div>
-            <canvas class="my-4" id="lineChart" width="900" height="300"></canvas>
+        {{ source|safe }}
           </div>
+        </div> <!-- /container -->
+
       <!-- Grid column -->
           <!-- Grid row -->
         <div class="row">
           <!-- Grid column -->
-            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="col-lg-5 col-md-6 mb-4">
 
               <div class="card">
                 <div class="card-body px-2">
                   <div class="float-left white-text pl-4">
                     <p><i class="far fa-bell pr-2 align-text-top mt-n1 icon icon-blue"></i>
                       <span
-                        class="font-weight-light h3">Sector Index Return</span></p>
+                        class="font-weight-light h3">Sector Performance</span></p>
                   </div>
                   <canvas id="horizontalBar" width="450" height="300"></canvas>
                 </div>
@@ -148,30 +156,31 @@
         <!-- Grid column -->
 
         <!-- Grid column -->
-            <div class="col-lg-4 col-md-6 mb-4">
+<!--            <div class="col-lg-4 col-md-6 mb-4">-->
+
+<!--              <div class="card">-->
+<!--                <div class="card-body px-2">-->
+<!--                  <div class="float-left white-text pl-4">-->
+<!--                    <p><span-->
+<!--                        class="font-weight-light h3">Income </span></p>-->
+<!--                  </div>-->
+<!--                  <canvas id="doughnutChart1" width="450" height="300"></canvas>-->
+<!--                </div>-->
+<!--              </div>-->
+
+<!--          </div>-->
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+            <div class="col-lg-5 col-md-6 mb-4">
 
               <div class="card">
                 <div class="card-body px-2">
                   <div class="float-left white-text pl-4">
                     <p><span
-                        class="font-weight-light h3">Income </span></p>
+                        class="font-weight-light h3">Risk Profile</span></p>
                   </div>
-                  <canvas id="doughnutChart1" width="450" height="300"></canvas>
-                </div>
-              </div>
-
-          </div>
-        <!-- Grid column -->
-        <!-- Grid column -->
-            <div class="col-lg-4 col-md-6 mb-4">
-
-              <div class="card">
-                <div class="card-body px-2">
-                  <div class="float-left white-text pl-4">
-                    <p><span
-                        class="font-weight-light h3">Spendings</span></p>
-                  </div>
-                  <canvas id="doughnutChart2" width="450" height="300"></canvas>
+                  <canvas id="myChart"></canvas>
                 </div>
               </div>
 
@@ -186,19 +195,17 @@
                 <tr>
                   <th>Company</th>
                   <th>Symbol</th>
-                  <th>Market Cap (Billion)</th>
-                  <th>P/E</th>
-                  <th>P/B</th>
-                  <th>Revenue per share</th>
-                  <th>Earning per share</th>
+                  <th>Yield Return</th>
+                  <th>Volatility</th>
                 </tr>
               </thead>
               <tbody>
-                {% for row in data %}
+                {% for i in range(5) %}
                 <tr>
-                  {% for i in row %}
-                    <td>{{i}}</td>
-                  {% endfor %}
+                  <td>{{data.iloc[i]["company"]}}</td>
+                  <td>{{data.iloc[i]["symbol"]}}</td>
+                  <td>{{data.iloc[i]["returns"]}}</td>
+                  <td>{{data.iloc[i]["volatility"]}}</td>
                 </tr>
                 {% endfor %}
               </tbody>
@@ -222,10 +229,10 @@
       var myLineChart = new Chart(ctxL, {
       type: 'line',
       data: {
-      labels: ["January", "February", "March", "April", "May", "June", "July"],
+      labels: ["January", "February", "March", "April", "May", "June"],
       datasets: [{
       label: "Actual Portfolio",
-      data: [20345, 22569, 21892, 20490, 21610, 22893, 22111],
+      data: [20345, 22569, 21892, 20490, 21610, 22893],
       backgroundColor: [
       'rgba(0, 107, 4, 0.15)',
       ],
@@ -236,7 +243,7 @@
       },
       {
       label: "Virtual Portfolio",
-      data: [20445, 22230, 22092, 20890, 20760, 22893, 22111],
+      data: [20445, 22230, 22092, 20890, 20760, 22893],
       backgroundColor: [
       'rgba(0, 77, 179, 0.2)',
       ],
@@ -290,10 +297,10 @@
       var horizontalBar = new Chart(document.getElementById("horizontalBar"), {
           "type": "horizontalBar",
           "data": {
-          "labels": ["Utilities", "Consumer Staples", "Energy", "Financial", "Health Care", "Industrials", "Information Technology"],
+          "labels": ["{{sector[0]}}", "{{sector[1]}}", "{{sector[2]}}", "{{sector[3]}}", "{{sector[4]}}", "{{sector[5]}}", "{{sector[6]}}"],
           "datasets": [{
-          "label": "Recommended Sector",
-          "data": [8.52, 10.08, 2.51, 2.36, 11.08, 8.46, 13.79],
+          "label": "Recommended Sector (%)",
+          "data": [{{change[0]}}, {{change[1]}}, {{change[2]}}, {{change[3]}}, {{change[4]}}, {{change[5]}}, {{change[6]}}],
           "fill": false,
           "backgroundColor": ["rgba(255, 99, 132, 0.2)", "rgba(255, 159, 64, 0.2)",
           "rgba(255, 205, 86, 0.2)", "rgba(75, 192, 192, 0.2)", "rgba(54, 162, 235, 0.2)",
@@ -316,5 +323,42 @@
           }
           });
         </script>
+
+<!--<script src="https://code.iconify.design/1/1.0.3/iconify.min.js"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>-->
+<script>
+    var ctx = document.getElementById('myChart').getContext('2d'),
+    gradient = ctx.createLinearGradient(0, 0, 0, 450);
+    gradient.addColorStop(0, 'rgba(200, 37, 56)');
+    gradient.addColorStop(0.5, 'rgba(69, 115, 30)');
+    gradient.addColorStop(1, 'rgba(46, 127, 24)');
+    var chart = new Chart(ctx, {
+        // The type of chart we want to create
+        type: 'doughnut',
+        // The data for our dataset
+        data: {
+            labels: ["Your Risk Score","Full Score"],
+            datasets: [{
+                label: "My First dataset",
+                backgroundColor: [gradient, 'rgb(235, 237, 235)'],
+                borderColor: '#fff',
+                data: [{{score}}, 100-{{score}}]
+            }]
+        },
+
+        // Configuration options go here
+        options: {
+            circumference: 1 * Math.PI,
+            rotation: 1 * Math.PI,
+            cutoutPercentage: 80,
+            title: {
+            fontSize : 24,
+            display: true,
+            text: '{{profile}}'
+        }
+        }
+    });
+</script>
+
   </body>
 </html>
