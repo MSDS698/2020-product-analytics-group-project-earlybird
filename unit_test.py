@@ -31,9 +31,9 @@ def test_question():
 
 def test_user():
 	# Assuming that "ddd, d@gmail.com, 1234" is always in the database
-	assert classes.User.query.filter_by(username='ddd').first().email == 'd@gmail.com'
-	assert classes.User.query.filter_by(username='ddd').first().username == 'ddd'
-	assert check_password_hash(classes.User.query.filter_by(username='ddd').first().password_hash, "1234")
+	assert classes.Investor.query.filter_by(username='ddd').first().email == 'd@gmail.com'
+	assert classes.Investor.query.filter_by(username='ddd').first().username == 'ddd'
+	assert check_password_hash(classes.Investor.query.filter_by(username='ddd').first().password_hash, "1234")
 
 
 def test_cluster():

@@ -2,13 +2,15 @@ from flask_login import UserMixin
 from flask_wtf import FlaskForm
 
 from werkzeug.security import check_password_hash, generate_password_hash
-from wtforms import  DateField, IntegerField, PasswordField, SelectField, StringField, SubmitField, FloatField
+from wtforms import DateField, IntegerField, PasswordField, SelectField, StringField, SubmitField, FloatField
 from wtforms.validators import DataRequired
 
 from app import db, login_manager
 
+
 class Question(db.Model):
     id = db.Column(db.Integer, primary_key=True)
+    username = db.Column(db.String(80), unique=True, nullable=False)
     age = db.Column(db.Integer, nullable=False)
     num_income_source = db.Column(db.Integer, nullable=False)
     marriage = db.Column(db.String(80), nullable=False)
@@ -21,7 +23,8 @@ class Question(db.Model):
     knowledge = db.Column(db.String(80), nullable=False)
     score = db.Column(db.Float, nullable=False)
 
-    def __init__(self, age, num_income_source, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense,aum, knowledge, score):
+    def __init__(self, username, age, num_income_source, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense,aum, knowledge, score):
+        self.username = username
         self.age = age
         self.num_income_source = num_income_source
         self.marriage = marriage
@@ -34,7 +37,8 @@ class Question(db.Model):
         self.knowledge = knowledge
         self.score = score
 
-class User(db.Model, UserMixin):
+
+class Investor(db.Model, UserMixin):
     id = db.Column(db.Integer, primary_key=True)
     username = db.Column(db.String(80), unique=True, nullable=False)
     email = db.Column(db.String(80), unique=True, nullable=False)
@@ -51,11 +55,13 @@ class User(db.Model, UserMixin):
     def check_password(self, password):
         return check_password_hash(self.password_hash, password)
 
+
 class RegistrationForm(FlaskForm):
     username = StringField('Username:', validators=[DataRequired()])
     email = StringField('Email:', validators=[DataRequired()])
     password = PasswordField('Password:', validators=[DataRequired()])
     submit = SubmitField('Submit')
+
 
 class QuestionForm(FlaskForm):
     age = IntegerField('What is your age:', validators=[DataRequired()])
@@ -81,10 +87,12 @@ class QuestionForm(FlaskForm):
                                                                                                 ('4', 'No,novice level. You are curious to learn the basic knowledge of financial instrument')])
     submit = SubmitField('Submit')
 
+
 class LogInForm(FlaskForm):
     username = StringField('Username:', validators=[DataRequired()])
     password = PasswordField('Password:', validators=[DataRequired()])
     submit = SubmitField('Login')
+
 
 db.create_all()
 db.session.commit()
@@ -92,4 +100,4 @@ db.session.commit()
 
 @login_manager.user_loader
 def load_user(id):
-    return User.query.get(int(id))
+    return Investor.query.get(int(id))

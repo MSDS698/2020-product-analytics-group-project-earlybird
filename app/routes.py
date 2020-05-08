@@ -26,14 +26,15 @@ def register():
         password = registration_form.password.data
         email = registration_form.email.data
 
-        user_count = classes.User.query.filter_by(username=username).count() + classes.User.query.filter_by(email=email).count()
+        user_count = classes.Investor.query.filter_by(username=username).count() + classes.Investor.query.filter_by(email=email).count()
         if (user_count == 0):
-            user = classes.User(username, email, password)
+            user = classes.Investor(username, email, password)
             db.session.add(user)
             db.session.commit()
-            return redirect(url_for('question'))
+            return redirect(url_for('login'))
         else:
             flash('Username or Email already exist!')
+
     return render_template('register.html', form=registration_form)
 
 
@@ -44,19 +45,24 @@ def login():
         username = login_form.username.data
         password = login_form.password.data
         # Look for it in the database.
-        user = classes.User.query.filter_by(username=username).first()
+        user = classes.Investor.query.filter_by(username=username).first()
+        q_user = classes.Question.query.filter_by(username=username).first()
 
         # Login and validate the user.
         if user is not None and user.check_password(password):
             login_user(user)
-            return redirect(url_for('dashboard'))
+            if q_user is not None:
+                return redirect(url_for('dashboard'))
+            else:
+                return redirect(url_for('question'))
         else:
             flash('Invalid username and password combination!')
 
-    return render_template('login.html', form=login_form, authenticated_user=current_user.is_authenticated)
+    return render_template('login.html', form=login_form)
 
 
 @application.route('/question', methods=['GET', 'POST'])
+@login_required
 def question():
     q1 = 0
     q2 = 0
@@ -72,6 +78,8 @@ def question():
 
     question_form = classes.QuestionForm()
     if question_form.validate_on_submit():
+        username = current_user.username
+
         age = question_form.age.data
         if int(age)>=18 & int(age)<22:
             q1 = 10
@@ -170,15 +178,11 @@ def question():
 
         score = q1+q2+q3+q4+q5+q6+q7+q8+q9+q10
 
-        info = classes.Question(age, num_income_source, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense, aum, knowledge, score)
+        info = classes.Question(username, age, num_income_source, marriage, household, mortgage_loan, investment_horizon, yearly_income, monthly_expense, aum, knowledge, score)
         db.session.add(info)
         db.session.commit()
         return redirect(url_for('score'))
 
-        # if Age >= 22 and Net_Wealth >= 100000:
-        #     return redirect(url_for('login'))
-        # else:
-        #     return redirect(url_for('not_qualify'))
     return render_template('question.html', form=question_form, authenticated_user=current_user.is_authenticated)
 
 
@@ -193,7 +197,8 @@ def example():
 def dashboard():
     ##### cluster
     # assign cluster: test case
-    score = 77  ### 25, 45, 60, 75, 90
+    username = current_user.username
+    score = classes.Question.query.filter_by(username=username).first().score  # 25, 45, 60, 75, 90
     cluster = None
     if score > 25 and score <= 45:
         cluster = 0

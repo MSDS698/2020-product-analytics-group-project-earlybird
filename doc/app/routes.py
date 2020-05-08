@@ -19,9 +19,9 @@ def register():
         ##################################
         #### UPDATE THIS (EXERCISE 1) ####
         ##################################
-        user_count = classes.User.query.filter_by(username=username).count() + classes.User.query.filter_by(email=email).count()
+        user_count = classes.Investor.query.filter_by(username=username).count() + classes.Investor.query.filter_by(email=email).count()
         if (user_count == 0):
-            user = classes.User(username, email, password)
+            user = classes.Investor(username, email, password)
             db.session.add(user)
             db.session.commit()
             return redirect(url_for('register_project'))
@@ -38,7 +38,7 @@ def login():
         username = login_form.username.data
         password = login_form.password.data
         # Look for it in the database.
-        user = classes.User.query.filter_by(username=username).first()
+        user = classes.Investor.query.filter_by(username=username).first()
 
         # Login and validate the user.
         if user is not None and user.check_password(password):
