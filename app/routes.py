@@ -7,7 +7,7 @@ import boto3
 import requests
 
 from flask_bootstrap import Bootstrap
-from app.plotly import plotly_candle
+from app.candlestick import plotly_candle
 import yfinance as yf
 
 

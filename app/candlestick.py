@@ -1,6 +1,6 @@
 import plotly
 from plotly.graph_objs import Candlestick, Layout
-# from plotly.graph_objs import *
+
 
 def plotly_candle(df):
 
