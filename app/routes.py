@@ -92,89 +92,89 @@ def question():
 
         num_income_source = question_form.num_income_source.data
         if num_income_source =='1':
-            q2 = 10
-        elif num_income_source == '2':
-            q2 = 7.5
-        elif num_income_source == '3':
-            q2 = 5
-        else:
             q2 = 2.5
+        elif num_income_source == '2':
+            q2 = 5
+        elif num_income_source == '3':
+            q2 = 7.5
+        else:
+            q2 = 10
 
         marriage = question_form.marriage.data
         if marriage == 'Single':
-            q3 = 10
-        else:
             q3 = 5
+        else:
+            q3 = 10
 
         household = question_form.household.data
         if household == 'R':
-            q4 = 10
-        else:
             q4 = 5
+        else:
+            q4 = 10
 
         mortgage_loan = question_form.mortgage_loan.data
         if mortgage_loan == 'N':
-            q5 = 5
-        else:
             q5 = 10
+        else:
+            q5 = 5
 
         investment_horizon = question_form.investment_horizon.data
         if investment_horizon <= 5:
-            q6 = 10
-        elif investment_horizon >5 & investment_horizon <=7:
-            q6 = 7.5
-        elif investment_horizon > 7 & investment_horizon <=10:
-            q6 = 5
-        else:
             q6 = 2.5
+        elif investment_horizon >5 & investment_horizon <=7:
+            q6 = 5
+        elif investment_horizon > 7 & investment_horizon <=10:
+            q6 = 7.5
+        else:
+            q6 = 10
 
         yearly_income = question_form.yearly_income.data
         if yearly_income == '1':
-            q7 = 10
-        elif yearly_income =='2':
-            q7 = 8
-        elif yearly_income == '3':
-            q7 = 6
-        elif yearly_income =='4':
-            q7 = 4
-        elif yearly_income == '5':
-            q7 = 2
-        else:
             q7 = 0
+        elif yearly_income =='2':
+            q7 = 2
+        elif yearly_income == '3':
+            q7 = 4
+        elif yearly_income =='4':
+            q7 = 6
+        elif yearly_income == '5':
+            q7 = 8
+        else:
+            q7 = 10
 
         monthly_expense = question_form.monthly_expense.data
         if monthly_expense == '1':
-            q8 = 2
+            q8 = 10
         elif monthly_expense == '2':
-            q8 = 4
+            q8 = 8
         elif monthly_expense == '3':
             q8 =6
         elif monthly_expense == '4':
-            q8 = 8
+            q8 = 4
         else:
-            q8 = 10
+            q8 = 2
 
         knowledge = question_form.knowledge.data
         if knowledge == '1':
-            q9 = 2.5
-        elif knowledge == '2':
-            q9 = 5
-        elif knowledge == '3':
-            q9 = 7.5
-        else:
             q9 = 10
+        elif knowledge == '2':
+            q9 = 7.5
+        elif knowledge == '3':
+            q9 = 5
+        else:
+            q9 = 2.5
 
         aum = question_form.aum.data
         if aum == '1':
-            q10 = 10
+            q10 = 2
         elif aum == '2':
-            q10 = 8
+            q10 = 4
         elif aum == '3':
             q10 = 6
         elif aum == '4':
-            q10 = 4
+            q10 = 8
         elif aum == '5':
-            q10 = 2
+            q10 = 10
 
         score = q1+q2+q3+q4+q5+q6+q7+q8+q9+q10
 
@@ -196,7 +196,7 @@ def example():
 @login_required
 def dashboard():
     ##### cluster
-    # assign cluster: test case
+    # assign cluster
     username = current_user.username
     score = classes.Question.query.filter_by(username=username).first().score  # 25, 45, 60, 75, 90
     cluster = None
@@ -221,9 +221,9 @@ def dashboard():
 
     # some processing steps
     pool = df.loc[df.cluster == cluster]
+    first = pool.sort_values(by="returns", ascending=False).iloc[0][["symbol", "company"]]
     pool["returns"] = pool["returns"].apply(lambda x: f"{np.round(100*x, 1)}%")
     pool["volatility"] = pool["volatility"].apply(lambda x: f"{np.round(100 * x, 1)}%")
-    first = pool.sort_values(by="returns", ascending=False).iloc[0][["symbol", "company"]]
     profile = pool.profile.iloc[0]
     recommend = pool.sample(5)
 
@@ -245,7 +245,7 @@ def dashboard():
     change = df_sector.change.tolist()
 
     return render_template('dashboard.html', data=recommend, profile=profile, sector=sector, change=change,
-                           score=77, source=output, company=company)
+                           score=score, source=output, company=company)
 
 
 @application.route('/score', methods=['GET', 'POST'])
