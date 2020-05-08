@@ -67,4 +67,5 @@ wget==3.2
 WTForms==2.2.1
 xlrd==1.2.0
 yamllint==1.20.0
+yfinance==0.1.54
 zipp==3.1.0
