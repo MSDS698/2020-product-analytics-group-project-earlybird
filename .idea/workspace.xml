@@ -3,11 +3,40 @@
   <component name="ChangeListManager">
     <list default="true" id="0a5d71ac-669d-42f6-9d1a-8d7d3685d4c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/doc/app/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7.db" beforeDir="false" afterPath="$PROJECT_DIR$/week7.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Hao_Xu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Jack_Dong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Lin_Meng.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Maxine_Liu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Portfolio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Xiao_Chu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/example.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/pic3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/pic4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/piggy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/question_banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/flash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/question.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/score.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
