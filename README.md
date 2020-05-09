@@ -9,6 +9,8 @@ Our target clients are inexperienced investors that have short or mid-term inves
 interested in managing their own portfolios. The only thing clients have to do is to sign up and complete a questionnaire regarding investment
 goals and risk tolerance level Early Bird will provide stock recommendations using a proprietary algorithm and other personalized products.
 
+**We're here to help，Start your Finance Journey Today!**
+
 ## Getting Started
 
 **Check out the web application**: [Early Bird](http://earlybirdfinaltest-app.eba-3ak3dhai.us-west-2.elasticbeanstalk.com/)
