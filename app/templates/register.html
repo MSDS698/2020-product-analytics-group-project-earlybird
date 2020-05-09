@@ -15,8 +15,15 @@
 }
 </style>
 
-{{super()}}
-{% include 'ga.html' %}
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165971363-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165971363-1');
+</script>
+
 {% endblock %}
 
 {% block navbar %}
