@@ -6,21 +6,32 @@
 
 **Try deploy Earlybird locally**:
 
-1. Direct to a local path you wish and clone the repo
+1. Direct to a local path you wish and clone the repo.
 
 ```
 $ cd ...
 $ git clone https://github.com/MSDS698/2020-product-analytics-group-project-earlybird.git
 ```
 
-2. Enter the folder, create and activate a virtual environment
+2. Enter the folder, create and activate a virtual environment.
 
-`$ cd 2020-product-analytics-group-project-earlybird`
+```
+$ cd 2020-product-analytics-group-project-earlybird
+$ python -m venv YOUR_ENV_NAME
+$ source YOUR_ENV_NAME/bin/activate
+```
 
-`$ python -m venv YOUR_ENV_NAME`
+3. Install the required packages.
 
-`$ source YOUR_ENV_NAME/bin/activate`
+```
+$ pip install -r requirements.txt
+```
 
+4. You're ready to go! Just run
+
+```
+$ flask run
+```
 
 ## Team Members
 
