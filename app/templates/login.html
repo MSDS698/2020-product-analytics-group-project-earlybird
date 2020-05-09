@@ -6,15 +6,22 @@
 {% endblock %}
 
 {% block head %}
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165971363-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165971363-1');
+</script>
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 <style>
 .bg-custom-2 {
   background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 }
 </style>
-
-{{super()}}
-{% include "ga.html" %}
 
 {% endblock %}
 
