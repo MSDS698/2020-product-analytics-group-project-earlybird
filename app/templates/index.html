@@ -3,6 +3,11 @@
 {% endblock %}
 
 {% block head %}
+{{super()}}
+{% include "ga.html" %}
+{% endblock %}
+
+{% block head %}
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 <style>
 .bg-custom-1 {
