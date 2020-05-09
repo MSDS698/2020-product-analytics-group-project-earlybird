@@ -8,9 +8,11 @@
 
 1. Direct to a local path you wish and clone the repo
 
-`$ cd ...`
+```
+$ cd ...
 
-`$ git clone https://github.com/MSDS698/2020-product-analytics-group-project-earlybird.git`
+$ git clone https://github.com/MSDS698/2020-product-analytics-group-project-earlybird.git
+```
 
 2. Enter the folder, create and activate a virtual environment
 
