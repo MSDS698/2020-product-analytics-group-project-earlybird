@@ -28,7 +28,7 @@
 <div class="container">
     {% include 'flash.html' %}
 
-    <form method="POST"> <!-- post : handle submission -->
+    <form method="POST" onsubmit="gtag('event','click',{'event_category':'submit questions', 'event_label':'submit_q', 'value':10})";> <!-- post : handle submission -->
         </br>
         </br>
         <h2> Preliminary Questionnaire </h2>

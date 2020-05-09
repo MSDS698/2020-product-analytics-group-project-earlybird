@@ -1,3 +1,4 @@
+{% extends "bootstrap/base.html" %}
 {% import "bootstrap/wtf.html" as wtf %}
 
 
@@ -6,7 +7,7 @@
 {% endblock %}
 
 {% block analytics %}
-
+    {{super()}}
     {% include 'ga.html' %}
     
 {% endblock %}
@@ -29,7 +30,7 @@
 <div class="container">
     {% include 'flash.html' %}
 
-    <form method="POST" onsubmit="gtag('event','click',{'event_category':'register', 'event_label':'submit', 'value':10})"> <!-- post : handle submission -->
+    <form method="POST" onsubmit="gtag('event','click',{'event_category':'register', 'event_label':'submit', 'value':10})";> <!-- post : handle submission -->
         </br>
         </br>
         <h2> Sign Up </h2>
