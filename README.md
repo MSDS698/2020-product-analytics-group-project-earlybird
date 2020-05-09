@@ -1,8 +1,17 @@
 # 2020-product-analytics-group-project-earlybird
 
+## Intro
+
+Early Bird is an app that provides third-party personalized investment recommendations, a subscription newsletter,
+and feeds that give accessible explanations for an over-looked segment of investors who are interested in active investing.
+
+Our target clients are inexperienced investors that have short or mid-term investment horizons with AUM less than 50K and are
+interested in managing their own portfolios. The only thing clients have to do is to sign up and complete a questionnaire regarding investment
+goals and risk tolerance level Early Bird will provide stock recommendations using a proprietary algorithm and other personalized products.
+
 ## Getting Started
 
-**Check out the web application**: [Earlybird](http://earlybirdfinaltest-app.eba-3ak3dhai.us-west-2.elasticbeanstalk.com/)
+**Check out the web application**: [Early Bird](http://earlybirdfinaltest-app.eba-3ak3dhai.us-west-2.elasticbeanstalk.com/)
 
 **Try deploy Earlybird locally**:
 
