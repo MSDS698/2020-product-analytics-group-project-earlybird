@@ -37,7 +37,7 @@ def register():
 
     return render_template('register.html', form=registration_form)
 
-@application.route('/about')
+@application.route('/about', methods=['GET', 'POST'])
 def about():
     return render_template('about.html')
 
