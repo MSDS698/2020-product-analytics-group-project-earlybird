@@ -10,7 +10,6 @@
 
 ```
 $ cd ...
-
 $ git clone https://github.com/MSDS698/2020-product-analytics-group-project-earlybird.git
 ```
 
